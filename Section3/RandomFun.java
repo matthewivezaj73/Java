@@ -7,5 +7,9 @@
 import java.util.random;
 //Creating a public Java class called RandomFun.
 public class RandomFun {
-    
+    //Creating a main method.
+    public static void main(String[] args)
+    {
+        
+    }
 }
