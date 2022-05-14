@@ -12,5 +12,8 @@ public class RandomFun {
     {
         //Creating an integer.
         int myRandomNumber;
+
+        //Assigning a value to myRandomNumber.
+        
     }
 }
