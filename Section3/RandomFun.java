@@ -16,6 +16,6 @@ public class RandomFun {
         int myRandomNumber;
 
         //Assigning a value to myRandomNumber.
-        myRandomNumber = new random.nextInt();
+        myRandomNumber = random.nextInt();
     }
 }
