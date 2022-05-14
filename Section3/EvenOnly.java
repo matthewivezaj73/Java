@@ -9,21 +9,22 @@ public class EvenOnly {
         Scanner keyboard = new Scanner(System.in);
         //Creating an int.
         int myNum = 0;
-        //Printing a message to the user.
-        System.out.print("Please enter an even number: ");
         //Looping through and incrementing myNum by 1.
-        while(myNum < 11)
+        while(myNum < 10)
         {
-            //Handling the case where myNum is equal to 11.
-            if(myNum == 11)
+            //Handling the case where myNum is equal to 0.
+            if(myNum%2 != 0)
             {
-                //Incrementing myNum by 1.
-                myNum+=2;
-                //breaking out of the loop.
-                break;
+                //Incrementing myNum.
+                myNum++;
+                //Continuing the loop.
+                continue;
             }
-
-
+            //Printing out the number.
+            System.out.println(myNum);
+            //Incrementing myNum.
+            myNum++;
         }
     }
 }
+
