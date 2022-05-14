@@ -5,7 +5,6 @@
 */
 //Importing library.
 import java.util.Random;
-import java.util.random;
 //Creating a public Java class called RandomFun.
 public class RandomFun {
     //Creating a main method.
