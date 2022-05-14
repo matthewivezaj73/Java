@@ -4,6 +4,7 @@
     RandomFun
 */
 //Importing library.
+import java.util.Random;
 import java.util.random;
 //Creating a public Java class called RandomFun.
 public class RandomFun {
@@ -11,6 +12,7 @@ public class RandomFun {
     public static void main(String[] args)
     {
         //Creating a new random object.
+        Random random = new Random();
         //Creating an integer.
         int myRandomNumber;
 
