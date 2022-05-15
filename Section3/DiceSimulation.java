@@ -5,7 +5,7 @@ public class DiceSimulation {
     //Creating a main method.
     public static void main(String[] args)
     {
-        //Creating a new random object.
+        //Creating a new dice object.
         Random dice = new Random();
     }
 }
