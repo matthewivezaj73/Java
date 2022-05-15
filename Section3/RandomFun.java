@@ -27,5 +27,6 @@ public class RandomFun {
         myRandomNumber = random.nextInt(1000) + 1;
 
         //Displaying the random number to the user.
+        System.out.println("1 through 1000:\t" + myRandomNumber);
     }
 }
