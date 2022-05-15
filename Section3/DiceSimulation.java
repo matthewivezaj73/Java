@@ -14,6 +14,7 @@ public class DiceSimulation {
         //Creating a for loop.
         for(int i = 0; i < 7; i++)
         {
+            //Printing the value of the dice.
             System.out.println(diceSimulator);
         }
       
