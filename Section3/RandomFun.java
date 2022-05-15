@@ -17,5 +17,6 @@ public class RandomFun {
 
         //Assigning a value to myRandomNumber.
         myRandomNumber = random.nextInt();
+        //Printing out a message to the user.
     }
 }
