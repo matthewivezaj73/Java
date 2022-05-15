@@ -14,6 +14,8 @@ public class DiceSimulation {
         //Creating a for loop.
         for(int i = 0; i < 11; i++)
         {
+            //Grabbing the next integer.
+            dice.nextInt();
             //Printing the value of the dice.
             System.out.println(dice);
             //Incrementing i.
