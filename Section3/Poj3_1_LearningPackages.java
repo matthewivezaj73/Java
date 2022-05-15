@@ -4,6 +4,7 @@ public class Poj3_1_LearningPackages {
     public static void main(String[] args)
     {
         //Adding a variable to accept user input.
+        
     }
     
 }
