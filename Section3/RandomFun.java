@@ -14,7 +14,6 @@ public class RandomFun {
         Random random = new Random();
         //Creating an integer.
         int myRandomNumber;
-
         //Assigning a value to myRandomNumber.
         myRandomNumber = random.nextInt();
         //Printing out a message to the user.
