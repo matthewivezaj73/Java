@@ -18,5 +18,6 @@ public class RandomFun {
         //Assigning a value to myRandomNumber.
         myRandomNumber = random.nextInt();
         //Printing out a message to the user.
+        System.out.println("The random number is:\t" + myRandomNumber);
     }
 }
