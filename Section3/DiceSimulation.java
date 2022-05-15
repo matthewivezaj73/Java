@@ -17,6 +17,7 @@ public class DiceSimulation {
             //Printing the valuediceSimulator of the die.
             System.out.println(i);
             //Incrementing i.
+            i++;
         }
         
     }
