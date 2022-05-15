@@ -8,14 +8,12 @@ public class DiceSimulation {
         //Creating a new random object.
         Random dice = new Random();
         //Creating a for loop.
-        for(int i = 0; i < 20; i++)
+        for(int i = 0; i < 10; i++)
         {
             //Grabbing the next integer.
             int my_dice = dice.nextInt(6);
             //Printing the value of the dice.
             System.out.println(my_dice);
-            //Incrementing i.
-            i++;
         }
     }
 }
