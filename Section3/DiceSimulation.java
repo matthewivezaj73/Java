@@ -15,7 +15,7 @@ public class DiceSimulation {
         for(int i = 0; i < 7; i++)
         {
             //Printing the value of the dice.
-            System.out.println(diceSimulator);
+            System.out.println(diceSimulator+1);
             //Incrementing i.
             i++;
         }
