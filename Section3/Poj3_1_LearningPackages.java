@@ -13,6 +13,9 @@ public class Poj3_1_LearningPackages {
  
         //Grabbing user input.
         userpackage = keyboard.next();
+
+
+        //Making a switch statement.
     }
     
 }
