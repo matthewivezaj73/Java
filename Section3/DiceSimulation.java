@@ -14,7 +14,8 @@ public class DiceSimulation {
         //Creating a for loop.
         for(int i = 0; i < 10; i++)
         {
-
+            //Printing the valuediceSimulator of the die.
+            System.out.println(diceSimulator);
         }
         
     }
