@@ -6,6 +6,7 @@ public class Poj3_1_LearningPackages {
     {
         //Adding a variable to accept user input.
         String userInput;
+        //Grabbing user input.
     }
     
 }
