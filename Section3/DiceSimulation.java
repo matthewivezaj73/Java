@@ -8,5 +8,6 @@ public class DiceSimulation {
         //Creating a new dice object.
         Random dice = new Random();
         //Creating a variable.
+        int diceSimulator; 
     }
 }
