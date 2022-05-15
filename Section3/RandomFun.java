@@ -25,5 +25,7 @@ public class RandomFun {
 
         //Shifting the generator so that it includes 1000.
         myRandomNumber = random.nextInt(1000) + 1;
+
+        //Displaying the random number to the user.
     }
 }
