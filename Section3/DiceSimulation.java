@@ -11,7 +11,7 @@ public class DiceSimulation {
         int diceSimulator; 
         //Assigning a value to myRandomNumber.
         diceSimulator = dice.nextInt(6) + 1;
-
+        //Creating a for loop.
         System.out.println(diceSimulator);
       
         
