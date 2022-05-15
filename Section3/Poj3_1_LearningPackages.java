@@ -8,6 +8,8 @@ public class Poj3_1_LearningPackages {
         Scanner keyboard = new Scanner(System.in);
         //Adding a variable to accept user input.
         String userpackage;
+        //Adding a package variable.
+        String packageChosen;
         //Accepting input from the user.
         userpackage = keyboard.next();
  
