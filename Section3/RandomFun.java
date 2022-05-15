@@ -18,6 +18,7 @@ public class RandomFun {
         myRandomNumber = random.nextInt();
         //Printing out a message to the user.
         System.out.println("The random number is:\t" + myRandomNumber);
-        //Grabbing a random number
+        //Grabbing a random number.
+        myRandomNumber = random.nextInt(1000);
     }
 }
