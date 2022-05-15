@@ -7,12 +7,12 @@ public class Poj3_1_LearningPackages {
         //Creating a scanner object.
         Scanner keyboard = new Scanner(System.in);
         //Adding a variable to accept user input.
-        String userInput;
+        String package;
         //Accepting input from the user.
-        userInput = keyboard.next();
+        package = keyboard.next();
  
         //Grabbing user input.
-        userInput = keyboard.next();
+        package = keyboard.next();
     }
     
 }
