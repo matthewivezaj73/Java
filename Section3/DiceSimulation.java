@@ -15,7 +15,7 @@ public class DiceSimulation {
         for(int i = 0; i < 6; i++)
         {
             //Printing the valuediceSimulator of the die.
-            System.out.println(diceSimulator);
+            System.out.println(i);
         }
         
     }
