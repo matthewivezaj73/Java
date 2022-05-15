@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContinueBreak",
+            "request": "launch",
+            "mainClass": "ContinueBreak",
+            "projectName": "Java-1_82dce2b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ControlStatementsIntro",
+            "request": "launch",
+            "mainClass": "ControlStatementsIntro",
+            "projectName": "Java-1_82dce2b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiceSimulation",
+            "request": "launch",
+            "mainClass": "DiceSimulation",
+            "projectName": "Java-1_82dce2b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenOnly",
+            "request": "launch",
+            "mainClass": "EvenOnly",
+            "projectName": "Java-1_82dce2b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fraternity",
+            "request": "launch",
+            "mainClass": "Fraternity",
+            "projectName": "Java-1_82dce2b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch GradeFun",
+            "request": "launch",
+            "mainClass": "GradeFun",
+            "projectName": "Java-1_82dce2b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomFun",
+            "request": "launch",
+            "mainClass": "RandomFun",
+            "projectName": "Java-1_82dce2b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepititionFun",
+            "request": "launch",
+            "mainClass": "RepititionFun",
+            "projectName": "Java-1_82dce2b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionFun",
+            "request": "launch",
+            "mainClass": "SelectionFun",
+            "projectName": "Java-1_82dce2b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumFun",
+            "request": "launch",
+            "mainClass": "SumFun",
+            "projectName": "Java-1_82dce2b6"
+        }
+    ]
+}

@@ -10,7 +10,7 @@ public class DiceSimulation {
         //Creating a variable.
         int diceSimulator; 
         //Assigning a value to myRandomNumber.
-        diceSimulator = dice.nextInt();
+        diceSimulator = dice.nextInt(6) + 1;
         //Printing the valuediceSimulator of the die.
         System.out.println(diceSimulator);
     }
