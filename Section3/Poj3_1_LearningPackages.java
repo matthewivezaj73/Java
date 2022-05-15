@@ -14,11 +14,11 @@ public class Poj3_1_LearningPackages {
         //Grabbing user input.
         userpackage = keyboard.next();
 
-
+        //Displaying the available packages to the user.
         //Making a switch statement.
         switch (userpackage)
         {
-            
+
         }
     }
     
