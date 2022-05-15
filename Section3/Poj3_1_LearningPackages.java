@@ -5,9 +5,12 @@ public class Poj3_1_LearningPackages {
     public static void main(String[] args)
     {
         //Creating a scanner object.
-        keyboard = keyboard.nextLine();
+        Scanner keyboard = new Scanner(System.in);
         //Adding a variable to accept user input.
         String userInput;
+        //Accepting input from the user.
+        userInput = keyboard.next();
+ 
         //Grabbing user input.
         userInput = keyboard.next();
     }
