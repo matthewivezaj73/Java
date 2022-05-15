@@ -16,6 +16,10 @@ public class Poj3_1_LearningPackages {
 
 
         //Making a switch statement.
+        switch (userpackage)
+        {
+            
+        }
     }
     
 }
