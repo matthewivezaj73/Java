@@ -12,7 +12,10 @@ public class DiceSimulation {
         //Assigning a value to myRandomNumber.
         diceSimulator = dice.nextInt(6) + 1;
         //Creating a for loop.
-        System.out.println(diceSimulator);
+        for(int i = 0; i < 7; i++)
+        {
+            System.out.println(diceSimulator);
+        }
       
         
     }
