@@ -5,23 +5,17 @@ public class DiceSimulation {
     //Creating a main method.
     public static void main(String[] args)
     {
-        //Creating a new dice object.
-        Random dice = new Random(6) ;
-        //Creating a variable.
-        // int diceSimulator; 
-        // //Assigning a value to myRandomNumber.
-        // diceSimulator = dice.nextInt(6)+ 1;
+        //Creating a new random object.
+        Random dice = new Random();
         //Creating a for loop.
-        for(int i = 0; i < 11; i++)
+        for(int i = 0; i < 20; i++)
         {
             //Grabbing the next integer.
-            dice.nextInt();
+            int my_dice = dice.nextInt(6);
             //Printing the value of the dice.
-            System.out.println(dice);
+            System.out.println(my_dice);
             //Incrementing i.
             i++;
         }
-      
-        
     }
 }
