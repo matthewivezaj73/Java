@@ -11,6 +11,7 @@ public class DiceSimulation {
         int diceSimulator; 
         //Assigning a value to myRandomNumber.
         diceSimulator = dice.nextInt();
-        //Printing the value of the die.
+        //Printing the valuediceSimulator of the die.
+        
     }
 }
