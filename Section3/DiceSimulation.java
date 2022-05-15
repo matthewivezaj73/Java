@@ -9,5 +9,7 @@ public class DiceSimulation {
         Random dice = new Random();
         //Creating a variable.
         int diceSimulator; 
+        //Assigning a value to myRandomNumber.
+        diceSimulator = Random.nextInt();
     }
 }
