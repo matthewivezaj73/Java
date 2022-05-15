@@ -20,5 +20,6 @@ public class RandomFun {
         System.out.println("The random number is:\t" + myRandomNumber);
         //Grabbing a random number between 0 and 999, because 1000 is excluded.
         myRandomNumber = random.nextInt(1000);
+        //Printing a message to the user.
     }
 }
