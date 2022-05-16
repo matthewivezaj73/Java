@@ -68,6 +68,7 @@ public class Poj3_1_LearningPackages {
                 //Handling the case where the input was not understood.
                 else
                 {
+                    //Telling the user that what they entered was invalid.
                     System.out.println("Sorry, I did not get that.");
                 }
                 //Breaking from the statement.
