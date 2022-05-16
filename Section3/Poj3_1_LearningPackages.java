@@ -21,7 +21,7 @@ public class Poj3_1_LearningPackages {
         switch (userpackage)
         {
             case 'Learning Package 1':
-                System.out.println();
+                System.out.println("This package is $10/month and includes 2 courses per month.\nEach additional course is $6.");
                 break;
         }
     }
