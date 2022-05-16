@@ -57,6 +57,7 @@ public class Poj3_1_LearningPackages {
                 //Creating an if, else if, else statement.
                 if(courseNumber > 0)
                 {
+                    //Printing a message to the user telling them how much the total is.
                     System.out.println("Your total is, " + (10 + (courseNumber * 4)));
                 }
                 //Handling the case where the user enters 0 for extra courses.
