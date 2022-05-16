@@ -59,6 +59,16 @@ public class Poj3_1_LearningPackages {
                 {
                     System.out.println("This package is");
                 }
+                else if(courseNumber == 0)
+                {
+                    System.out.println("Your total is, " + 10);
+                }
+                else
+                {
+                    System.out.println("Sorry, I did not get that.");
+                }
+                //Breaking from the statement.
+                break;
                 //Breaking from the statement.
                 break;
             //Handling case 3.
