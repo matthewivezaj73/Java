@@ -29,7 +29,7 @@ public class Poj3_1_LearningPackages {
             //Handling case 2.
             case 'Learning Package 2':
                 //Printing a message regarding package details to the user.
-                System.out.println()
+                System.out.println("This package is $12/month and it includes 4 courses per month.\nEach additional course is $4.");
         }
     }
     
