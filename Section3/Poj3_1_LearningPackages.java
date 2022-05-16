@@ -14,7 +14,7 @@ public class Poj3_1_LearningPackages {
         "\nPlease enter \'2\' to select package 2.\nPlease enter \'3\'"+
         " to select package 3.\nPlease enter your choice here:\t\t");
         //Grabbing user input.
-        userpackage = keyboard.next().charAt(0);;
+        userpackage = keyboard.next().charAt(0);
 
         //Creating a switch statement.
         switch (userpackage)
@@ -23,7 +23,8 @@ public class Poj3_1_LearningPackages {
             case '1':
                 //Printing out a message regarding the package to the user.
                 System.out.println("This package is $10/month.\nEach additional course is $6.");
-                //Asking the user how many course they would like to take.
+                //Asking the user how many course they would like to take.\
+                numberOfCourses = 
                 //Breaking from the statement.
                 break;
             //Handling case 2.
