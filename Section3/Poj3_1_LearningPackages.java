@@ -8,36 +8,40 @@ public class Poj3_1_LearningPackages {
         //Creating a scanner object.
         Scanner keyboard = new Scanner(System.in);
         //Adding a variable to accept user input.
-        String userpackage;
+        char userpackage;
         //Adding a package variable.
         String packageChosen;
-        //Accepting input from the user.
-        userpackage = keyboard.next();
  
         //Grabbing user input.
-        userpackage = keyboard.next();
+        userpackage = keyboard.next().charAt(0);;
 
-        //Displaying the available packages to the user.
-        //Making a switch statement.
+        //Creating a switch statement.
         switch (userpackage)
         {
             //Handling case 1.
-            case 'Learning Package 1':
-                //Printing a message regarding package details to the user.
+            case '1':
                 System.out.println("This package is $10/month and includes 2 courses per month.\nEach additional course is $6.");
                 //Breaking from the statement.
                 break;
             //Handling case 2.
-            case 'Learning Package 2':
+            case '2':
                 //Printing a message regarding package details to the user.
                 System.out.println("This package is $12/month and it includes 4 courses per month.\nEach additional course is $4.");
                 //Breaking from the statement.
                 break;
             //Handling case 3.
-            case 'Learning Package 3':
+            case '3':
                 //Printing a message regarding package details to the user.
-                System.out.println("This package is $15/month and it includes 6 courses per month.\nEach additional course is $3.")
+                System.out.println("This package is $15/month and it includes 6 courses per month.\nEach additional course is $3.");
+                //Breaking from the statement.
+                break;
+            //Handling the default case.
+            default:
+                //Notifying the user what they entered is invalid.
+                System.out.println("You have entered an invalid package.");
+                //Does not require a break since it is the last option.
         }
+
     }
     
 }
