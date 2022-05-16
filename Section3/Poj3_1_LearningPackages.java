@@ -31,7 +31,8 @@ public class Poj3_1_LearningPackages {
                 courseNumber = keyboard.nextInt();
                 //Telling the user how much money that will be per month.
                 System.out.println("Your total per month is, " + (10 * courseNumber));
-                if(courseNumber > 2)
+                //Checking if the user asked for more than 0 courses.
+                if(courseNumber > 0)
                 {
                     //Printing a message to the user.
                     System.out.println();
