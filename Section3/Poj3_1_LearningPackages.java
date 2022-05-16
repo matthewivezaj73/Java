@@ -50,6 +50,8 @@ public class Poj3_1_LearningPackages {
             case '2':
                 //Printing a message regarding package details to the user.
                 System.out.println("This package is $12/month and it includes 4 courses per month.\nEach additional course is $4.");
+                //Instructing the user to enter any more courses they would like to take.
+                
                 //Breaking from the statement.
                 break;
             //Handling case 3.
