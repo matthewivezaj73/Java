@@ -9,7 +9,7 @@ public class Poj3_1_LearningPackages {
         Scanner keyboard = new Scanner(System.in);
         //Adding a variable to accept user input.
         char userpackage;
- 
+        //Displaying choices to the user.
         //Grabbing user input.
         userpackage = keyboard.next().charAt(0);;
 
