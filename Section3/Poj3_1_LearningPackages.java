@@ -31,7 +31,8 @@ public class Poj3_1_LearningPackages {
                 System.out.println("Your total per month is, " + (10 * courseNumber));
                 if(courseNumber > 2)
                 {
-                    
+                    //Printing a message to the user.
+                    System.out.println();
                 }
                 //Breaking from the statement.
                 break;
