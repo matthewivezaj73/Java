@@ -31,6 +31,7 @@ public class Poj3_1_LearningPackages {
                 //Printing a message regarding package details to the user.
                 System.out.println("This package is $12/month and it includes 4 courses per month.\nEach additional course is $4.");
                 //Breaking from the statement.
+                break;
         }
     }
     
