@@ -11,7 +11,8 @@ public class Poj3_1_LearningPackages {
         char userpackage;
         //Displaying choices to the user.
         System.out.println("Please enter \'1\' to select package 1 (Package 1 includes 2 courses for $10/month with $6 for each additional course)."+
-        "\nPlease enter \'2\' to select package 2 (Package 2 includes 4 courses for $12/month with $4 for each additional course).\nPlease enter \'3\' to select package 3 (Package 3 includes 6 courses for $15/month with $3 for each additional course).\nPlease enter your choice here:\t\t");
+        "\nPlease enter \'2\' to select package 2 (Package 2 includes 4 courses for $12/month with $4 for each additional course).\nPlease enter \'3\'"+
+        " to select package 3 (Package 3 includes 6 courses for $15/month with $3 for each additional course).\nPlease enter your choice here:\t\t");
         //Grabbing user input.
         userpackage = keyboard.next().charAt(0);;
 
