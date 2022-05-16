@@ -9,6 +9,7 @@ public class Poj3_1_LearningPackages {
         Scanner keyboard = new Scanner(System.in);
         //Adding a variable to accept user input.
         char userpackage;
+        //Creating a variable to hold user number of courses.
         //Displaying choices to the user.
         System.out.println("Please enter \'1\' to select package 1."+
         "\nPlease enter \'2\' to select package 2.\nPlease enter \'3\'"+
