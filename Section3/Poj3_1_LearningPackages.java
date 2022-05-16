@@ -9,8 +9,6 @@ public class Poj3_1_LearningPackages {
         Scanner keyboard = new Scanner(System.in);
         //Adding a variable to accept user input.
         char userpackage;
-        //Adding a package variable.
-        String packageChosen;
  
         //Grabbing user input.
         userpackage = keyboard.next().charAt(0);;
