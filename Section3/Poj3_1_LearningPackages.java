@@ -55,6 +55,10 @@ public class Poj3_1_LearningPackages {
                 //Asking the user to enter a number.
                 courseNumber = keyboard.nextInt();
                 //Creating an if, else if, else statement.
+                if(courseNumber > 0)
+                {
+                    System.out.println("This package is");
+                }
                 //Breaking from the statement.
                 break;
             //Handling case 3.
