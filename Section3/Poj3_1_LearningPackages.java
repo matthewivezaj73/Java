@@ -42,7 +42,7 @@ public class Poj3_1_LearningPackages {
                 }
                 else
                 {
-                    System.out.println("Sorry, I did not get that.");
+                    System.out.println("Sorry, but,"+courseNumber+" is not a valid entry, please try again!");
                 }
                 //Breaking from the statement.
                 break;
