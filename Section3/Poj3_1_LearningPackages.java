@@ -54,6 +54,7 @@ public class Poj3_1_LearningPackages {
                 System.out.println("Please enter how many extra courses you would like to take:\t");
                 //Asking the user to enter a number.
                 courseNumber = keyboard.nextInt();
+                //Creating an if, else if, else statement.
                 //Breaking from the statement.
                 break;
             //Handling case 3.
