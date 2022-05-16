@@ -10,6 +10,7 @@ public class Poj3_1_LearningPackages {
         //Adding a variable to accept user input.
         char userpackage;
         //Displaying choices to the user.
+        System.out.println("Please enter \'1\' to select package 1.\nPlease enter \'2\' to select package 2.\nPlease enter \'3\' to select package 3.\nPlease enter your choice here:\t\t");
         //Grabbing user input.
         userpackage = keyboard.next().charAt(0);;
 
