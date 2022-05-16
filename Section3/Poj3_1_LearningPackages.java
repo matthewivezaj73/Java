@@ -64,6 +64,7 @@ public class Poj3_1_LearningPackages {
                 {
                     System.out.println("Your total is, " + 10);
                 }
+                //Handling the case where the input was not understood.
                 else
                 {
                     System.out.println("Sorry, I did not get that.");
