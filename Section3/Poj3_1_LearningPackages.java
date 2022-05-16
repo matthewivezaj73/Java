@@ -21,7 +21,8 @@ public class Poj3_1_LearningPackages {
         switch (userpackage)
         {
             case 'Learning Package 1':
-                System.out.println()
+                System.out.println();
+                break;
         }
     }
     
