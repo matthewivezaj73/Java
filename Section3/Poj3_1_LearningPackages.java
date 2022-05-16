@@ -59,6 +59,7 @@ public class Poj3_1_LearningPackages {
                 {
                     System.out.println("This package is");
                 }
+                //Handling the case where the user enters 0 for extra courses.
                 else if(courseNumber == 0)
                 {
                     System.out.println("Your total is, " + 10);
