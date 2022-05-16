@@ -27,6 +27,7 @@ public class Poj3_1_LearningPackages {
                 System.out.println("This package is $10/month.\nEach additional course is $6.");
                 //Asking the user how many course they would like to take.\
                 courseNumber = keyboard.nextInt();
+                //Telling the user how much money that will be per month.
                 //Breaking from the statement.
                 break;
             //Handling case 2.
