@@ -33,6 +33,7 @@ public class Poj3_1_LearningPackages {
                 //Breaking from the statement.
                 break;
             //Handling case 3.
+            case 'Learning Package 3':
         }
     }
     
