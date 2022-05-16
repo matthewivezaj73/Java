@@ -29,13 +29,20 @@ public class Poj3_1_LearningPackages {
                 System.out.println("Please enter the number of extra courses would you like to take: ");
                 //Asking for user input.
                 courseNumber = keyboard.nextInt();
-                //Telling the user how much money that will be per month.
-                System.out.println("Your total per month is, " + (10 * courseNumber));
                 //Checking if the user asked for more than 0 courses.
                 if(courseNumber > 0)
                 {
                     //Printing a message to the user.
-                    System.out.println();
+                    System.out.println("Your total is, " + (10 + (courseNumber * 6)) );
+                }
+                //Handling the alternative.
+                else if(courseNumber == 0)
+                {
+                    System.out.println("Your total is, " + 10);
+                }
+                else
+                {
+                    System.out.println("Sorry, I did not get that.");
                 }
                 //Breaking from the statement.
                 break;
