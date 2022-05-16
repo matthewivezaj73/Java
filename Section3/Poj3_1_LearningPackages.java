@@ -76,7 +76,28 @@ public class Poj3_1_LearningPackages {
             //Handling case 3.
             case '3':
                 //Printing a message regarding package details to the user.
-                System.out.println("This package is $15/month and it includes 6 courses per month.\nEach additional course is $3.");
+                System.out.println("This package is $12/month and it includes 4 courses per month.\nEach additional course is $4.");
+                //Instructing the user to enter any more courses they would like to take.
+                System.out.println("Please enter how many extra courses you would like to take:\t");
+                //Asking the user to enter a number.
+                courseNumber = keyboard.nextInt();
+                //Creating an if, else if, else statement.
+                if(courseNumber > 0)
+                {
+                    //Printing a message to the user telling them how much the total is.
+                    System.out.println("Your total is, " + (10 + (courseNumber * 4)));
+                }
+                //Handling the case where the user enters 0 for extra courses.
+                else if(courseNumber == 0)
+                {
+                    System.out.println("Your total is, " + 10);
+                }
+                //Handling the case where the input was not understood.
+                else
+                {
+                    //Telling the user that what they entered was invalid.
+                    System.out.println("Sorry, but,"+courseNumber+" is not a valid entry, please try again!");
+                }
                 //Breaking from the statement.
                 break;
             //Handling the default case.
