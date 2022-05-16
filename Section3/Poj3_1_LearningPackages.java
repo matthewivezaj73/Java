@@ -28,6 +28,7 @@ public class Poj3_1_LearningPackages {
                 break;
             //Handling case 2.
             case 'Learning Package 2':
+            //Printing a message regarding package details to the user.
                 System.out.println()
         }
     }
