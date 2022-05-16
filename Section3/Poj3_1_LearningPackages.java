@@ -20,7 +20,8 @@ public class Poj3_1_LearningPackages {
         //Making a switch statement.
         switch (userpackage)
         {
-
+            case 'Learning Package 1':
+                System.out.println()
         }
     }
     
