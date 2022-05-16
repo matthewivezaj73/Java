@@ -71,8 +71,6 @@ public class Poj3_1_LearningPackages {
                 }
                 //Breaking from the statement.
                 break;
-                //Breaking from the statement.
-                break;
             //Handling case 3.
             case '3':
                 //Printing a message regarding package details to the user.
