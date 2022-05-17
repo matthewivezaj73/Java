@@ -3,6 +3,7 @@
     May 17, 2022
     Divisible by three
 */
+//Importing Scanner.
 //Creating a public class.
 public class DivisibleByThree {
     //Creating a mean method.
