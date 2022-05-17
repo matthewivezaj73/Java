@@ -8,6 +8,6 @@ public class DivisibleByThree {
     //Creating a mean method.
     public static void main(String[] args) 
     {
-        
+       //Asking the user to enter an integer. 
     }
 }
