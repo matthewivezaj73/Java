@@ -3,7 +3,7 @@
     May 17th, 2022
     Guess the number
 */
-//Importing the random tool.
+//Importing the random and Scanner tools.
 import java.util.Random;
 //Creating a public class.
 public class proj3_03GuessTheNumber {
