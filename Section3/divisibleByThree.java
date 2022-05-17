@@ -24,6 +24,10 @@ public class divisibleByThree {
             //Printing a message out to the user.
             System.out.println("That number is divisible by three!");
         }
+        else
+        {
+            
+        }
        
     }
 }
