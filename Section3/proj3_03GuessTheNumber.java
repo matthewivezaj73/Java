@@ -11,6 +11,7 @@ public class proj3_03GuessTheNumber {
     //Creating a main method.
     public static void main(String[] args)
     {
+        //Creating a Scanner object.
         //Creating a new random object.
         Random random = new Random();
         //Creating an integer.
