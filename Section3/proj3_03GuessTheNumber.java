@@ -15,6 +15,6 @@ public class proj3_03GuessTheNumber {
         //Creating an integer.
         int myRandomNumber;
         //Assigning a value to myRandomNumber.
-        myRandomNumber = random.nextInt();
+        myRandomNumber = random.nextInt(1,100);
     }
 }
