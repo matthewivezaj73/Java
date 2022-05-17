@@ -18,6 +18,7 @@ public class divisibleByThree {
         System.out.println("Please enter an integer:");
         //Allowing the user to input an answer.
         userInput = keyboard.nextInt();
+        //Inserting an if statement to see if the number is divisible by three.
        
     }
 }
