@@ -15,5 +15,6 @@ public class DivisibleByThree {
        //Asking the user to enter an integer. 
        System.out.println("Please enter an integer:\t");
        //Allowing the user to input an answer.
+       userInput = keyboard.nextInt();
     }
 }
