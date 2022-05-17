@@ -12,6 +12,7 @@ public class proj3_03GuessTheNumber {
     public static void main(String[] args)
     {
         //Creating a Scanner object.
+        Scanner keyboard = new Scanner(System.in);
         //Creating a new random object.
         Random random = new Random();
         //Creating an integer.
