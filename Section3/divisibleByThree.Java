@@ -17,9 +17,9 @@ public class DivisibleByThree {
        //Allowing the user to input an answer.
        userInput = keyboard.nextInt();
        //Creating a switch statement.
-       switch()
+       switch(userInput)
        {
-           
+
        }
     }
 }
