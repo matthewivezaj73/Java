@@ -25,6 +25,11 @@ public class divisibleByThree {
             System.out.println("That number is divisible by three!");
         }
         //Handling the case where the user enters 0.
+        else if (userInput == 0)
+        {
+            //Printing out a statement to the user telling them that the number is not divisible by three.
+            System.out.println("You entered 0, sorry, but this cannot be successfully divided.");
+        }
         //Handling the case where the number is not divisible by three.
         else
         {
