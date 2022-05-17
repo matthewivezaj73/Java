@@ -4,6 +4,7 @@
     Divisible by three
 */
 //Importing Scanner.
+import java.util.Scanner;
 //Creating a public class.
 public class DivisibleByThree {
     //Creating a mean method.
