@@ -17,6 +17,8 @@ public class proj3_03GuessTheNumber {
         Random random = new Random();
         //Creating an integer.
         int myRandomNumber;
+        //Creating an integer.
+        
         //creating a variable to hold the users entry.
         userInput = keyboard.nextInt();
         //Assigning a value to myRandomNumber.
