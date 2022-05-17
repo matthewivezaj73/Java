@@ -18,18 +18,19 @@ public class divisibleByThree {
         System.out.println("Please enter an integer:");
         //Allowing the user to input an answer.
         userInput = keyboard.nextInt();
-        //Inserting an if statement to see if the number is divisible by three.
-        if((userInput%3) == 0)
-        {
-            //Printing a message out to the user.
-            System.out.println("That number is divisible by three!");
-        }
         //Handling the case where the user enters 0.
-        else if (userInput == 0)
+        if (userInput == 0)
         {
             //Printing out a statement to the user telling them that the number is not divisible by three.
             System.out.println("You entered 0, sorry, but this cannot be successfully divided.");
         }
+        //Inserting an if statement to see if the number is divisible by three.
+        else if((userInput%3) == 0)
+        {
+            //Printing a message out to the user.
+            System.out.println("That number is divisible by three!");
+        }
+        
         //Handling the case where the number is not divisible by three.
         else
         {
