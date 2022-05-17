@@ -30,7 +30,6 @@ public class divisibleByThree {
             //Printing a message out to the user.
             System.out.println(userInput+" is divisible by three!");
         }
-        
         //Handling the case where the number is not divisible by three.
         else
         {
