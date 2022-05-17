@@ -9,5 +9,6 @@ public class DivisibleByThree {
     public static void main(String[] args) 
     {
        //Asking the user to enter an integer. 
+       System.out.println("Please enter an integer:\t");
     }
 }
