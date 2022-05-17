@@ -20,6 +20,9 @@ public class divisibleByThree {
         userInput = keyboard.nextInt();
         //Inserting an if statement to see if the number is divisible by three.
         if(userInput%3 == 0)
+        {
+            System.out.println("That number is divisible by three!");
+        }
        
     }
 }
