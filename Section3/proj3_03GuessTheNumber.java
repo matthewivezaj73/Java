@@ -5,6 +5,7 @@
 */
 //Importing the random and Scanner tools.
 import java.util.Random;
+import java.util.Scanner;
 //Creating a public class.
 public class proj3_03GuessTheNumber {
     //Creating a main method.
