@@ -28,6 +28,7 @@ public class divisibleByThree {
         else
         {
             //Printing out a statement to the user telling them that the number is not divisible by three.
+            System.out.println("Sorry, but "+userInput+" is not divisible by 3.");
         }
        
     }
