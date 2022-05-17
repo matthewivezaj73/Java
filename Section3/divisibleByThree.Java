@@ -19,7 +19,8 @@ public class DivisibleByThree {
        //Creating a switch statement.
        switch(userInput)
        {
-
+            case '1':
+                
        }
     }
 }
