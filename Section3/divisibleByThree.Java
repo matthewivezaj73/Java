@@ -10,6 +10,7 @@ public class DivisibleByThree {
     //Creating a mean method.
     public static void main(String[] args) 
     {
+        //Creating a scanner object.
        //Asking the user to enter an integer. 
        System.out.println("Please enter an integer:\t");
     }
