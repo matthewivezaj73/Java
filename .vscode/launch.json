@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch divisibleByThree",
+            "request": "launch",
+            "mainClass": "divisibleByThree",
+            "projectName": "Java-1_82dce2b6"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"

@@ -6,8 +6,7 @@
 //Importing Scanner.
 import java.util.Scanner;
 //Creating a public class.
-public class divisibleByThree 
-{
+public class divisibleByThree {
     //Creating a mean method.
     public static void main(String[] args) 
     {
