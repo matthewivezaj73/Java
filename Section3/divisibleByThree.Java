@@ -5,5 +5,5 @@
 */
 //Creating a public class.
 public class DivisibleByThree {
-
+    //Creating a mean method.
 }
