@@ -21,6 +21,7 @@ public class divisibleByThree {
         //Inserting an if statement to see if the number is divisible by three.
         if(userInput%3 == 0)
         {
+            //Printing a message out to the user.
             System.out.println("That number is divisible by three!");
         }
        
