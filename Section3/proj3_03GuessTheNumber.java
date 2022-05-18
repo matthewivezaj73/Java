@@ -67,6 +67,7 @@ public class proj3_03GuessTheNumber {
                 userInput = keyboard.nextInt();
             }
         } 
-        //Adding a print statement to tell the user that they guessed correctly.   
+        //Adding a print statement to tell the user that they guessed correctly.  
+        System.out.println("Congratulations, \'"+userInput+"\' was the correct number!");
     }
 }
