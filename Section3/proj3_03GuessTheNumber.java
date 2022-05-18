@@ -26,29 +26,32 @@ public class proj3_03GuessTheNumber {
         //Assigning a value to myRandomNumber.
         myRandomNumber = random.nextInt(1,100);
         //Creating a while loop that will loop until the user guesses the correct number.
-        //Checking to see if the user input is lower than the random number.
-        if(userInput < myRandomNumber)
+        while(userInput != myRandomNumber)
         {
-            //Notifing the user that the number generated is too low.
-            System.out.println("Sorry, but, \'" + userInput + "\'' is too low! Please try again.");
-        }
-        //Handling the case where the userInput is too high.
-        else if(userInput > myRandomNumber)
-        {
-            //Notifying the user that the number generated is too high.
-            System.out.println("Sorry, but, \'" + userInput + "\'' is too high! Please try again.");
-        }
-        //Handling the case where the userInput is correct.
-        else if(userInput == myRandomNumber)
-        {
-            //Notifying the user that they guessed correctly!
-            System.out.println("Congratulations, \'"+userInput+"\'' was the correct number!");
-        }
-        //Handling the case where the input does not match what is required.
-        else
-        {
-            //Notifying the user that the input is not valid.
-            System.out.println("Sorry, but, \'" + userInput+"\' was a wasted guess, please try again.");
-        }       
+            //Checking to see if the user input is lower than the random number.
+            if(userInput < myRandomNumber)
+            {
+                //Notifing the user that the number generated is too low.
+                System.out.println("Sorry, but, \'" + userInput + "\'' is too low! Please try again.");
+            }
+            //Handling the case where the userInput is too high.
+            else if(userInput > myRandomNumber)
+            {
+                //Notifying the user that the number generated is too high.
+                System.out.println("Sorry, but, \'" + userInput + "\'' is too high! Please try again.");
+            }
+            //Handling the case where the userInput is correct.
+            else if(userInput == myRandomNumber)
+            {
+                //Notifying the user that they guessed correctly!
+                System.out.println("Congratulations, \'"+userInput+"\'' was the correct number!");
+            }
+            //Handling the case where the input does not match what is required.
+            else
+            {
+                //Notifying the user that the input is not valid.
+                System.out.println("Sorry, but, \'" + userInput+"\' was a wasted guess, please try again.");
+            }   
+        }    
     }
 }
