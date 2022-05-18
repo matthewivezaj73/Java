@@ -25,6 +25,7 @@ public class proj3_03GuessTheNumber {
         userInput = keyboard.nextInt();
         //Assigning a value to myRandomNumber.
         myRandomNumber = random.nextInt(1,100);
+        //Checking to see if the user input is lower than the random number.
         if(userInput < myRandomNumber)
         {
             System.out.println("Sorry, but, " + userInput + " is too low! Please try again.");
