@@ -28,14 +28,7 @@ public class proj3_03GuessTheNumber {
         //Creating a while loop that will loop until the user guesses the correct number.
         while(userInput != myRandomNumber)
         {
-            //Handling the case where the number entered was not correct.
-            if(userInput != myRandomNumber)
-            {
-                //Asking the user to guess another number.
-                System.out.println("Please guess new number:");
-                //creating a variable to hold the users entry.
-                userInput = keyboard.nextInt();
-            }
+
             //Checking to see if the user input is lower than the random number.
             if(userInput < myRandomNumber)
             {
@@ -60,6 +53,14 @@ public class proj3_03GuessTheNumber {
                 //Notifying the user that the input is not valid.
                 System.out.println("Sorry, but, \'" + userInput+"\' was a wasted guess, please try again.");
             }   
+            //Handling the case where the number entered was not correct.
+            if(userInput != myRandomNumber)
+            {
+                //Asking the user to guess another number.
+                System.out.println("Please guess new number:");
+                //creating a variable to hold the users entry.
+                userInput = keyboard.nextInt();
+            }
         }    
     }
 }
