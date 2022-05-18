@@ -29,6 +29,10 @@ public class proj3_03GuessTheNumber {
         while(userInput != myRandomNumber)
         {
             //Handling the case where the number entered was not correct.
+            if(userInput != myRandomNumber)
+            {
+                
+            }
             //Asking the user to guess another number.
             System.out.println("Please guess new number:");
             //creating a variable to hold the users entry.
