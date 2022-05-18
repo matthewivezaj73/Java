@@ -45,7 +45,5 @@ public class proj3_03GuessTheNumber {
         }
         //Handling the case where the input does not match what is required.
         System.out.println("Sorry, but I did not under stand \'" + userInput+"\', please try again.");
-        //Printing out the random number.
-        System.out.println(myRandomNumber);
     }
 }
