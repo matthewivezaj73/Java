@@ -40,6 +40,7 @@ public class proj3_03GuessTheNumber {
                 //Incrementing the number of guesses.
                 numberOfGuesses += 1;
                 //Telling the user how many times they've guessed so far.
+                System.out.println("You've guessed, " + numberOfGuesses+" times already.");
             }
             //Handling the case where the userInput is too high.
             else if(userInput > myRandomNumber)
