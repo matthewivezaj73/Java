@@ -46,6 +46,7 @@ public class proj3_03GuessTheNumber {
         //Handling the case where the input does not match what is required.
         else
         {
+            //Notifying the user that the input is not valid.
             System.out.println("Sorry, but I did not under stand \'" + userInput+"\', please try again.");
         }       
     }
