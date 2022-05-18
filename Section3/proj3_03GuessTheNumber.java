@@ -25,7 +25,7 @@ public class proj3_03GuessTheNumber {
         userInput = keyboard.nextInt();
         //Assigning a value to myRandomNumber.
         myRandomNumber = random.nextInt(1,100);
-
+        //Printing out the random number.
         System.out.println(myRandomNumber);
     }
 }
