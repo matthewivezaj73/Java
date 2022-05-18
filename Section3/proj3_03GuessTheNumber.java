@@ -47,6 +47,10 @@ public class proj3_03GuessTheNumber {
             {
                 //Notifying the user that the number generated is too high.
                 System.out.println("Sorry, but, \'" + userInput + "\'' is too high! Please try again.");
+                //Incrementing the number of guesses.
+                numberOfGuesses += 1;
+                //Telling the user how many times they've guessed so far.
+                System.out.println("You've guessed, " + numberOfGuesses+" times already.");
             }
             //Handling the case where the userInput is correct.
             else if(userInput == myRandomNumber)
