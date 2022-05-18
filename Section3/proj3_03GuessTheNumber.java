@@ -41,7 +41,7 @@ public class proj3_03GuessTheNumber {
         else if(userInput == myRandomNumber)
         {
             //Notifying the user that they guessed correctly!
-            System.out.println("Congratulations, "+userInput+" was the correct number!");
+            System.out.println("Congratulations, \'"+userInput+"\'' was the correct number!");
         }
         //Handling the case where the input does not match what is required.
         else
