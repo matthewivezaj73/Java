@@ -47,7 +47,7 @@ public class proj3_03GuessTheNumber {
         else
         {
             //Notifying the user that the input is not valid.
-            System.out.println("Sorry, but I did not under stand \'" + userInput+"\', please try again.");
+            System.out.println("Sorry, but, \'" + userInput+"\' was a wasted guess, please try again.");
         }       
     }
 }
