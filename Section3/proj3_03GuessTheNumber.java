@@ -28,7 +28,6 @@ public class proj3_03GuessTheNumber {
         //Creating a while loop that will loop until the user guesses the correct number.
         while(userInput != myRandomNumber)
         {
-
             //Checking to see if the user input is lower than the random number.
             if(userInput < myRandomNumber)
             {
