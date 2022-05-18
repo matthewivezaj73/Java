@@ -25,6 +25,7 @@ public class proj3_03GuessTheNumber {
         userInput = keyboard.nextInt();
         //Assigning a value to myRandomNumber.
         myRandomNumber = random.nextInt(1,100);
+        //Creating a while loop that will loop until the user guesses the correct number.
         //Checking to see if the user input is lower than the random number.
         if(userInput < myRandomNumber)
         {
