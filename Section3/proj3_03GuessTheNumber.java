@@ -40,7 +40,7 @@ public class proj3_03GuessTheNumber {
         //Handling the case where the userInput is correct.
         else if(userInput == myRandomNumber)
         {
-            //Telling the user that they guessed correctly!
+            //Notifying the user that they guessed correctly!
             System.out.println("Congratulations, "+userInput+" was the correct number!");
         }
         //Handling the case where the input does not match what is required.
