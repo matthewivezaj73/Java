@@ -36,7 +36,6 @@ public class proj3_03GuessTheNumber {
                 //creating a variable to hold the users entry.
                 userInput = keyboard.nextInt();
             }
-            
             //Checking to see if the user input is lower than the random number.
             if(userInput < myRandomNumber)
             {
