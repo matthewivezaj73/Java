@@ -84,5 +84,6 @@ public class proj3_03GuessTheNumber {
         //Adding a print statement to tell the user that they guessed correctly.  
         System.out.println("Congratulations, \'"+userInput+"\' was the correct number!");
         //Telling the user how many guesses they had altogether.
+        System.out.println("You got the answer in " + numberOfGuesses + " number of guesses, well done!");
     }
 }
