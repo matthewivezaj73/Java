@@ -19,6 +19,7 @@ public class proj3_03GuessTheNumber {
         int myRandomNumber;
         //Creating an integer.
         int userInput;
+        //Asking the user to enter an integer between 1 and 100.
         //creating a variable to hold the users entry.
         userInput = keyboard.nextInt();
         //Assigning a value to myRandomNumber.
