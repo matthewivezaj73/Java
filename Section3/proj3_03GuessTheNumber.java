@@ -19,6 +19,7 @@ public class proj3_03GuessTheNumber {
         int myRandomNumber;
         //Creating an integer.
         int userInput;
+        //Creating a variable to keep track of the number of guesses.
         //Asking the user to enter an integer between 1 and 100.
         System.out.println("Please enter a number between 1 and 100, inclusive:");
         //creating a variable to hold the users entry.
