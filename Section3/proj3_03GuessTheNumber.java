@@ -40,7 +40,7 @@ public class proj3_03GuessTheNumber {
         //Handling the case where the userInput is correct.
         else if(userInput == myRandomNumber)
         {
-            
+            //Telling the user that they guessed correctly!
         }
         //Printing out the random number.
         System.out.println(myRandomNumber);
