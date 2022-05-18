@@ -28,6 +28,7 @@ public class proj3_03GuessTheNumber {
         //Checking to see if the user input is lower than the random number.
         if(userInput < myRandomNumber)
         {
+            //Notifing the user that the number generated is too low.
             System.out.println("Sorry, but, " + userInput + " is too low! Please try again.");
         }
         //Printing out the random number.
