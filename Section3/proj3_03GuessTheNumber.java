@@ -57,6 +57,10 @@ public class proj3_03GuessTheNumber {
             {
                 //Notifying the user that they guessed correctly!
                 System.out.println("Congratulations, \'"+userInput+"\'' was the correct number!");
+                //Incrementing the number of guesses.
+                numberOfGuesses += 1;
+                //Telling the user how many times they've guessed so far.
+                System.out.println("You've guessed, " + numberOfGuesses+" times already.");
             }
             //Handling the case where the input does not match what is required.
             else
