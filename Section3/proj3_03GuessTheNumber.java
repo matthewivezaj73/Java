@@ -66,6 +66,7 @@ public class proj3_03GuessTheNumber {
                 //creating a variable to hold the users entry.
                 userInput = keyboard.nextInt();
             }
-        }    
+        } 
+        //Adding a print statement to tell the user that they guessed correctly.   
     }
 }
