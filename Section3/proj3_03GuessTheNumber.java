@@ -44,6 +44,9 @@ public class proj3_03GuessTheNumber {
             System.out.println("Congratulations, "+userInput+" was the correct number!");
         }
         //Handling the case where the input does not match what is required.
-        System.out.println("Sorry, but I did not under stand \'" + userInput+"\', please try again.");
+        else
+        {
+            System.out.println("Sorry, but I did not under stand \'" + userInput+"\', please try again.");
+        }       
     }
 }
