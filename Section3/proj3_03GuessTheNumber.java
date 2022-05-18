@@ -67,6 +67,10 @@ public class proj3_03GuessTheNumber {
             {
                 //Notifying the user that the input is not valid.
                 System.out.println("Sorry, but, \'" + userInput+"\' was a wasted guess, please try again.");
+                //Incrementing the number of guesses.
+                numberOfGuesses += 1;
+                //Telling the user how many times they've guessed so far.
+                System.out.println("You've guessed, " + numberOfGuesses+" times already.");
             }   
             //Handling the case where the number entered was not correct.
             if(userInput != myRandomNumber)
