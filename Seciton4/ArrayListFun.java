@@ -10,5 +10,7 @@ public class ArrayListFun {
          * Do not need to insert String in the other brackets.
          */
         ArrayList<String> nameList = new ArrayList<>();
+
+        //Adding names to the list
     }
 }
