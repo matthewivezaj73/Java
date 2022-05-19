@@ -10,6 +10,10 @@ public class ArrayFun {
         //Creating an array reference.
         int[] myArray;
         //Initializing the array
+        /*
+            You cannot later modify arrays after they are created.
+            Arrays are fixed in size.
+        */
         myArray = new int[5];
         //Assigning a value to each index in the array.
         myArray[0] = 10;
