@@ -9,5 +9,7 @@ public class moreArrayFun {
     public static void main(String[] args)
     {
         //Creating an array reference.
+        int[] = anArray;
+        
     }
 }
