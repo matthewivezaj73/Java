@@ -23,6 +23,10 @@ public class moreArrayFun {
             //Printing out each element in the array.
             System.out.println(anArray[num]);
             //Creating an if statement.
+            if(num == 11)
+            {
+            
+            }
         }
         
     }
