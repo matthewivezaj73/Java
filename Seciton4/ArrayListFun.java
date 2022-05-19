@@ -24,10 +24,10 @@ public class ArrayListFun {
         nameList.add("Wendy");
 
         //Creating a for loop.
-        for(int i = 0; i < nameList.size(); i++)
-        {
-            //Printing out each element of the list from the index inside of get.
-            System.out.println(nameList.get(i));
-        }
+        // for(int i = 0; i < nameList.size(); i++)
+        // {
+        //     //Printing out each element of the list from the index inside of get.
+        //     System.out.println(nameList.get(i));
+        // }
     }
 }
