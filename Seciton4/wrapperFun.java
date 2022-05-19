@@ -13,8 +13,8 @@ public class wrapperFun{
         //Creating an arraylist.
         ArrayList<Integer> myAL = new ArrayList<>();
         //Adding integers to the array list.
-        myAL.add(new Integer(10));
-        myAL.add(new Integer(22));
+        myAL.add(10);
+        myAL.add(22);
         //Creating a for loop.
         for(int i = 0; i < myAL.size(); i++)
         {
