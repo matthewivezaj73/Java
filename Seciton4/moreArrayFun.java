@@ -11,6 +11,7 @@ public class moreArrayFun {
         //Creating an array reference.
         int[] = anArray;
         //Initialzing the array.
+        anArray = new int[10];
 
     }
 }
