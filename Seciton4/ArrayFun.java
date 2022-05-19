@@ -27,10 +27,10 @@ public class ArrayFun {
         //the i and myArray (<=), it will throw an error.
         
         //This error is known as an off by one error.
-        for(int i = 0; i < myArray.length; i++)
-        {
-            //Printing a message to the user.
-            System.out.println(myArray[i]);
-        }
+        // for(int i = 0; i < myArray.length; i++)
+        // {
+        //     //Printing a message to the user.
+        //     System.out.println(myArray[i]);
+        // }
     }
 }
