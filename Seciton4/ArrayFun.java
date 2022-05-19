@@ -12,5 +12,6 @@ public class ArrayFun {
         myArray[1] = 22;
         myArray[2] = 5;
         myArray[3] = 17;
+        myArray[4] = 20;
     }
 }
