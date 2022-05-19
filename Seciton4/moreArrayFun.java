@@ -20,7 +20,7 @@ public class moreArrayFun {
         for(int num: anArray)
         {
             //Printing out each element in the array.
-            System.out.println(anArray[num]);
+            System.out.println(num);
 
         }
         
