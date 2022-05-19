@@ -1,7 +1,7 @@
 /*
     Matthew Ivezaj
-    May 17th, 2022
-    Guess the number
+    May 18th, 2022
+    ArrayFun
 */
 //Creating a public class.
 public class ArrayFun {
