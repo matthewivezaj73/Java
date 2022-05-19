@@ -26,5 +26,6 @@ public class wrapperFun{
         //Creating a string integer.
         String someValue = "450";
         //Creating a variable using parseInt that has someValue passed to it.
+        int numericValue = Integer.parseInt(someValue);
     }
 }
