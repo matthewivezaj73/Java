@@ -10,6 +10,7 @@ public class moreArrayFun {
     {
         //Creating an array reference.
         int[] = anArray;
-        
+        //Initialzing the array.
+
     }
 }
