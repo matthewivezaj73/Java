@@ -21,8 +21,6 @@ public class moreArrayFun {
         {
             //Printing out each element in the array.
             System.out.println(num);
-
         }
-        
     }
 }
