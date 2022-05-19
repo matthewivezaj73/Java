@@ -26,6 +26,7 @@ public class moreArrayFun {
             if(num == 11)
             {
                 //Breaking out of the loop.
+                break;
             }
         }
         
