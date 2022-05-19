@@ -33,5 +33,9 @@ public class ArrayFun {
         //     System.out.println(myArray[i]);
         // }
         //Creating an enhanced for loop.
+        for(int num: myArray)
+        {
+            
+        }
     }
 }
