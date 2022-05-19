@@ -14,5 +14,6 @@ public class wrapperFun{
         ArrayList<Integer> myAL = new ArrayList<>();
         //Adding integers to the array list.
         myAL.add(new Integer(10));
+        myAL.add(new Integer(22));
     }
 }
