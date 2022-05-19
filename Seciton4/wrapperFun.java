@@ -11,5 +11,6 @@ public class wrapperFun{
     public static void main(String[] args)
     {
         //Creating an arraylist.
+        ArrayList<Integer> myAL = new ArrayList<>();
     }
 }
