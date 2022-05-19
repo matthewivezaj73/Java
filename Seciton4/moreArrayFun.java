@@ -20,11 +20,8 @@ public class moreArrayFun {
             int myRandomNumber;
             //Creating a random variable.
             myRandomNumber = random.nextInt(1,1000);
-
             //Assigning values to each element in the array.
             anArray[num] = myRandomNumber;
-            
-
         }
         
         
