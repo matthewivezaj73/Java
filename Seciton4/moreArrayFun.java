@@ -26,7 +26,7 @@ public class moreArrayFun {
         //Creating an enhanced for loop.
         for(int num: anArray)
         {
-            
+            //Printing out each element in the array.
         }
         
     }
