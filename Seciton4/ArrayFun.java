@@ -9,5 +9,6 @@ public class ArrayFun {
         myArray = new int[5];
         //Assigning a value to each index in the array.
         myArray[0] = 10;
+        myArray[1] = 22;
     }
 }
