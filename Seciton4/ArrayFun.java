@@ -5,5 +5,6 @@ public class ArrayFun {
     {
         //Creating an array reference.
         int[] myArray;
+        myArray = new int[5];
     }
 }
