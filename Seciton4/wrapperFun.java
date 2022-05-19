@@ -23,5 +23,7 @@ public class wrapperFun{
             //Printing a references to the user.
             System.out.println(myAL.get(i));
         }
+
+        String someValue = "450";
     }
 }
