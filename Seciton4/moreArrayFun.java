@@ -13,6 +13,7 @@ public class moreArrayFun {
         //Initialzing the array.
         anArray = new int[10];
         //Assigning values to each element in the array.
-        anArray[0] = 10
+        anArray[0] = 10;
+        andArray[1] = 20;
     }
 }
