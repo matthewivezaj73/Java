@@ -11,6 +11,6 @@ public class ArrayListFun {
          */
         ArrayList<String> nameList = new ArrayList<>();
 
-        //Adding names to the list
+        //Adding names to the list.
     }
 }
