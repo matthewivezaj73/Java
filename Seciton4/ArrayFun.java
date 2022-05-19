@@ -13,5 +13,8 @@ public class ArrayFun {
         myArray[2] = 5;
         myArray[3] = 17;
         myArray[4] = 20;
+
+        //Creating a for loop.
+        
     }
 }
