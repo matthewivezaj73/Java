@@ -15,6 +15,9 @@ public class ArrayFun {
         myArray[4] = 20;
 
         //Creating a for loop.
-        
+        for(int i = 0; i < myArray.length; i++)
+        {
+            
+        }
     }
 }
