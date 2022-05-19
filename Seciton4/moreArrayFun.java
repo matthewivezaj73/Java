@@ -25,11 +25,11 @@ public class moreArrayFun {
             anArray[num] = myRandomNumber;
         }
         //Creating an enhanced for loop.
-        for(int num: anArray)
-        {
-            //Printing out each element in the array.
-            System.out.println(anArray[num]);
-        }
+        // for(int num: anArray)
+        // {
+        //     //Printing out each element in the array.
+        //     System.out.println(anArray[num]);
+        // }
         
     }
 }
