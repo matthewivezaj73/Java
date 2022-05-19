@@ -29,6 +29,7 @@ public class ArrayListFun {
         //     //Printing out each element of the list from the index inside of get.
         //     System.out.println(nameList.get(i));
         // }
+        //Creating an enhanced for loop.
         for(int i: nameList)
         {
 
