@@ -9,6 +9,6 @@ public class ArrayListFun {
         /**
          * Do not need to insert String in the other brackets.
          */
-        ArrayList<String> nameList = new ArrayList<>()
+        ArrayList<String> nameList = new ArrayList<>();
     }
 }
