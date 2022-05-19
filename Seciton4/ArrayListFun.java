@@ -21,7 +21,8 @@ public class ArrayListFun {
         //Creating a for loop.
         for(int i = 0; i < nameList.size(); i++)
         {
-            //Printing out the list.
+            //Printing out each element of the list from the index inside of get.
+            System.out.println(nameList.get(i));
         }
     }
 }
