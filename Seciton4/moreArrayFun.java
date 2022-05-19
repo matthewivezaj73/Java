@@ -14,6 +14,7 @@ public class moreArrayFun {
         //Creating an integer.
         int myRandomNumber;
         //Creating a random variable.
+        myRandomNumber = random.nextInt();
         //Initialzing the array.
         int[] anArray = new int[10];
         //Creating a standard for loop.
