@@ -17,5 +17,7 @@ public class ArrayListFun {
         nameList.add("Matthew");
         nameList.add("Amanda");
         nameList.add("Wendy");
+
+        //Creating a for loop.
     }
 }
