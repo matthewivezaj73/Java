@@ -8,6 +8,8 @@ public class ArrayListFun {
         //Creating an array list.
         /**
          * Do not need to insert String in the other brackets.
+         * 
+         * Arraylists are a type known as a generic.
          */
         ArrayList<String> nameList = new ArrayList<>();
 
