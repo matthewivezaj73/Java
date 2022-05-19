@@ -17,5 +17,6 @@ public class moreArrayFun {
         anArray[1] = 20;
         anArray[2] = 14;
         anArray[3] = 8;
+        anArray[4] = 27;
     }
 }
