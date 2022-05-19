@@ -8,5 +8,6 @@ public class ArrayFun {
         //Initializing the array
         myArray = new int[5];
         //Assigning a value to each index in the array.
+        myArray[0] = 10;
     }
 }
