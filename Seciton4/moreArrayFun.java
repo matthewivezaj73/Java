@@ -10,6 +10,7 @@ public class moreArrayFun {
     {
         //Initialzing the array.
         int[] anArray = new int[10];
+        //Creating a standard for loop.
         //Assigning values to each element in the array.
         anArray[0] = 10;
         anArray[1] = 20;
