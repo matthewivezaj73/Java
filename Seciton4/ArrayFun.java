@@ -35,7 +35,7 @@ public class ArrayFun {
         //Creating an enhanced for loop.
         for(int num: myArray)
         {
-            
+            //Printing out a message to the user.
         }
     }
 }
