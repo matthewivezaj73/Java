@@ -25,7 +25,7 @@ public class wrapperFun{
         }
         //Creating a string integer.
         String someValue = "450";
-        //Creating a variable using parseInt that has someValue passed to it.
+        //Coverting the string number to a real number.
         int numericValue = Integer.parseInt(someValue);
         //Adding 10 to the numericInt.
         numericValue += 10;
