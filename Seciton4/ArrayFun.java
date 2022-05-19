@@ -1,3 +1,8 @@
+/*
+    Matthew Ivezaj
+    May 17th, 2022
+    Guess the number
+*/
 //Creating a public class.
 public class ArrayFun {
     //Creating main method.
