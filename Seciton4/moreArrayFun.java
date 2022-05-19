@@ -24,6 +24,10 @@ public class moreArrayFun {
             anArray[num] = myRandomNumber;
         }
         //Creating an enhanced for loop.
+        for(int num: anArray)
+        {
+            
+        }
         
     }
 }
