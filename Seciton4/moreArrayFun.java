@@ -13,6 +13,7 @@ public class moreArrayFun {
         Random random = new Random();
         //Creating an integer.
         int myRandomNumber;
+        //Creating a random variable.
         //Initialzing the array.
         int[] anArray = new int[10];
         //Creating a standard for loop.
