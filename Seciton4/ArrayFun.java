@@ -4,8 +4,8 @@ public class ArrayFun {
     public static void main(String[] args)
     {
         /*
-            Even though the elements of the array are refence 
-            types, the array itself is an integer type.
+            Even though the elements of the array are integer 
+            types, the array itself is a reference type.
         */
         //Creating an array reference.
         int[] myArray;
