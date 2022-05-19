@@ -12,7 +12,7 @@ public class ArrayListFun {
         ArrayList<String> nameList = new ArrayList<>();
 
         //Creating an array list for integers.
-        ArrayList<int> muNumList = new ArrayList<>();
+        // ArrayList<int> muNumList = new ArrayList<>();
         /**
          * Array lists only hold reference types, not primitive.
          */
@@ -30,10 +30,10 @@ public class ArrayListFun {
         //     System.out.println(nameList.get(i));
         // }
         //Creating an enhanced for loop.
-        for(int i: nameList)
+        for(String i: nameList)
         {
             //Printing each element of the list.
-            System.out.println(nameList.get(i));
+            System.out.println(i);
         }
     }
 }
