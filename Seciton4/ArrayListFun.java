@@ -19,5 +19,9 @@ public class ArrayListFun {
         nameList.add("Wendy");
 
         //Creating a for loop.
+        for(int i = 0; i < nameList.length; i++)
+        {
+            
+        }
     }
 }
