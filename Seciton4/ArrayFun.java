@@ -32,5 +32,6 @@ public class ArrayFun {
         //     //Printing a message to the user.
         //     System.out.println(myArray[i]);
         // }
+        //Creating an enhanced for loop.
     }
 }
