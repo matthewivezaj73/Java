@@ -33,6 +33,7 @@ public class ArrayListFun {
         for(int i: nameList)
         {
             //Printing each element of the list.
+            System.out.println(nameList.get(i));
         }
     }
 }
