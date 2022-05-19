@@ -9,8 +9,7 @@ public class moreArrayFun {
     public static void main(String[] args)
     {
         //Initialzing the array.
-        int[] anArray;
-        anArray = new int[10];
+        int[] anArray = new int[10];
         //Creating a standard for loop.
         for(int num = 0; num < anArray.length; num++)
         {
