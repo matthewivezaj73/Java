@@ -22,6 +22,8 @@ public class moreArrayFun {
         {
             //Assigning values to each element in the array.
             anArray[num] = myRandomNumber;
+            //Printing the array.
+            System.out.println(anArray);
         }
         
         
