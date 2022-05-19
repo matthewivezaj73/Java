@@ -23,7 +23,7 @@ public class ArrayFun {
         myArray[4] = 20;
 
         //Creating a for loop.
-        for(int i = 0; i < myArray.length; i++)
+        for(int i = 0; i <= myArray.length; i++)
         {
             //Printing a message to the user.
             System.out.println(myArray[i]);
