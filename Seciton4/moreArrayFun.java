@@ -19,8 +19,11 @@ public class moreArrayFun {
         int[] anArray = new int[10];
         //Creating a standard for loop.
         for(int num = 0; num < anArray.length; num++)
+        {
+            
+        }
         //Assigning values to each element in the array.
-        anArray[num] = 10;
+        anArray[num] = myRandomNumber;
         
     }
 }
