@@ -21,7 +21,7 @@ public class ArrayListFun {
         //Creating a for loop.
         for(int i = 0; i < nameList.size(); i++)
         {
-
+            //Printing out the list.
         }
     }
 }
