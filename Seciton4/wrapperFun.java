@@ -19,6 +19,7 @@ public class wrapperFun{
         for(int i = 0; i < myAL.size(); i++)
         {
             //Defining num.
+            int num = myAL.get(i);
             //Printing a references to the user.
             System.out.println(myAL.get(i));
         }
