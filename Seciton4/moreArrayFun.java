@@ -3,6 +3,7 @@
     May 18th, 2022
     moreArrayFun
 */
+import java.util.Random;
 //Creating a public class.
 public class moreArrayFun {
     //Creating a main method.
