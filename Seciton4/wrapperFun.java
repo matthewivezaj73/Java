@@ -16,9 +16,9 @@ public class wrapperFun{
         myAL.add(new Integer(10));
         myAL.add(new Integer(22));
         //Creating a for loop.
-        for(int i = 0; i < myAL.size() i++)
+        for(int i = 0; i < myAL.size(); i++)
         {
-            
+
         }
     }
 }
