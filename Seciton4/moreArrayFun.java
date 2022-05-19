@@ -17,13 +17,12 @@ public class moreArrayFun {
             //Assigning values to each element in the array.
             anArray[num] = num+1;
         }
-        System.out.println(anArray);
         //Creating an enhanced for loop.
-        // for(int num: anArray)
-        // {
-        //     //Printing out each element in the array.
-        //     System.out.println(anArray[num]);
-        // }
+        for(int num: anArray)
+        {
+            //Printing out each element in the array.
+            System.out.println(anArray[num]);
+        }
         
     }
 }
