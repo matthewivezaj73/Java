@@ -9,6 +9,8 @@ public class moreArrayFun {
     //Creating a main method.
     public static void main(String[] args)
     {
+        //Creating a new random object.
+        Random random = new Random();
         //Initialzing the array.
         int[] anArray = new int[10];
         //Creating a standard for loop.
