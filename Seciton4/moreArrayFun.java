@@ -12,6 +12,6 @@ public class moreArrayFun {
         int[] = anArray;
         //Initialzing the array.
         anArray = new int[10];
-
+        //Assigning values to each element in the array.
     }
 }
