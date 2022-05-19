@@ -30,5 +30,6 @@ public class wrapperFun{
         //Adding 10 to the numericInt.
         numericValue += 10;
         //Printing out the value of numericValue.
+        System.out.println(numericValue);
     }
 }
