@@ -4,6 +4,6 @@
  *      wrapperFun
  */
 //Creating a public class.
-public class wrapperFun {
+public class WrapperFun {
     
 }
