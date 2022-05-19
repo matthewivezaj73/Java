@@ -20,10 +20,10 @@ public class moreArrayFun {
         //Creating a standard for loop.
         for(int num = 0; num < anArray.length; num++)
         {
-            
+            //Assigning values to each element in the array.
+            anArray[num] = myRandomNumber;
         }
-        //Assigning values to each element in the array.
-        anArray[num] = myRandomNumber;
+        
         
     }
 }
