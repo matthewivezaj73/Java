@@ -18,6 +18,7 @@ public class ArrayFun {
         for(int i = 0; i < myArray.length; i++)
         {
             //Printing a message to the user.
+            System.out.println(myArray[i]);
         }
     }
 }
