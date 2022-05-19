@@ -10,5 +10,6 @@ public class ArrayFun {
         //Assigning a value to each index in the array.
         myArray[0] = 10;
         myArray[1] = 22;
+        myArray[2] = 5;
     }
 }
