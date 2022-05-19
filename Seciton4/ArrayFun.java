@@ -36,6 +36,7 @@ public class ArrayFun {
         for(int num: myArray)
         {
             //Printing out a message to the user.
+            System.out.println(num);
         }
     }
 }
