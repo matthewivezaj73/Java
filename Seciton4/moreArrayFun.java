@@ -18,13 +18,13 @@ public class moreArrayFun {
         //Initialzing the array.
         int[] anArray = new int[10];
         //Creating a standard for loop.
-        // for(int num = 0; num < anArray.length; num++)
-        // {
-        //     //Assigning values to each element in the array.
-        //     anArray[num] = myRandomNumber;
-        //     //Printing the array.
-        //     System.out.println(anArray);
-        // }
+        for(int num = 0; num < anArray.length; num++)
+        {
+            //Assigning values to each element in the array.
+            anArray[num] = myRandomNumber;
+            //Printing the array.
+            System.out.println(anArray);
+        }
         
         
     }
