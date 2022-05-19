@@ -11,16 +11,9 @@ public class moreArrayFun {
         //Initialzing the array.
         int[] anArray = new int[10];
         //Creating a standard for loop.
+        for(int num = 0; num < anArray.length; num++)
         //Assigning values to each element in the array.
-        anArray[0] = 10;
-        anArray[1] = 20;
-        anArray[2] = 14;
-        anArray[3] = 8;
-        anArray[4] = 27;
-        anArray[5] = 44;
-        anArray[6] = 12;
-        anArray[7] = 7;
-        anArray[8] = 0;
-        anArray[9] = 84;
+        anArray[num] = 10;
+        
     }
 }
