@@ -32,7 +32,7 @@ public class ArrayListFun {
         //Creating an enhanced for loop.
         for(int i: nameList)
         {
-
+            //Printing each element of the list.
         }
     }
 }
