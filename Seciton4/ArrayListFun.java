@@ -12,6 +12,7 @@ public class ArrayListFun {
         ArrayList<String> nameList = new ArrayList<>();
 
         //Creating an array list for integers.
+        ArrayList<int> muNumList = new ArrayList<>();
 
         //Adding names to the list.
         nameList.add("John");
