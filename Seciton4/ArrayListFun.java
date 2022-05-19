@@ -12,5 +12,10 @@ public class ArrayListFun {
         ArrayList<String> nameList = new ArrayList<>();
 
         //Adding names to the list.
+        nameList.add("John");
+        nameList.add("Kyle");
+        nameList.add("Matthew");
+        nameList.add("Amanda");
+        nameList.add("Wendy");
     }
 }
