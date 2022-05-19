@@ -3,6 +3,10 @@ public class ArrayFun {
     //Creating main method.
     public static void main(String[] args)
     {
+        /*
+        Even though the elements of the array are refence 
+        types, the array itself is an integer type.
+        */
         //Creating an array reference.
         int[] myArray;
         //Initializing the array
