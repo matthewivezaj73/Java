@@ -24,7 +24,7 @@ public class moreArrayFun {
             anArray[num] = myRandomNumber;
         }
         //Printing the array.
-        System.out.println(anArray)
+        System.out.println(anArray);
         
     }
 }
