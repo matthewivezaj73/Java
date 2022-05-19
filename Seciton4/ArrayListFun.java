@@ -13,7 +13,9 @@ public class ArrayListFun {
 
         //Creating an array list for integers.
         ArrayList<int> muNumList = new ArrayList<>();
-
+        /**
+         * Array lists only hold reference types, not primitive.
+         */
         //Adding names to the list.
         nameList.add("John");
         nameList.add("Kyle");
