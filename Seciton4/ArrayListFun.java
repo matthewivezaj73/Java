@@ -11,6 +11,8 @@ public class ArrayListFun {
          */
         ArrayList<String> nameList = new ArrayList<>();
 
+        //Creating an array list for integers.
+
         //Adding names to the list.
         nameList.add("John");
         nameList.add("Kyle");
