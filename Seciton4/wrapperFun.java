@@ -30,7 +30,7 @@ public class wrapperFun{
         //Creating a string integer.
         String myValue = "3.14159";
         //Converting the string to a real double.
-        double doubleValue
+        double doubleValue = Double.parseDouble(myValue);
         //Adding 10 to the numericInt.
         numericValue += 10;
         //Printing out the value of numericValue.
