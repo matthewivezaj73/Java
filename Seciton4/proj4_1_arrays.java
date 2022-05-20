@@ -24,6 +24,7 @@ public class proj4_1_arrays
         int userInput4;
         int userInput5;
         //Telling the user to enter an integer.
+        System.out.println("Please enter an integer: ");
         //Creating an enhanced for loop.
         for(int i: myList)
         {
