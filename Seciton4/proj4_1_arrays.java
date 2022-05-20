@@ -26,6 +26,7 @@ public class proj4_1_arrays
         {
             //Asking the user for input.
             userInput = keyboard.nextInt();
+            //Asking the user to enter another.
         }
     }
 }
