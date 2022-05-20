@@ -11,6 +11,6 @@ public class proj4_1_arrays
     //Creating main method.
     public static void main(String[] args)
     {
-
+        //Creating an arraylist.
     }
 }
