@@ -18,6 +18,7 @@ public class proj4_1_arrays
         //Creating an arraylist.
         ArrayList<Integer> myList = new ArrayList();
         //Created a variable to store user input.
+        int userInput1;
         //Asking the user for 5 integers.
         System.out.println("Please enter a number:\t");
         //Asking the user to enter a number.
