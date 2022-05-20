@@ -21,7 +21,7 @@ public class proj4_1_arrays
         int userInput;
         //Telling the user to enter 5 integers.
         System.out.println("Please enter 5 integers: ");
-        //Creating an enhanced for loop.
+        //Creating a for loop.
         for(int i = 0; i < 6; i++)
         {
             userInput = keyboard.nextInt();
