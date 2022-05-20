@@ -32,6 +32,7 @@ public class proj4_1_arrays
             myList.add(userInput);
         }
         //Printing out a message to the user.
+        System.out.println("Now printing out the digits you just entered.");
         //Printing each number in the list out.
         for(int i: myList)
         {
