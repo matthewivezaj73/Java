@@ -23,7 +23,7 @@ public class proj4_1_arrays
         int userInput3;
         int userInput4;
         int userInput5;
-        //Creating a for loop.
+        //Creating an enhanced for loop.
         for(int i: myList)
         {
             
