@@ -24,6 +24,7 @@ public class proj4_1_arrays
         //Creating a for loop.
         for(int i = 0; i < 6; i++)
         {
+            //Asking the user for input.
             userInput = keyboard.nextInt();
         }
         //Asking the user for an integers.
