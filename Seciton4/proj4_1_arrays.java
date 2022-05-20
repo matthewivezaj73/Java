@@ -6,6 +6,7 @@
 //Importing the arraylist package.
 import java.util.ArrayList;
 //Importing scanner.
+import java.util.Scanner;
 //Creating public class.
 public class proj4_1_arrays
 {
