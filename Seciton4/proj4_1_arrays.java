@@ -17,5 +17,7 @@ public class proj4_1_arrays
         ArrayList<Integer> myList = new ArrayList();
         //Asking the user for 5 integers.
         System.out.println("Please enter a number:\t");
+        //Asking the user to enter a number.
+        
     }
 }
