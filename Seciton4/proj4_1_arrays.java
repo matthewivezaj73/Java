@@ -14,6 +14,7 @@ public class proj4_1_arrays
     public static void main(String[] args)
     {
         //Creating a scanner object.
+        Scanner keyboard = new Scanner(System.in);
         //Creating an arraylist.
         ArrayList<Integer> myList = new ArrayList();
         //Asking the user for 5 integers.
