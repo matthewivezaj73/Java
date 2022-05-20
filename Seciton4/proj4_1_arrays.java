@@ -20,6 +20,7 @@ public class proj4_1_arrays
         //Created a variable to store user input.
         int userInput1;
         int userInput2;
+        int userInput3;
         //Asking the user for an integers.
         System.out.println("Please enter a number:\t");
         //Asking the user to enter a number.
