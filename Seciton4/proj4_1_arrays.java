@@ -31,6 +31,7 @@ public class proj4_1_arrays
             //Adding the integer to the list.
             myList.add(userInput);
         }
+        //Printing out a message to the user.
         //Printing each number in the list out.
         for(int i: myList)
         {
