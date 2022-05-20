@@ -8,7 +8,7 @@ import java.util.ArrayList;
 //Creating public class.
 public class proj4_1_arrays
 {
-    
+    //Creating main method.
     public static void main(String[] args)
     {
 
