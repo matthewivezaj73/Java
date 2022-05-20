@@ -29,6 +29,7 @@ public class wrapperFun{
         int numericValue = Integer.parseInt(someValue);
         //Creating a string integer.
         String doubleValue = "3.14159";
+        //Converting the string to a real double.
         //Adding 10 to the numericInt.
         numericValue += 10;
         //Printing out the value of numericValue.
