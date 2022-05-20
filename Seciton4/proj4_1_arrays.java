@@ -34,7 +34,7 @@ public class proj4_1_arrays
         //Printing each number in the list out.
         for(int i: myList)
         {
-
+            //Printing out each value in the list.
         }
     }
 }
