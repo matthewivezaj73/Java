@@ -28,6 +28,8 @@ public class proj4_1_arrays
             System.out.println("Please enter another integer: ");
             //Asking the user for input.
             userInput = keyboard.nextInt();
+            //Adding the integer to the list.
+            myList.add(userInput);
         }
     }
 }
