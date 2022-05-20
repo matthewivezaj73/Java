@@ -27,9 +27,5 @@ public class proj4_1_arrays
             //Asking the user for input.
             userInput = keyboard.nextInt();
         }
-        //Asking the user for an integers.
-        System.out.println("Please enter a number:\t");
-        //Asking the user to enter a number.
-        userInput = keyboard.nextInt();
     }
 }
