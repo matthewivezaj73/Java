@@ -37,7 +37,7 @@ public class proj4_1_arrays
         for(int i: myList)
         {
             //Printing out each value in the list.
-            System.out.println(i);
+            System.out.println(i*2);
         }
     }
 }
