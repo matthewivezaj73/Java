@@ -32,5 +32,9 @@ public class proj4_1_arrays
             myList.add(userInput);
         }
         //Printing each number in the list out.
+        for(int i: myList)
+        {
+
+        }
     }
 }
