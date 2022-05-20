@@ -24,10 +24,11 @@ public class proj4_1_arrays
         //Creating a for loop.
         for(int i = 0; i < 5; i++)
         {
-            //Asking the user for input.
-            userInput = keyboard.nextInt();
             //Asking the user to enter another.
             System.out.println("Please enter another integer: ");
+            //Asking the user for input.
+            userInput = keyboard.nextInt();
+            
         }
     }
 }
