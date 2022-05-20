@@ -3,3 +3,4 @@
  *      5/20/2022
  *      Proj4_1_Arrays.java
  */
+//Importing the arraylist package.
