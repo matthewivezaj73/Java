@@ -28,7 +28,7 @@ public class proj4_1_arrays
         //Creating an enhanced for loop.
         for(int i: myList)
         {
-            
+            userInput = keyboard.nextInt();
         }
         //Asking the user for an integers.
         System.out.println("Please enter a number:\t");
