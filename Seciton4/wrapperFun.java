@@ -36,5 +36,6 @@ public class wrapperFun{
         //Printing out the value of numericValue.
         System.out.println(numericValue);
         //Printing the double out.
+        System.out.println(doubleValue);
     }
 }
