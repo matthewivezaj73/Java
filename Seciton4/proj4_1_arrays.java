@@ -27,6 +27,7 @@ public class proj4_1_arrays
             //Asking the user for input.
             userInput = keyboard.nextInt();
             //Asking the user to enter another.
+            System.out.println("Please enter another integer: ");
         }
     }
 }
