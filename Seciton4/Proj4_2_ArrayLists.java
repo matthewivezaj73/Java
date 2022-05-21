@@ -4,5 +4,6 @@ public class Proj4_2_ArrayLists {
     public static void main(String[] args)
     {
         //Creating an arraylist.
+        ArrayList<Integer> myList = new ArrayList();
     }
 }
