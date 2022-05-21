@@ -1,6 +1,7 @@
 //Importing package.
 import java.util.Scanner;
 //Importing library.
+import java.util.ArrayList;
 //Creating a public class.
 public class Proj4_2_ArrayLists {
     //Creating a main method.
