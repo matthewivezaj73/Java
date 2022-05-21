@@ -53,6 +53,7 @@ public class Proj4_2_ArrayLists {
         for(int myInt = myList.size() - 1; myInt < 5; myInt--)
         {
             //Printing out each value.
+            System.out.print(myInt);
         }
     }
 }
