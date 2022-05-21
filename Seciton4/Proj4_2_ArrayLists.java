@@ -29,7 +29,7 @@ public class Proj4_2_ArrayLists {
         else
         {
             //Printing a message to the user.
-            System.out.println("Sorry, but, " + userInput + " is either a non numeric value or a negative value. Please try again!")
+            System.out.println("Sorry, but, " + userInput + " is either a non numeric value or a negative value. Please try again!");
         }
     }
 }
