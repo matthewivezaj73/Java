@@ -35,6 +35,7 @@ public class Proj4_2_ArrayLists {
             else if(userInput < 0)
             {
                 //Notifying the user that they are now exiting the program.
+                System.out.print("Now exiting the program...");
                 //Breaking out of the program.
                 break;
             }
