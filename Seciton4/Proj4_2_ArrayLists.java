@@ -14,7 +14,6 @@ public class Proj4_2_ArrayLists {
         //Creating a variable.
         int userInput;
         int countInteger = 0;
-        
         //Adding a while loop.
         while(countInteger < 5)
         {
