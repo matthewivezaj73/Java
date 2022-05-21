@@ -28,6 +28,7 @@ public class Proj4_2_ArrayLists {
                 myList.add(userInput);
                 //Notifying the user that the input has been hadded to the array list.
                 System.out.println("Added!");
+                //Incrementing countInteger.
             }
             //Handling the case where the inputted value is greater than 0.
             else
