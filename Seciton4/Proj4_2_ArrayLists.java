@@ -10,7 +10,7 @@ public class Proj4_2_ArrayLists {
         //Creating a scanner object.
         Scanner keyboard = new Scanner(System.in);
         //Creating an arraylist.
-        ArrayList<Integer> myList = new ArrayList();
+        ArrayList<Double> myList = new ArrayList();
         //Creating a variable.
         int userInput;
         int countInteger = 0;
