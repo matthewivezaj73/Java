@@ -50,7 +50,7 @@ public class Proj4_2_ArrayLists {
             }
         }
         //Printing the list in reverse.
-        for(int myInt; myInt < 5; i--)
+        for(int myInt = myList.size() - 1; myInt < 5; myInt--)
         {
 
         }
