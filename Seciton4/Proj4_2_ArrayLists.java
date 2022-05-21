@@ -15,7 +15,8 @@ public class Proj4_2_ArrayLists {
         int userInput;
         int countInteger = 0;
         //Adding a primitive read.
-        System.out.print("Pleaser enter a non-negative number.");
+        System.out.print("Pleaser enter a non-negative Integer.");
+        
         //Adding a while loop.
         while(countInteger < 5)
         {
