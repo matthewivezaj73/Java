@@ -16,6 +16,10 @@ public class Proj4_2_ArrayLists {
         //Requesting user input.
         userInput = keyboard.nextInt();
         //Creating an if else statement.
+        if(userInput > 0)
+        {
+
+        }
         //Creating an arraylist.
         ArrayList<Integer> myList = new ArrayList();
     }

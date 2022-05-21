@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch moreArrayFun",
+            "request": "launch",
+            "mainClass": "moreArrayFun",
+            "projectName": "Java-1_82dce2b6"
+        },
+        {
+            "type": "java",
             "name": "Launch divisibleByThree",
             "request": "launch",
             "mainClass": "divisibleByThree",
