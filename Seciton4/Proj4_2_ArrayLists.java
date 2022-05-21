@@ -34,6 +34,7 @@ public class Proj4_2_ArrayLists {
             //Handling the case where userInput < 0 is in the entry.
             else if(userInput < 0)
             {
+                //Notifying the user that they are now exiting the program.
                 //Breaking out of the program.
                 break;
             }
