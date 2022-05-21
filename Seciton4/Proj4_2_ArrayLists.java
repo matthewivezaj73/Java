@@ -12,7 +12,7 @@ public class Proj4_2_ArrayLists {
         //Creating an arraylist.
         ArrayList<Double> myList = new ArrayList();
         //Creating a variable.
-        int userInput;
+        double userInput;
         int countInteger = 0;
         //Adding a primitive read.
         System.out.print("Pleaser enter a non-negative Integer.");
