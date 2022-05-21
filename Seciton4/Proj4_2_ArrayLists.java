@@ -32,6 +32,10 @@ public class Proj4_2_ArrayLists {
                 countInteger += 1;
             }
             //Handling the case where userInput < 0 is in the entry.
+            else if(userInput < 0)
+            {
+                
+            }
             //Handling the case where the inputted value is greater than 0.
             else
             {
