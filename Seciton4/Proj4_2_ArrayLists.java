@@ -42,12 +42,6 @@ public class Proj4_2_ArrayLists {
                 //Breaking out of the program.
                 break;
             }
-            //Capturing other input.
-            else
-            {
-                //Printing a message to the user.
-                System.out.println("Sorry, but, '" + userInput + "'' is either a non numeric value or a negative value. Please try again!");
-            }
         }
         //Printing the list in reverse.
         for(int myInt = myList.size() - 1; myInt >= 5; myInt--)
