@@ -9,6 +9,8 @@ public class Proj4_2_ArrayLists {
     {
         //Creating a scanner object.
         Scanner keyboard = new Scanner(System.in);
+        //Creating an arraylist.
+        ArrayList<Integer> myList = new ArrayList();
         //Creating a variable.
         int userInput;
         //Telling the user to enter a number greater that 0.
@@ -20,7 +22,6 @@ public class Proj4_2_ArrayLists {
         {
             //Adding the input to the array.
         }
-        //Creating an arraylist.
-        ArrayList<Integer> myList = new ArrayList();
+        
     }
 }
