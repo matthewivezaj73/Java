@@ -15,6 +15,7 @@ public class Proj4_2_ArrayLists {
         System.out.print("Please enter a positive number:\t");
         //Requesting user input.
         userInput = keyboard.nextInt();
+        //Creating an if else statement.
         //Creating an arraylist.
         ArrayList<Integer> myList = new ArrayList();
     }
