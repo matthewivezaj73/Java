@@ -21,6 +21,7 @@ public class Proj4_2_ArrayLists {
         //Adding a while loop.
         while(countInteger < 5)
         {
+            //Telling the user to enter another integer.
             //Creating an if else statement.
             if(userInput > 0)
             {
