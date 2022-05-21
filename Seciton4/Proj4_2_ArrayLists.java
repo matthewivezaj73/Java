@@ -13,6 +13,7 @@ public class Proj4_2_ArrayLists {
         ArrayList<Integer> myList = new ArrayList();
         //Creating a variable.
         int userInput;
+        int sample;
         int countInteger = 0;
         //Adding a primitive read.
         System.out.print("Pleaser enter a non-negative Integer.");
@@ -50,9 +51,9 @@ public class Proj4_2_ArrayLists {
             }
         }
         //Printing the list in reverse.
-        for(int i; i < 5; i++)
+        for(int i; i < 5; i--)
         {
-            
+
         }
     }
 }
