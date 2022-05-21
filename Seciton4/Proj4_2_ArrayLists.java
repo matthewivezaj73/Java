@@ -46,6 +46,6 @@ public class Proj4_2_ArrayLists {
                 System.out.println("Sorry, but, " + userInput + " is either a non numeric value or a negative value. Please try again!");
             }
         }
-        //Reversing the array.
+
     }
 }
