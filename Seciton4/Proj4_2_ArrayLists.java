@@ -42,7 +42,7 @@ public class Proj4_2_ArrayLists {
                 //Breaking out of the program.
                 break;
             }
-            //Handling the case where the inputted value is greater than 0.
+            //Capturing other input.
             else
             {
                 //Printing a message to the user.
