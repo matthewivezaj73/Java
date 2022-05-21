@@ -18,7 +18,7 @@ public class Proj4_2_ArrayLists {
         while(countInteger < 5)
         {
             //Telling the user to enter a number greater that 0.
-            System.out.print("Please enter a positive number:\t");
+            System.out.print("Please enter a positive number (note that entering a negative exits the program):\t");
             //Requesting user input.
             userInput = keyboard.nextInt();
             //Creating an if else statement.
