@@ -14,14 +14,14 @@ public class Proj4_2_ArrayLists {
         //Creating a variable.
         int userInput;
         int countInteger = 0;
-        //Telling the user to enter a number greater that 0.
-        System.out.print("Please enter a positive number:\t");
-        //Requesting user input.
-        userInput = keyboard.nextInt();
+        
         //Adding a while loop.
         while(countInteger < 5)
         {
-            //Telling the user to enter another integer.
+            //Telling the user to enter a number greater that 0.
+            System.out.print("Please enter a positive number:\t");
+            //Requesting user input.
+            userInput = keyboard.nextInt();
             //Creating an if else statement.
             if(userInput > 0)
             {
