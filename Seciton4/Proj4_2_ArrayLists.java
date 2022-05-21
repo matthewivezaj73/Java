@@ -8,6 +8,7 @@ public class Proj4_2_ArrayLists {
     public static void main(String[] args)
     {
         //Creating a scanner object.
+        Scanner keyboard = new Scanner(System.in);
         //Creating an arraylist.
         ArrayList<Integer> myList = new ArrayList();
     }
