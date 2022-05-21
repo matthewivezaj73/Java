@@ -19,7 +19,7 @@ public class Proj4_2_ArrayLists {
         //Requesting user input.
         userInput = keyboard.nextInt();
         //Adding a while loop.
-        while(userInput < 0)
+        while(countInteger < 5)
         {
             //Creating an if else statement.
             if(userInput > 0)
