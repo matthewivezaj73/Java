@@ -25,6 +25,7 @@ public class Proj4_2_ArrayLists {
             //Notifying the user that the input has been hadded to the array list.
             System.out.println("Added!");
         }
+        //Handling the case where the inputted value is greater than 0.
         
     }
 }
