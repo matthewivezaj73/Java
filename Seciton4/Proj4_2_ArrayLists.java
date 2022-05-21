@@ -23,7 +23,7 @@ public class Proj4_2_ArrayLists {
             //Adding the input to the array.
             myList.add(userInput);
             //Notifying the user that the input has been hadded to the array list.
-            
+            System.out.println("Added!");
         }
         
     }
