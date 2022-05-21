@@ -44,7 +44,7 @@ public class Proj4_2_ArrayLists {
             }
         }
         //Printing the list in reverse.
-        for(int myInt = myList.size() - 1; myInt >= 5; myInt--)
+        for(int myInt = myList.size() - 1; myInt >= 0; myInt--)
         {
             //Printing out each value.
             System.out.println(myList.get(myInt));
