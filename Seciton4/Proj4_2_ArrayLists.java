@@ -11,6 +11,7 @@ public class Proj4_2_ArrayLists {
         Scanner keyboard = new Scanner(System.in);
         //Telling the user to enter a number greater that 0.
         System.out.print("Please enter a positive number:\t");
+        //Requesting user input.
         //Creating an arraylist.
         ArrayList<Integer> myList = new ArrayList();
     }
