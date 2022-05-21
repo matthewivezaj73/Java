@@ -13,6 +13,7 @@ public class Proj4_2_ArrayLists {
         ArrayList<Integer> myList = new ArrayList();
         //Creating a variable.
         int userInput;
+        int countInteger = 0;
         //Telling the user to enter a number greater that 0.
         System.out.print("Please enter a positive number:\t");
         //Requesting user input.
