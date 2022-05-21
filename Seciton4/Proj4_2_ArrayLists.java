@@ -18,7 +18,7 @@ public class Proj4_2_ArrayLists {
         //Creating an if else statement.
         if(userInput > 0)
         {
-
+            //Adding the input to the array.
         }
         //Creating an arraylist.
         ArrayList<Integer> myList = new ArrayList();
