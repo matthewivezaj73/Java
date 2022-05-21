@@ -50,5 +50,9 @@ public class Proj4_2_ArrayLists {
             }
         }
         //Printing the list in reverse.
+        for(int i; i < 5; i++)
+        {
+            
+        }
     }
 }
