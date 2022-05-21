@@ -21,6 +21,7 @@ public class Proj4_2_ArrayLists {
         if(userInput > 0)
         {
             //Adding the input to the array.
+            myList.add(userInput);
         }
         
     }
