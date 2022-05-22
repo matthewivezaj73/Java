@@ -22,6 +22,7 @@ public class Proj4_3_Parallel {
         int individualAge;
         //Print a message out to the user.
         System.out.print("Please enter 5 individual's names and ages.\n");
+        while(placeCounter < 5)
         //Creating a for loop.
         for(int i = 0; i < 1; i++)
         {
