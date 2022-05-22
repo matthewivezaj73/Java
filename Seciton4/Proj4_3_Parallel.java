@@ -38,8 +38,7 @@ public class Proj4_3_Parallel {
                 // {
                 //Adding the individual's name to the list.
                 IndividualNames.add(individualName);
-                //Incrementing place counter.
-                placeCounter += 1;
+
                     
                 // }
 
