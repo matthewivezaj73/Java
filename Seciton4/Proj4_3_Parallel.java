@@ -42,18 +42,6 @@ public class Proj4_3_Parallel {
             String individual_Info = individualName + " is " + individualAge+" years old.\n";
             //Appending the formed string to a list.
             Individuals.add(individual_Info);
-            
-            //Checking if placeCounter is equal to 5.
-            while(placeCounter > 4)
-            {
-                //Running a for loop.
-                for(int iterator = IndividualNames.size() + 1; iterator < 6; iterator++)
-                {
-                    //Printing out the collected data.
-                    System.out.print(individualName + " is " + individualAge+" years old.\n");
-                    
-                }
-            }
             //Incrementing place counter.
             placeCounter += 1;
         }
