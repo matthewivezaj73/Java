@@ -24,6 +24,7 @@ public class Proj4_3_Parallel {
         {
             //Print a message out to the user.
             System.out.print("Please enter 5 individuals:/t");
+            //Requesting user input.
         }
     }
 }
