@@ -46,5 +46,9 @@ public class Proj4_3_Parallel {
             placeCounter += 1;
         }
         //Creating a for loop and printing each individuals info.
+        for(int i = 0; i < 6; i++)
+        {
+            
+        }
     }
 }
