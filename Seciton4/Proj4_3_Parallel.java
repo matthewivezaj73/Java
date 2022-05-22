@@ -39,6 +39,7 @@ public class Proj4_3_Parallel {
                 //Printing a message to the user.
                 System.out.println("Adding the individual now!");
                 //Adding the individual's name to the list.
+                IndividualNames.add(individualName);
                 //Incrementing place counter.
                 placeCounter += 1;
                 
