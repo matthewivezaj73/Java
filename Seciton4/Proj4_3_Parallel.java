@@ -25,10 +25,11 @@ public class Proj4_3_Parallel {
         while (placeCounter < 5)
         {
             //Asing for the individual's name.
-            System.out.print("What is the first person's name:\t");
+            System.out.print("What is the person's name:\t");
             //Requesting user input.
             individualName = keyboard.nextLine();
             //Asking for the individual's age.
+            System.out.print("What is the person's age:\t");
             //Checking to see if the name is 1 character or longer.
             if(individualName.length() > 5)
             {
