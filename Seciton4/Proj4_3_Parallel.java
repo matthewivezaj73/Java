@@ -21,7 +21,7 @@ public class Proj4_3_Parallel {
         //Creating a while loop.
         while (placeCounter < 5)
         {
-            
+            //Print a message out to the user.
         }
     }
 }
