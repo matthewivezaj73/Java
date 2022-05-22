@@ -42,8 +42,7 @@ public class Proj4_3_Parallel {
             String individual_Info = individualName + " is " + individualAge+" years old.\n";
             //Appending the formed string to a list.
             Individuals.add(individual_Info);
-            //Incrementing place counter.
-            placeCounter += 1;
+            
             //Checking if placeCounter is equal to 5.
             if(placeCounter == 5)
             {
@@ -55,6 +54,8 @@ public class Proj4_3_Parallel {
                     
                 }
             }
+            //Incrementing place counter.
+            placeCounter += 1;
         }
     }
 }
