@@ -38,10 +38,6 @@ public class Proj4_3_Parallel {
                 // {
                 //Adding the individual's name to the list.
                 IndividualNames.add(individualName);
-
-                    
-                // }
-
             }
             //Creating a for loop.
             for(int myInt = 0; myInt < 1; myInt++)
