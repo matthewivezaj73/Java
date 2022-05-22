@@ -44,7 +44,7 @@ public class Proj4_3_Parallel {
             if(placeCounter == 5)
             {
                 //Running a for loop.
-                for(int iterator = 0; iterator < 5; iterator++)
+                for(int iterator = 0; iterator < 6; iterator++)
                 {
                     //Printing out the collected data.
                     System.out.print(individualName + " is " + individualAge+" years old.\n");
