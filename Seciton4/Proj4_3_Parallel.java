@@ -24,7 +24,7 @@ public class Proj4_3_Parallel {
         //Creating a while loop.
         while (placeCounter < 5)
         {
-            
+            //Asing for the individual's name.
             //Requesting user input.
             individualName = keyboard.nextLine();
             //Checking to see if the name is 1 character or longer.
