@@ -18,5 +18,6 @@ public class Proj4_3_Parallel {
         ArrayList<Integer> IndividualAges = new ArrayList();
         //Creating variables.
         int placeCounter = 0;
+        //Creating a while loop.
     }
 }
