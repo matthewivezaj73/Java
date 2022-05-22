@@ -25,6 +25,7 @@ public class StringMethods1 {
         else
         {
             //Printing a message stating the strings are not equal.
+            System.out.println("The names are not equal!");
         }
     }
 }
