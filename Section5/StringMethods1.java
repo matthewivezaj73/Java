@@ -6,5 +6,6 @@ public class StringMethods1 {
         //Creating variables.
         String name = "Matthew Ivezaj";
         String name2 = "Matthew Ivezaj";
+        String name3 = "John Doe";
     }
 }
