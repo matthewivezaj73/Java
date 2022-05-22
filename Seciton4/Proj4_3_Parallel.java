@@ -49,7 +49,7 @@ public class Proj4_3_Parallel {
         for(String i: Individuals)
         {
             //Printing out each value in the list.
-            System.out.println(i);
+            System.out.print(i);
         }
     }
 }
