@@ -46,12 +46,7 @@ public class Proj4_3_Parallel {
                 placeCounter += 1;
                 
             }
-            //Handling the alternative case.
-            else
-            {
-                //Breaking out of the loop.
-                break;
-            }
+
         }
     }
 }
