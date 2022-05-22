@@ -18,7 +18,7 @@ public class StringMethods1 {
         //Not using == in java when comparing objects.
         if(name.equals(name2))
         {
-            
+            //Comparing two names to see if they are equal.
         }
     }
 }
