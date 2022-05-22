@@ -12,6 +12,7 @@ public class Proj4_3_Parallel {
     public static void main(String[] args)
     {
         //Creating a scanner.
+        Scanner keyboard = new Scanner(System.in);
         //Creating variables.
     }
 }
