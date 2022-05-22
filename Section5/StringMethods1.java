@@ -3,6 +3,7 @@ public class StringMethods1 {
     //Creating a main method.
     public static void main(Strings[] args)
     {
+        //Creating variables.
         
     }
 }
