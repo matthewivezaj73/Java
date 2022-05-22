@@ -21,5 +21,6 @@ public class StringMethods1 {
             //Comparing two names to see if they are equal.
             System.out.println("The names are equal.");
         }
+        //Handling the case where the naems are not equal.
     }
 }
