@@ -30,6 +30,7 @@ public class Proj4_3_Parallel {
             if(individualName.length() > 5)
             {
                 //Printing a message to the user.
+                System.out.println("Adding the individual now!");
                 //Incrementing place counter.
                 placeCounter += 1;
             }
