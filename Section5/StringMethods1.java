@@ -10,7 +10,7 @@ public class StringMethods1 {
         //Creating a for loop to analyze a string.
         for(int i = 0; i < name.length(); i++)
         {
-            
+            //Printing a character from each name.
         }
     }
 }
