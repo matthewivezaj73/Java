@@ -22,5 +22,9 @@ public class StringMethods1 {
             System.out.println("The names are equal.");
         }
         //Handling the case where the names are not equal.
+        else
+        {
+            
+        }
     }
 }
