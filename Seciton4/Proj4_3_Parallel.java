@@ -35,16 +35,14 @@ public class Proj4_3_Parallel {
                 //Adding the individual's name to the list.
                 IndividualNames.add(individualName);
             }
-            //Creating a for loop.
-            for(int myInt = 0; myInt < 1; myInt++)
-            {
-                //Asking for the individual's age.
-                System.out.print("What is the person's age:\t");
-                //Requesting user input.
-                individualAge = keyboard.nextInt();
-                //Adding the individual's age to the list.
-                IndividualAges.add(individualAge);
-            }
+
+            //Asking for the individual's age.
+            System.out.print("What is the person's age:\t");
+            //Requesting user input.
+            individualAge = keyboard.nextInt();
+            //Adding the individual's age to the list.
+            IndividualAges.add(individualAge);
+
             //Printing out the collected data.
             System.out.print("The individual's name is " + individualName + ".\nThe individual's age is " + individualAge);
             //Incrementing place counter.
