@@ -33,8 +33,7 @@ public class Proj4_3_Parallel {
                 System.out.println("Adding the individual now!");
                 //Incrementing place counter.
                 placeCounter += 1;
-                //Breaking out of the loop.
-                break;
+
             }
             //Handling the alternative case.
             else
