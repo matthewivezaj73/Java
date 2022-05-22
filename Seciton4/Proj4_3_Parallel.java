@@ -22,13 +22,14 @@ public class Proj4_3_Parallel {
         //Creating a while loop.
         while (placeCounter < 5)
         {
+            //Print a message out to the user.
+            System.out.print("Please enter 5 individuals:\t");
             //Requesting user input.
             individualName = keyboard.nextLine();
             //Checking to see if the name is 1 character or longer.
             if(individualName.length() > 5)
             {
-                //Print a message out to the user.
-                System.out.print("Please enter 5 individuals:\t");
+                
                 
                 //Adding the individual to the list.
                 //Incrementing place counter.
