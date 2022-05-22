@@ -44,6 +44,7 @@ public class Proj4_3_Parallel {
             //Checking if placeCounter is equal to 5.
             if(placeCounter == 5)
             {
+                //Running a for loop.
                 for(int iterator = 0; iterator < 5; iterator++)
                 {
                     
