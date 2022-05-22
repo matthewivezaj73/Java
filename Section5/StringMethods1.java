@@ -4,6 +4,6 @@ public class StringMethods1 {
     public static void main(Strings[] args)
     {
         //Creating variables.
-        
+        String name = "Matthew Ivezaj";
     }
 }
