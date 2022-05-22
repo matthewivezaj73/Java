@@ -20,7 +20,7 @@ public class Proj4_3_Parallel {
         int placeCounter = 0;
         String individualName;
         //Print a message out to the user.
-        System.out.print("Please enter 5 individuals:\t");
+        System.out.print("Please enter 5 individuals names and ages:\t");
         //Creating a while loop.
         while (placeCounter < 5)
         {
