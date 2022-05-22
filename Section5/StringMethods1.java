@@ -1,7 +1,7 @@
 //Creating a public class. 
 public class StringMethods1 {
     //Creating a main method.
-    public static void main(Strings[] args)
+    public static void main(String[] args)
     {
         //Creating variables.
         String name = "Matthew Ivezaj";
