@@ -38,6 +38,7 @@ public class Proj4_3_Parallel {
             individualAge = keyboard.nextInt();
             //Adding the individual's age to the list.
             IndividualAges.add(individualAge);
+            //Creating a formatted string.
             String individual_Info = individualName + " is " + individualAge+" years old.\n";
             //Appending the formed string to a list.
             Individuals.add()
