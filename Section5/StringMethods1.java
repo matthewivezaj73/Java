@@ -15,7 +15,7 @@ public class StringMethods1 {
         }
         //Adding some padding.
         System.out.println();
-        //Handling the case where the naems are equal.
+        //Handling the case where the names are equal.
         if(name.equals(name2))
         {
             //Comparing two names to see if they are equal.
