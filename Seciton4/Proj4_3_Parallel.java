@@ -38,7 +38,7 @@ public class Proj4_3_Parallel {
             individualAge = keyboard.nextInt();
             //Adding the individual's age to the list.
             IndividualAges.add(individualAge);
-            
+            //Appending the formed string to a list.
             //Incrementing place counter.
             placeCounter += 1;
             //Checking if placeCounter is equal to 5.
