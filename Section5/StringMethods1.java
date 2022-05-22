@@ -11,6 +11,7 @@ public class StringMethods1 {
         for(int i = 0; i < name.length(); i++)
         {
             //Printing a character from each name.
+            System.out.println(name.charAt(i));
         }
     }
 }
