@@ -41,6 +41,7 @@ public class Proj4_3_Parallel {
                 //Adding the individual's name to the list.
                 IndividualNames.add(individualName);
                 //Adding the individual's age to the list.
+                IndividualAges.add(individualAge);
                 //Incrementing place counter.
                 placeCounter += 1;
                 
