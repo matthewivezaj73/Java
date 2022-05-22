@@ -22,7 +22,7 @@ public class Proj4_3_Parallel {
         //Creating a while loop.
         while (placeCounter < 5)
         {
-            if(placeCounter < 5)
+            if(individualName.length() > 5)
             {
                 //Print a message out to the user.
                 System.out.print("Please enter 5 individuals:\t");
@@ -32,9 +32,10 @@ public class Proj4_3_Parallel {
                 //Incrementing place counter.
                 placeCounter += 1;
             }
+            //Handling the alternative case.
             else
             {
-                
+
             }
         }
     }
