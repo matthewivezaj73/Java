@@ -16,6 +16,7 @@ public class Proj4_3_Parallel {
         //Creating two arrays.
         ArrayList<String> IndividualNames = new ArrayList();
         ArrayList<Integer> IndividualAges = new ArrayList();
+        ArrayList<String> Individuals = new ArrayList();
         //Creating variables.
         int placeCounter = 0;
         String individualName;
