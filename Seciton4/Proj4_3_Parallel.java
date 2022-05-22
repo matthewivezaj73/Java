@@ -29,6 +29,7 @@ public class Proj4_3_Parallel {
                 //Requesting user input.
                 individualName = keyboard.nextLine();
                 //Incrementing place counter.
+                placeCounter += 1;
             }
         }
     }
