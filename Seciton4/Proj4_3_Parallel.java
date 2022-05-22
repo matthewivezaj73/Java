@@ -29,7 +29,7 @@ public class Proj4_3_Parallel {
             //Checking to see if the name is 1 character or longer.
             if(individualName.length() > 5)
             {
-
+                //Printing a message to the user.
                 //Incrementing place counter.
                 placeCounter += 1;
             }
