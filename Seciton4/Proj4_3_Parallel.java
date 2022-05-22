@@ -28,6 +28,7 @@ public class Proj4_3_Parallel {
                 System.out.print("Please enter 5 individuals:\t");
                 //Requesting user input.
                 individualName = keyboard.nextLine();
+                //Adding the individual to the list.
                 //Incrementing place counter.
                 placeCounter += 1;
             }
