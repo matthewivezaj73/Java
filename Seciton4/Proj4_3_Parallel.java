@@ -44,7 +44,7 @@ public class Proj4_3_Parallel {
             Individuals.add(individual_Info);
             
             //Checking if placeCounter is equal to 5.
-            if(placeCounter == 5)
+            while(placeCounter > 4)
             {
                 //Running a for loop.
                 for(int iterator = IndividualNames.size() + 1; iterator < 6; iterator++)
