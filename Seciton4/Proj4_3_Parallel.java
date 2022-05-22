@@ -47,7 +47,8 @@ public class Proj4_3_Parallel {
                 for(int iterator = IndividualNames.size() + 1; iterator < 6; iterator++)
                 {
                     //Printing out the collected data.
-                    System.out.println(IndividualNames.get(iterator));
+                    System.out.print(individualName + " is " + individualAge+" years old.\n");
+                    
                 }
             }
         }
