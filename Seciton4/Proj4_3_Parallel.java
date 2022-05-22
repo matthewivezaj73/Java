@@ -3,7 +3,7 @@
     05/21/2022
     Parallel
 */
-//Importing a library.
+//Importing libraries.
 import java.util.Scanner;
 //Creating a public class.
 public class Proj4_3_Parallel {
