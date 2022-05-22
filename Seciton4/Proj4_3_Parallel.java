@@ -15,6 +15,7 @@ public class Proj4_3_Parallel {
         Scanner keyboard = new Scanner(System.in);
         //Creating an array.
         ArrayList<String> IndividualNames = new ArrayList();
+        ArrayList<Integer> IndividualAges = new ArrayList();
         //Creating variables.
         int placeCounter = 0;
     }
