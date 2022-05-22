@@ -13,5 +13,6 @@ public class StringMethods1 {
             //Printing a character from each name.
             System.out.println(name.charAt(i));
         }
+        //Adding some padding.
     }
 }
