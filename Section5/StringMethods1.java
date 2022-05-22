@@ -24,7 +24,7 @@ public class StringMethods1 {
         //Handling the case where the names are not equal.
         else
         {
-            
+            //Printing a message stating the strings are not equal.
         }
     }
 }
