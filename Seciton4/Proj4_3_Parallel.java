@@ -34,7 +34,7 @@ public class Proj4_3_Parallel {
             //Requesting user input.
             individualAge = keyboard.nextInt();
             //Checking to see if the name is 1 character or longer.
-            if(individualName.length() > 5)
+            if(individualName.length() > 0)
             {
                 //Printing a message to the user.
                 System.out.println("Adding the individual now!");
