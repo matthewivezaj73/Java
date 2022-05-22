@@ -19,6 +19,7 @@ public class StringMethods1 {
         if(name.equals(name2))
         {
             //Comparing two names to see if they are equal.
+            System.out.println("The names are equal.");
         }
     }
 }
