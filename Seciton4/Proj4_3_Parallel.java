@@ -42,6 +42,10 @@ public class Proj4_3_Parallel {
             //Incrementing place counter.
             placeCounter += 1;
             //Checking if placeCounter is equal to 5.
+            for(int iterator = 0; iterator < 5; iterator++)
+            {
+                
+            }
         }
     }
 }
