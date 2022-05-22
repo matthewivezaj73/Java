@@ -29,6 +29,7 @@ public class Proj4_3_Parallel {
             System.out.print("What is the person's name:\t");
             //Requesting user input.
             individualName = keyboard.nextLine();
+            //Checking to see if the individual's name was entered first.
             //Asking for the individual's age.
             System.out.print("What is the person's age:\t");
             //Requesting user input.
