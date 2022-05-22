@@ -8,5 +8,9 @@ public class StringMethods1 {
         String name2 = "Matthew Ivezaj";
         String name3 = "John Doe";
         //Creating a for loop to analyze a string.
+        for(int i = 0; i < name.length(); i++)
+        {
+            
+        }
     }
 }
