@@ -25,12 +25,12 @@ public class Proj4_3_Parallel {
         //Creating a while loop.
         while(placeCounter < 5)
         {
-                //Asing for the individual's name.
-                System.out.print("What is the person's name:\t");
-                //Requesting user input.
-                individualName = keyboard.next();
-                //Adding the individual's name to the list.
-                IndividualNames.add(individualName);
+            //Asing for the individual's name.
+            System.out.print("What is the person's name:\t");
+            //Requesting user input.
+            individualName = keyboard.next();
+            //Adding the individual's name to the list.
+            IndividualNames.add(individualName);
             //Asking for the individual's age.
             System.out.print("What is the person's age:\t");
             //Requesting user input.
