@@ -8,6 +8,6 @@ public class Proj4_3_Parallel {
     //Creating a main method.
     public static void main(String[] args)
     {
-        
+        //Creating variables.
     }
 }
