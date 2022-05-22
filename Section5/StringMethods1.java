@@ -16,5 +16,9 @@ public class StringMethods1 {
         //Adding some padding.
         System.out.println();
         //Not using == in java when comparing objects.
+        if(name.equals(name2))
+        {
+            
+        }
     }
 }
