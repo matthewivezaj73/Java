@@ -36,8 +36,6 @@ public class Proj4_3_Parallel {
                 //Checking to see if the name is 1 character or longer.
                 // if(individualName.length() > 0)
                 // {
-                //Printing a message to the user.
-                System.out.println("Adding the individual now!");
                 //Adding the individual's name to the list.
                 IndividualNames.add(individualName);
                 //Incrementing place counter.
