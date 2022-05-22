@@ -45,5 +45,9 @@ public class Proj4_3_Parallel {
             // }
 
         }
+                    //Asking for the individual's age.
+                    System.out.print("What is the person's age:\t");
+                    //Requesting user input.
+                    individualAge = keyboard.nextInt();
     }
 }
