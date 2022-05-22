@@ -16,5 +16,6 @@ public class Proj4_3_Parallel {
         //Creating an array.
         ArrayList<String> people = new ArrayList();
         //Creating variables.
+        int placeCounter = 0;
     }
 }
