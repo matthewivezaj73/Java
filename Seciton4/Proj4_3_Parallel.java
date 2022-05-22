@@ -29,10 +29,7 @@ public class Proj4_3_Parallel {
             System.out.print("What is the person's name:\t");
             //Requesting user input.
             individualName = keyboard.nextLine();
-            //Asking for the individual's age.
-            System.out.print("What is the person's age:\t");
-            //Requesting user input.
-            individualAge = keyboard.nextInt();
+
             //Checking to see if the name is 1 character or longer.
             // if(individualName.length() > 0)
             // {
