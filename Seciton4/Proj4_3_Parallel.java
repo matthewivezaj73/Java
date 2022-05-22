@@ -13,7 +13,7 @@ public class Proj4_3_Parallel {
     {
         //Creating a scanner.
         Scanner keyboard = new Scanner(System.in);
-        //Creating an array.
+        //Creating two arrays.
         ArrayList<String> IndividualNames = new ArrayList();
         ArrayList<Integer> IndividualAges = new ArrayList();
         //Creating variables.
