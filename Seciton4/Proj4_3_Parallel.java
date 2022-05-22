@@ -25,7 +25,7 @@ public class Proj4_3_Parallel {
             if(placeCounter < 5)
             {
                 //Print a message out to the user.
-                System.out.print("Please enter 5 individuals:/t");
+                System.out.print("Please enter 5 individuals:\t");
                 //Requesting user input.
                 individualName = keyboard.nextLine();
                 //Incrementing place counter.
