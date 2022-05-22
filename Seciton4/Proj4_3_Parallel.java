@@ -32,10 +32,6 @@ public class Proj4_3_Parallel {
                 System.out.print("What is the person's name:\t");
                 //Requesting user input.
                 individualName = keyboard.next();
-
-                //Checking to see if the name is 1 character or longer.
-                // if(individualName.length() > 0)
-                // {
                 //Adding the individual's name to the list.
                 IndividualNames.add(individualName);
             }
