@@ -34,18 +34,18 @@ public class Proj4_3_Parallel {
             //Requesting user input.
             individualAge = keyboard.nextInt();
             //Checking to see if the name is 1 character or longer.
-            if(individualName.length() > 0)
-            {
-                //Printing a message to the user.
-                System.out.println("Adding the individual now!");
-                //Adding the individual's name to the list.
-                IndividualNames.add(individualName);
-                //Adding the individual's age to the list.
-                IndividualAges.add(individualAge);
-                //Incrementing place counter.
-                placeCounter += 1;
+            // if(individualName.length() > 0)
+            // {
+            //Printing a message to the user.
+            System.out.println("Adding the individual now!");
+            //Adding the individual's name to the list.
+            IndividualNames.add(individualName);
+            //Adding the individual's age to the list.
+            IndividualAges.add(individualAge);
+            //Incrementing place counter.
+            placeCounter += 1;
                 
-            }
+            // }
 
         }
     }
