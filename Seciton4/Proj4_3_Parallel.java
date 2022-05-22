@@ -46,6 +46,7 @@ public class Proj4_3_Parallel {
                 IndividualAges.add(individualAge);
             }
             //Printing out the collected data.
+            System.out.print("The individual's name is " + individualName + ".\nThe individual's age is " + individualAge);
             //Incrementing place counter.
             placeCounter += 1;
         }
