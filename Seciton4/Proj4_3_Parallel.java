@@ -32,6 +32,10 @@ public class Proj4_3_Parallel {
                 //Incrementing place counter.
                 placeCounter += 1;
             }
+            else
+            {
+                
+            }
         }
     }
 }
