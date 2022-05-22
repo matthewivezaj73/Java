@@ -14,5 +14,6 @@ public class StringMethods1 {
             System.out.println(name.charAt(i));
         }
         //Adding some padding.
+        System.out.println();
     }
 }
