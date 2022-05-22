@@ -44,7 +44,7 @@ public class Proj4_3_Parallel {
 
         }
         //Creating a for loop.
-        for(int i = 0; i < 5; i++)
+        for(int myInt = 0; i < 5; i++)
         {
             //Asking for the individual's age.
             System.out.print("What is the person's age:\t");
