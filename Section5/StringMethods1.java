@@ -37,7 +37,7 @@ public class StringMethods1 {
         //Handling the case where the name is not greater than 0.
         else
         {
-
+            System.out.println("name <= name3");
         }
     }
 }
