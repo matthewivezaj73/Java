@@ -23,5 +23,6 @@ public class StringMethods2 {
         //Printing out the position of B.
         System.out.println("B is at index " + whereIsB);
         //Printing the last name.
+        System.out.println("Last name is " + lastName);
     }
 }
