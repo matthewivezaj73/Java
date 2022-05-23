@@ -21,5 +21,6 @@ public class StringMethods2 {
         //Printing the value of lower.
         System.out.println("lower is " + lower);
         //Printing out the position of B.
+        System.out.println("B is at index " + whereIsB);
     }
 }
