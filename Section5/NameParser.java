@@ -1,4 +1,5 @@
 //Importing a library.
+import java.util.Scanner;
 //Creating a java class.
 public class NameParser {
     //Creating a main method.
