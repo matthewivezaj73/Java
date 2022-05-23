@@ -51,6 +51,7 @@ public class StringsMethods1 {
         else
         {
             //adding a print statement.
+            System.out.println("The names are not equal!");
         }
     }
 }
