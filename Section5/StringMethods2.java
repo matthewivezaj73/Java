@@ -17,5 +17,6 @@ public class StringMethods2 {
         //Printing out a message.
         System.out.println("Upper is " + upper);
         //Printing the value of lower.
+        System.out.println("lower is " + lower);
     }
 }
