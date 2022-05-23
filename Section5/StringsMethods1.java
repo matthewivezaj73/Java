@@ -41,7 +41,7 @@ public class StringsMethods1 {
             //Handling the case where name is less than or equal to name3.
             System.out.println("name <= name3");
         }
-        //Comparing the author's name to my own.
+        //Checking to see if the author's name is equal to my own.
         if(name.equals(name4))
         {
             //Printing out a message saying that the names are equal.
