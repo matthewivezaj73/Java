@@ -8,5 +8,6 @@ public class StringMethods2 {
         //Creating the uppercase version of myName and assigning it to a variable.
         String upper = myName.toUpperCase();
         //Creating an index.
+        int whereIsB = myName.indexOf("B");
     }
 }
