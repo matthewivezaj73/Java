@@ -16,5 +16,6 @@ public class StringMethods2 {
         String lastName = myName.substring(5);
         //Printing out a message.
         System.out.println("Upper is " + upper);
+        //Printing the value of lower.
     }
 }
