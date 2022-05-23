@@ -56,6 +56,7 @@ public class StringsMethods1 {
         //Comparing the author's name to my own.
         if(name.compareTo(name4) > 0)
         {
+            //Printing out a message telling the user that name > name4.
             
         }
     }
