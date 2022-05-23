@@ -47,5 +47,6 @@ public class StringsMethods1 {
             //Printing out a message saying that the names are equal.
             System.out.println("The names are equal!");
         }
+        //Handling the case where the names are not equal.
     }
 }
