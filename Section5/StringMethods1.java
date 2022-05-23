@@ -31,6 +31,7 @@ public class StringMethods1 {
         //Checking if name compared to name3 is greater than 0.
         if(name.compareTo(name3) > 0)
         {
+            //Printing out a message to the user telling them that name is greater than name3.
             System.out.println("name > name3");
         }
         //Handling the case where the name is not greater than 0.
