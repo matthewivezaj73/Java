@@ -44,7 +44,7 @@ public class StringsMethods1 {
         //Comparing the author's name to my own.
         if(name.equals(name4))
         {
-
+            //Printing out a message saying that the names are equal.
         }
     }
 }
