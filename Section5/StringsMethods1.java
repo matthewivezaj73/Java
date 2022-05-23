@@ -60,5 +60,9 @@ public class StringsMethods1 {
             System.out.println("name > name4");
         }
         //Handling the case where the author's name is greater.
+        else
+        {
+            
+        }
     }
 }
