@@ -11,5 +11,6 @@ public class NameParser {
         System.out.print("Please enter your name:\t");
         //Grabbing input from the user.
         String fullname = keyboard.nextLine();
+        //Taking the substring of the full name.
     }
 }
