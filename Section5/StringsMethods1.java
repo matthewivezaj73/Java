@@ -57,7 +57,7 @@ public class StringsMethods1 {
         if(name.compareTo(name4) > 0)
         {
             //Printing out a message telling the user that name > name4.
-            
+            System.out.println("name > name4");
         }
     }
 }
