@@ -63,7 +63,7 @@ public class StringsMethods1 {
         else
         {
             //Printing out a message telling the user that name <= name4.
-            System.out.println();
+            System.out.println("name <= name4");
         }
     }
 }
