@@ -27,5 +27,7 @@ public class StringMethods1 {
             //Printing a message stating the strings are not equal.
             System.out.println("The names are not equal!");
         }
+        
+        //Checking if name compared to name3 is greater than 0.
     }
 }
