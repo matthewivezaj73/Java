@@ -20,5 +20,6 @@ public class StringMethods2 {
         System.out.println("Upper is " + upper);
         //Printing the value of lower.
         System.out.println("lower is " + lower);
+        //Printing out the position of B.
     }
 }
