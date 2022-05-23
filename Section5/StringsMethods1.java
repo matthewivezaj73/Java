@@ -54,5 +54,9 @@ public class StringsMethods1 {
             System.out.println("The names are not equal!");
         }
         //Comparing the author's name to my own.
+        if(name.compareTo(name4) > 0)
+        {
+            
+        }
     }
 }
