@@ -53,5 +53,6 @@ public class StringsMethods1 {
             //adding a print statement.
             System.out.println("The names are not equal!");
         }
+        //Comparing the author's name to my own.
     }
 }
