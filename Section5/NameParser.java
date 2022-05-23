@@ -7,6 +7,7 @@ public class NameParser {
     {
         //Creating a scanner.
         Scanner keyboard = new Scanner(System.in);
+        //Instructing the user to enter their name.
         //Grabbing input from the user.
         keyboard.nextLine();
     }
