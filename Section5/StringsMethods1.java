@@ -11,7 +11,7 @@ public class StringsMethods1 {
         for(int i = 0; i < name.length(); i++)
         {
             //Printing a character from each name.
-            System.out.println(name.charAt(i) + " ");
+            System.out.print(name.charAt(i) + " ");
         }
         //Adding some padding.
         System.out.println();
