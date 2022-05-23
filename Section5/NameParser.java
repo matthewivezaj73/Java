@@ -5,8 +5,7 @@ public class NameParser {
     //Creating a main method.
     public static void main(String[] args)
     {
-        //Creating scanners.
+        //Creating a scanner.
         Scanner firstName = new Scanner(System.in);
-        Scanner lastName = new Scanner(System.in);
     }
 }
