@@ -7,6 +7,7 @@ public class StringsMethods1 {
         String name = "Matthew Ivezaj";
         String name2 = "Matthew Ivezaj";
         String name3 = "John Doe";
+        String name4 = "John Baugh";
         //Creating a for loop to analyze a string.
         for(int i = 0; i < name.length(); i++)
         {
