@@ -31,7 +31,8 @@ public class StringMethods1 {
         //Checking if name compared to name3 is greater than 0.
         if(name.compareTo(name3) > 0)
         {
-            
+
         }
+        //Handling the case where the name is not greater than 0.
     }
 }
