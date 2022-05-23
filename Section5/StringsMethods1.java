@@ -45,6 +45,7 @@ public class StringsMethods1 {
         if(name.equals(name4))
         {
             //Printing out a message saying that the names are equal.
+            System.out.println("The names are equal!");
         }
     }
 }
