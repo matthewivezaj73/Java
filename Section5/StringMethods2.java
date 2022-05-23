@@ -10,6 +10,9 @@ public class StringMethods2 {
         //Creating an index.
         int whereIsB = myName.indexOf("B");
         //Creating a string.
+        /**
+         * This substring will start at the position specified, starts at B.
+         */
         String lastName = myName.substring(5);
     }
 }
