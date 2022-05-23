@@ -14,5 +14,6 @@ public class StringMethods2 {
          * This substring will start at the position specified, starts at B.
          */
         String lastName = myName.substring(5);
+        //Printing out a message.
     }
 }
