@@ -1,5 +1,5 @@
 //Creating a public class. 
-public class StringMethods1 {
+public class StringsMethods1 {
     //Creating a main method.
     public static void main(String[] args)
     {
