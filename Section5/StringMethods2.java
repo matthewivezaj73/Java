@@ -5,5 +5,6 @@ public class StringMethods2 {
     {
         //Creating strings.
         String myName = "John Baugh";
+        String upper = myName.toUpperCase();
     }
 }
