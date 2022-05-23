@@ -10,5 +10,6 @@ public class StringMethods2 {
         //Creating an index.
         int whereIsB = myName.indexOf("B");
         //Creating a string.
+        String lastName = myName.substring();
     }
 }
