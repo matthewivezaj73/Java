@@ -22,6 +22,7 @@ public class StringBuilderFun {
         //Replacing index 22 through 29 with amazing.
         sb.replace(22, 29, "amazing");
         //Printing out sb.
+        System.out.println(sb);
         //Removing the middle name.
         sb.delete(5, 13);
         //Printing out the name.
