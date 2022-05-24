@@ -12,5 +12,6 @@ public class Proj5_1_NamePermutations {
     public static void main(String[] args)
     {
         //Creating a scanner.
+        Scanner keyboard = new Scanner(System.in);
     }
 }
