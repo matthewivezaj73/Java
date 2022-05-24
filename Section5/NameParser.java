@@ -16,10 +16,10 @@ public class NameParser {
         //End of first name.
         int endOfFirst = space_in_name - 1;
         //Creating the first name.
-        for(int iname = 0; iname < (space_in_name - 2); iname++);
+        for(int i = 0; i < endOfFirst; i++);
         {
             //Printing out the first name.
-            System.out.print(fullname.charAt(iname));
+            System.out.print(fullname.charAt(i));
         }
         //Creating the last name programmtically.
         String lastName = fullname.substring(space_in_name);
