@@ -19,12 +19,7 @@ public class NameParser {
         //NEED TO FIND OUT WHY I HAVE THE ERROR BELOW.
 
 
-        //Creating the first name.
-        for(int i = 0; i < endOfFirst; i++);
-        {
-            //Printing out the first name.
-            System.out.print(fullname.charAt(i));
-        }
+ 
 
 
 
