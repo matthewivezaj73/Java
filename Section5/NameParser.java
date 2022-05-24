@@ -17,7 +17,6 @@ public class NameParser {
         String lastName = fullname.substring(space_in_name);
         //Creating an all lowercase version of the last name.
         String last = lastName.toLowerCase(); 
-        
         //End of first name.
         int endOfFirst = space_in_name - 2;
         //Creating a variable to hold the first name.
