@@ -18,5 +18,6 @@ public class StringBuilderFun {
         //Inserting a string inside a string.
         sb.insert(5, "Phillip ");
         //Printing sb.
+        System.out.println(sb);
     }
 }
