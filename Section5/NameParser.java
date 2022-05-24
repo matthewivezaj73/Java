@@ -15,7 +15,7 @@ public class NameParser {
         int space_in_name = fullname.indexOf(" ") + 1; 
         //End of first name.
         int endOfFirst = space_in_name - 2;
-
+        //Printing out the first name.
         //NEED TO FIND OUT WHY I HAVE THE ERROR BELOW.
 
 
