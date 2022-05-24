@@ -28,5 +28,6 @@ public class StringBuilderFun {
         System.out.println(sb);
         //Replacing the first name with Dr.
         sb.replace(0,4,"Dr.");
+        //Printing out the new name.
     }
 }
