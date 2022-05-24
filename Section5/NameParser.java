@@ -27,12 +27,7 @@ public class NameParser {
 
 
 
-        //Creating the last name programmtically.
-        String lastName = fullname.substring(space_in_name);
-        //Creating an all lowercase version of the last name.
-        String last = lastName.toLowerCase(); 
-        //Printing the variable last.
-        System.out.print(last);
+        
         // String lastNameIndex = fullname.substring();
         //Taking the substring of the full name.
     }
