@@ -11,6 +11,7 @@ public class StringBuilderFun {
         //Creating a string builder.
         StringBuilder sb = new StringBuilder("John Baugh");
         //Appending a stringn to the StringBuilder.
+        sb.append(" is awesome");
         //Adding variables.
     }
 }
