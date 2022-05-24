@@ -23,6 +23,7 @@ public class NameParser {
         int endOfFirst = space_in_name - 2;
         //Creating a variable to hold the first name.
         String firstname = fullname.substring(0, (space_in_name - 1));
+        //Making the firstname all uppercase.
         //Printing out the first name.
         System.out.println(firstname);
         //NEED TO FIND OUT WHY I HAVE THE ERROR BELOW.
