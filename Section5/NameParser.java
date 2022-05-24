@@ -14,7 +14,7 @@ public class NameParser {
         //Taking the index of the space.
         int space_in_name = fullname.indexOf(" "); 
         System.out.println(space_in_name);
-        String lastNameIndex = fullname.substring()
+        String lastNameIndex = fullname.substring();
         //Taking the substring of the full name.
     }
 }
