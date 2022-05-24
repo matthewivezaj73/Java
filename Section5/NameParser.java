@@ -24,7 +24,7 @@ public class NameParser {
         //Making the firstname all uppercase.
         String first = firstname.toUpperCase();
         //Printing out the first name.
-        System.out.println(firstname);
+        System.out.println(first);
         //Printing the variable last.
         System.out.println(last);
     }
