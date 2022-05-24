@@ -5,5 +5,5 @@
  */
 //Creating a public class.
 public class StringBuilderFun {
-    
+    //Creating a main method.
 }
