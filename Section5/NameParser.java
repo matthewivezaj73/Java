@@ -14,7 +14,10 @@ public class NameParser {
         //Taking the index of the space.
         int space_in_name = fullname.indexOf(" ") + 1; 
         //Creating the first name.
-        
+        for(int iname = 0; iname < (space_in_name - 2); iname++);
+        {
+            
+        }
         //Creating the last name programmtically.
         String lastName = fullname.substring(space_in_name);
         //Creating an all lowercase version of the last name.
