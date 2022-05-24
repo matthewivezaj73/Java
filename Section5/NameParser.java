@@ -24,6 +24,7 @@ public class NameParser {
         //Creating a variable to hold the first name.
         String firstname = fullname.substring(0, (space_in_name - 1));
         //Making the firstname all uppercase.
+        String first = firstname.toUpperCase();
         //Printing out the first name.
         System.out.println(firstname);
         //NEED TO FIND OUT WHY I HAVE THE ERROR BELOW.
