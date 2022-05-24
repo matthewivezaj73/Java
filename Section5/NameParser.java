@@ -28,15 +28,5 @@ public class NameParser {
         System.out.println(firstname);
         //Printing the variable last.
         System.out.println(last);
-
-
- 
-
-
-
-
-        
-        // String lastNameIndex = fullname.substring();
-        //Taking the substring of the full name.
     }
 }
