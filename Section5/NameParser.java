@@ -15,12 +15,20 @@ public class NameParser {
         int space_in_name = fullname.indexOf(" ") + 1; 
         //End of first name.
         int endOfFirst = space_in_name - 1;
+
+        //NEED TO FIND OUT WHY I HAVE THE ERROR BELOW.
+
+
         //Creating the first name.
         for(int i = 0; i < endOfFirst; i++);
         {
             //Printing out the first name.
             System.out.print(fullname.charAt(i));
         }
+
+
+
+
         //Creating the last name programmtically.
         String lastName = fullname.substring(space_in_name);
         //Creating an all lowercase version of the last name.
