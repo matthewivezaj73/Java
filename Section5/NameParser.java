@@ -18,7 +18,7 @@ public class NameParser {
         //Creating a variable to hold the first name.
         String firstname = fullname.substring(endOfFirst);
         //Printing out the first name.
-        System.out.println(endOfFirst);
+        System.out.println(firstname);
         //NEED TO FIND OUT WHY I HAVE THE ERROR BELOW.
 
 
