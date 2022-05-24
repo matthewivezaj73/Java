@@ -14,7 +14,6 @@ public class StringBuilderFun {
         sb.append(" is awesome");
         //Printing a message.
         System.out.println(sb);
-
         //Inserting a string inside a string.
         sb.insert(5, "Phillip ");
         //Printing sb.
