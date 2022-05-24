@@ -13,7 +13,7 @@ public class NameParser {
         String fullname = keyboard.nextLine();
         //Taking the index of the space.
         int space_in_name = fullname.indexOf(" ") + 1; 
-        System.out.println(space_in_name);
+        String lastName = fullname.substring(space_in_name);
         // String lastNameIndex = fullname.substring();
         //Taking the substring of the full name.
     }
