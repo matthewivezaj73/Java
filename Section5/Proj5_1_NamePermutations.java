@@ -5,6 +5,7 @@
  */
 //Importing libraries.
 import java.util.Scanner;
+import java.util.ArrayList;
 //Creating a public class.
 public class Proj5_1_NamePermutations {
     //Creating the main method.
