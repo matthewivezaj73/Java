@@ -15,6 +15,7 @@ public class NameParser {
         int space_in_name = fullname.indexOf(" ") + 1; 
         //Creating the last name programmtically.
         String lastName = fullname.substring(space_in_name);
+        String last = lastName.toLowerCase(); 
         System.out.print(lastName);
         // String lastNameIndex = fullname.substring();
         //Taking the substring of the full name.
