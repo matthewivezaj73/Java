@@ -23,5 +23,6 @@ public class StringBuilderFun {
         sb.replace(22, 29, "amazing");
         //Removing the middle name.
         sb.delete(5, 13);
+        //Printing out the name.
     }
 }
