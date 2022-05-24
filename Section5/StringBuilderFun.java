@@ -13,5 +13,6 @@ public class StringBuilderFun {
         //Appending a stringn to the StringBuilder.
         sb.append(" is awesome");
         //Printing a message.
+        System.out.println(sb);
     }
 }
