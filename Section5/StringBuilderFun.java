@@ -8,6 +8,6 @@ public class StringBuilderFun {
     //Creating a main method.
     public static void main(String[] args)
     {
-        
+        //Adding variables.
     }
 }
