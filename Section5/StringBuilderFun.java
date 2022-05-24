@@ -19,5 +19,7 @@ public class StringBuilderFun {
         sb.insert(5, "Phillip ");
         //Printing sb.
         System.out.println(sb);
+        //Replacing index 22 through 29 with amazing.
+
     }
 }
