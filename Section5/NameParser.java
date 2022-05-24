@@ -16,7 +16,7 @@ public class NameParser {
         //Creating the first name.
         for(int iname = 0; iname < (space_in_name - 2); iname++);
         {
-            
+            System.out.print(fullnamecharAt(iname));
         }
         //Creating the last name programmtically.
         String lastName = fullname.substring(space_in_name);
