@@ -22,7 +22,7 @@ public class NameParser {
         //End of first name.
         int endOfFirst = space_in_name - 2;
         //Creating a variable to hold the first name.
-        String firstname = fullname.substring(endOfFirst);
+        String firstname = fullname.substring(0, (space_in_name - 1));
         //Printing out the first name.
         System.out.println(firstname);
         //NEED TO FIND OUT WHY I HAVE THE ERROR BELOW.
