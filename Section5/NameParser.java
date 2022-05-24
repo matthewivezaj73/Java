@@ -17,8 +17,7 @@ public class NameParser {
         String lastName = fullname.substring(space_in_name);
         //Creating an all lowercase version of the last name.
         String last = lastName.toLowerCase(); 
-        //Printing the variable last.
-        System.out.println(last);
+        
         //End of first name.
         int endOfFirst = space_in_name - 2;
         //Creating a variable to hold the first name.
@@ -27,7 +26,8 @@ public class NameParser {
         String first = firstname.toUpperCase();
         //Printing out the first name.
         System.out.println(firstname);
-        //NEED TO FIND OUT WHY I HAVE THE ERROR BELOW.
+        //Printing the variable last.
+        System.out.println(last);
 
 
  
