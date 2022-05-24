@@ -9,6 +9,7 @@ public class StringBuilderFun {
     public static void main(String[] args)
     {
         //Creating a string builder.
+        StringBuilder sb = new StringBuilder("John Baugh");
         //Adding variables.
     }
 }
