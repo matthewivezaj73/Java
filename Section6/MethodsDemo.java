@@ -10,8 +10,6 @@ public class MethodsDemo {
     public static void main(String[] args)
     {
         //Body of the method.
-        //Creating a variable.
-        Double myNumber = 55.43;
         //Passing a user defined method to main.
         printHello();
         //Passing a user defined method to main.
@@ -56,6 +54,6 @@ public class MethodsDemo {
     //Value returning, paramerized method.
     public static Double squareThere(Double myDouble)
     {
-        
+
     }
 }
