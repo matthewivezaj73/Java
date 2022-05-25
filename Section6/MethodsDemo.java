@@ -15,6 +15,7 @@ public class MethodsDemo {
         //Passing a user defined method to main.
         printNumber(10);
         //Creating a variable.
+        int result = giveMe10();
     }
 
     //Creating a new void, paramerless method.
