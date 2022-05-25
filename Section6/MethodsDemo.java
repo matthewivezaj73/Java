@@ -17,7 +17,7 @@ public class MethodsDemo {
         //Creating a variable.
         int result = giveMe10();
         //Printing out the result.
-        System.out.println("The number is " + result);
+        System.out.println(result);
         //Overloading the method.
         result = addThese(3, 5);
         //Printing out result to the user.
