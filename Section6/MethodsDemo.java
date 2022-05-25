@@ -16,5 +16,6 @@ public class MethodsDemo {
     public static void printHello()
     {
         //Printing a message to the user.
+        System.out.println("Hello there!");
     }
 }
