@@ -20,5 +20,6 @@ public class Proj5_1_NamePermutations {
         //Printing a message out to the user.
         System.out.print("Please enter your name: ");
         //Accepting input from the user.
+        String name = keyboard.nextLine();
     }
 }
