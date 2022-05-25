@@ -21,5 +21,6 @@ public class Proj5_1_NamePermutations {
         System.out.print("Please enter your name: ");
         //Accepting input from the user.
         String name = keyboard.nextLine();
+        //Finding the space in the name.
     }
 }
