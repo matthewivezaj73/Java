@@ -44,7 +44,7 @@ public class Proj5_1_NamePermutations {
     //Created an enhanced for loop.
     for(String i: firstNames)
     {
-
+        //Printing out the first and last name.
     }
     }
 }
