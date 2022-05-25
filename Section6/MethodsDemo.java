@@ -13,7 +13,7 @@ public class MethodsDemo {
         //Passing a user defined method to main.
         printHello();
         //Passing a user defined method to main.
-        printNumber(10);
+        printNumber(10); //10 is the argument to the method.
         //Creating a variable.
         int result = giveMe10();
         //Printing out the result.
