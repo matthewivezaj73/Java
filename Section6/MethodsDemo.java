@@ -22,6 +22,6 @@ public class MethodsDemo {
     //Creating a void, parameterized method.
     public static void printNumber(int a)
     {
-        
+        //Printing the number to the user.
     }
 }
