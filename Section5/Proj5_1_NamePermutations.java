@@ -45,6 +45,10 @@ public class Proj5_1_NamePermutations {
         for(String i: lastNames)
         {
             //Creating another for loop.
+            for(String j: firstNames)
+            {
+                
+            }
         }
     }
 }
