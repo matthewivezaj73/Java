@@ -19,6 +19,7 @@ public class MethodsDemo {
         //Printing out the result.
         System.out.println("The number is " + result);
         //Overloading the method.
+        result = addThese(3, 5);
     }
 
     //Creating a new void, paramerless method.
