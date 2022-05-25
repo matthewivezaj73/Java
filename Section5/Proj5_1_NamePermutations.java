@@ -19,6 +19,7 @@ public class Proj5_1_NamePermutations {
         ArrayList<String> lastNames = new ArrayList<>();
         //Creating a place counter.
         int placeCounter = 0;
+        //Creating a while loop.
         //Printing a message out to the user.
         System.out.print("Please enter your name: ");
         //Accepting input from the user.
