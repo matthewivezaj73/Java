@@ -28,9 +28,9 @@ public class Proj5_1_NamePermutations {
         //Creating a new index to grab the last name.
         String last = name.substring(findSpace);
         //Creating a new index for the first name.
-        int firstSpace = findSpace;
+        int lastSpace = findSpace+1;
         //Creating a new substring to grab the first name.
         String first = name.substring(0,firstSpace);
-        System.out.println(first);
+        System.out.println(last);
     }
 }
