@@ -23,5 +23,6 @@ public class MethodsDemo {
     public static void printNumber(int a)
     {
         //Printing the number to the user.
+        System.out.println("The number is " + a);
     }
 }
