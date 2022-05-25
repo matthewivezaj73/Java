@@ -5,5 +5,5 @@
 */
 //Creating a public class.
 public class MethodsDemo {
-    
+    //Creating a main method.
 }
