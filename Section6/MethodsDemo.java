@@ -22,6 +22,7 @@ public class MethodsDemo {
         result = addThese(3, 5);
         //Printing out result to the user.
         System.out.println(result);
+        //Creating a variable that has the newly created method assigned to it.
     }
 
     //Creating a new void, paramerless method.
