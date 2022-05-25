@@ -15,5 +15,6 @@ public class Proj5_1_NamePermutations {
         Scanner keyboard = new Scanner(System.in);
         //Creating a list.
         ArrayList<String> myList = new ArrayList<>();
+        //Printing a message out to the user.
     }
 }
