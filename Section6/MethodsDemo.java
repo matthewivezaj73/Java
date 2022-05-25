@@ -11,7 +11,7 @@ public class MethodsDemo {
     {
         //Body of the method.
         //Creating a variable.
-        Double myNumber;
+        Double myNumber = 55.43;
         //Passing a user defined method to main.
         printHello();
         //Passing a user defined method to main.
