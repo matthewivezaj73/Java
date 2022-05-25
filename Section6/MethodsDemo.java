@@ -16,6 +16,7 @@ public class MethodsDemo {
         printNumber(10);
         //Creating a variable.
         int result = giveMe10();
+        //Printing out the result.
     }
 
     //Creating a new void, paramerless method.
