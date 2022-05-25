@@ -54,4 +54,8 @@ public class MethodsDemo {
         return num1 + num2;
     }
     //Value returning, paramerized method.
+    public static Double squareThere(Double myDouble)
+    {
+        
+    }
 }
