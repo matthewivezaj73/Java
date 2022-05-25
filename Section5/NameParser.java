@@ -28,10 +28,7 @@ public class NameParser {
             String firstname = fullname.substring(0, (space_in_name - 1));
             //Making the firstname all uppercase.
             String first = firstname.toUpperCase();
-            //Printing out the first name.
-            System.out.println("The first name, "+first+" has been separated from the last name.");
-            //Printing the variable last.
-            System.out.println("The last name, "+last+" has been separated from the first name.");
+
         }
     }
 }
