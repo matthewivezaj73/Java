@@ -22,23 +22,23 @@ public class Proj5_1_NamePermutations {
         //Creating a while loop.
         while(placeCounter < 6)
         {
-            
+            //Printing a message out to the user.
+            System.out.print("Please enter your name: ");
+            //Accepting input from the user.
+            String name = keyboard.nextLine();
+            //Finding the space in the name.
+            int findSpace = name.indexOf(" ");
+            //Creating a new index for the last name.
+            int lastSpace = findSpace+1;
+            //Creating a new index to grab the last name.
+            String last = name.substring(lastSpace);
+            //Creating a new substring to grab the first name.
+            String first = name.substring(0,findSpace);
+            //Placing the first name into it's own list.
+            firstNames.add(first);
+            //Placing the last name into it's own list.
+            lastNames.add(last);
         }
-        //Printing a message out to the user.
-        System.out.print("Please enter your name: ");
-        //Accepting input from the user.
-        String name = keyboard.nextLine();
-        //Finding the space in the name.
-        int findSpace = name.indexOf(" ");
-        //Creating a new index for the last name.
-        int lastSpace = findSpace+1;
-        //Creating a new index to grab the last name.
-        String last = name.substring(lastSpace);
-        //Creating a new substring to grab the first name.
-        String first = name.substring(0,findSpace);
-        //Placing the first name into it's own list.
-        firstNames.add(first);
-        //Placing the last name into it's own list.
-        lastNames.add(last);
+
     }
 }
