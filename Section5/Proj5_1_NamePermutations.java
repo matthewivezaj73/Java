@@ -41,10 +41,11 @@ public class Proj5_1_NamePermutations {
             //Incrementing placeCounter.
             placeCounter += 1;
         }
-    //Created an enhanced for loop.
-    for(String i: firstNames)
+    //Creating a for loop to iterate over each pair.
+    for(int increment = 0; increment < lastNames.size(); increment++)
     {
-        //Printing out the first and last name.
+        //Starting by printing the last name.
+        System.out.println(lastNames[increment])
     }
     }
 }
