@@ -41,10 +41,10 @@ public class Proj5_1_NamePermutations {
             //Incrementing placeCounter.
             placeCounter += 1;
         }
-    //Creating an enhanced for loop.
-    for(String i: lastNames)
-    {
-        
-    }
+        //Creating an enhanced for loop.
+        for(String i: lastNames)
+        {
+            
+        }
     }
 }
