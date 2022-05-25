@@ -41,7 +41,7 @@ public class Proj5_1_NamePermutations {
             //Incrementing placeCounter.
             placeCounter += 1;
         }
-    //Creating a for loop to iterate over each pair.
+    //Created an enhanced for loop.
     for(String i: firstNames)
     {
 
