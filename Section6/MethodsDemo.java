@@ -25,4 +25,6 @@ public class MethodsDemo {
         //Printing the number to the user.
         System.out.println("The number is " + a);
     }
+
+    //Creating a value-returning method.
 }
