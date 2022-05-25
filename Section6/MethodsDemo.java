@@ -36,6 +36,6 @@ public class MethodsDemo {
     //Value returning parameterized method.
     public static int addThese(int num1, int num2)
     {
-        
+        return num1 + num2;
     }
 }
