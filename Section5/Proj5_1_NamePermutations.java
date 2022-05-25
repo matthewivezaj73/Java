@@ -32,5 +32,6 @@ public class Proj5_1_NamePermutations {
         //Creating a new substring to grab the first name.
         String first = name.substring(0,findSpace);
         //Placing the first name into it's own list.
+        firstNames.add(first);
     }
 }
