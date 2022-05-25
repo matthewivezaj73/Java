@@ -28,6 +28,6 @@ public class Proj5_1_NamePermutations {
         //Creating a new index for the first name.
         int firstSpace = findSpace - 1;
         //Creating a new substring to grab the first name.
-        String first = name.subString();
+        String first = name.subString(0,firstSpace);
     }
 }
