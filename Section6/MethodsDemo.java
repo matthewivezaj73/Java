@@ -17,6 +17,7 @@ public class MethodsDemo {
         //Creating a variable.
         int result = giveMe10();
         //Printing out the result.
+        System.out.println("The number is " + result);
     }
 
     //Creating a new void, paramerless method.
