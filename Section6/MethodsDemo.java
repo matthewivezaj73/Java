@@ -13,6 +13,7 @@ public class MethodsDemo {
         //Passing a user defined method to main.
         printHello();
         //Passing a user defined method to main.
+        printNumber(10);
     }
 
     //Creating a new void, paramerless method.
