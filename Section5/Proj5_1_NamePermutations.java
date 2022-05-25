@@ -42,7 +42,7 @@ public class Proj5_1_NamePermutations {
             placeCounter += 1;
         }
     //Creating a for loop to iterate over each pair.
-    for(int increment = 0; increment < lastNames.size(); increment++)
+    for(int i = 0; i < lastNames.size(); i++)
     {
         //Starting by printing the last name.
         System.out.println(lastNames[increment])
