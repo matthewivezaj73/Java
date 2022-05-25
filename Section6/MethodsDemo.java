@@ -30,5 +30,6 @@ public class MethodsDemo {
     public static int giveMe10() 
     {
         //returning 10.
+        return 10;
     }
 }
