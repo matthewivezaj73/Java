@@ -23,7 +23,7 @@ public class Proj5_1_NamePermutations {
         while(placeCounter < 5)
         {
             //Printing a message out to the user.
-            System.out.print("Please enter the desired name to be added: ");
+            System.out.print("Please enter name " + placeCounter + ": ");
             //Accepting input from the user.
             String name = keyboard.nextLine();
             //Finding the space in the name.
