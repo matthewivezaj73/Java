@@ -55,7 +55,7 @@ public class MethodsDemo {
     public static Double squareThere(Double myDouble)
     {
         //Giving a value to the double.
-        Double newResult = 55.43;
+        Double newResult = myDouble * myDouble;
         //Returning a value to the user.
         return myDouble * myDouble;
     }
