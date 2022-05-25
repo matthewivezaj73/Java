@@ -24,6 +24,7 @@ public class MethodsDemo {
         System.out.println(result);
         //Creating a variable that has the newly created method assigned to it.
         Double mySquare = squareThere(55.43);
+        //Displaying the variable for the user to see.
     }
 
     //Creating a new void, paramerless method.
