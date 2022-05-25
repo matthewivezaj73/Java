@@ -42,5 +42,9 @@ public class Proj5_1_NamePermutations {
             placeCounter += 1;
         }
     //Creating an enhanced for loop.
+    for(String i: lastNames)
+    {
+        
+    }
     }
 }
