@@ -6,6 +6,7 @@
 //Creating a public class.
 public class MethodsDemo {
     //Creating a main method.
+    //Header of the method.
     public static void main(String[] args)
     {
         //Body of the method.
