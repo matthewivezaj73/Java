@@ -26,5 +26,5 @@ public class MethodsDemo {
         System.out.println("The number is " + a);
     }
 
-    //Creating a value-returning method.
+    //Creating a value-returning, parameterless method.
 }
