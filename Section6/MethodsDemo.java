@@ -21,6 +21,7 @@ public class MethodsDemo {
         //Overloading the method.
         result = addThese(3, 5);
         //Printing out result to the user.
+        System.out.println(result);
     }
 
     //Creating a new void, paramerless method.
