@@ -10,6 +10,7 @@ public class MethodsDemo {
     public static void main(String[] args)
     {
         //Body of the method.
+        //Passing a user defined method to main.
         printHello();
     }
 
