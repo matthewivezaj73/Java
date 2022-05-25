@@ -7,6 +7,7 @@ public class NameParser {
     {
         //Creating a scanner.
         Scanner keyboard = new Scanner(System.in);
+        //Creating a while loop to gather 5 names.
         //Instructing the user to enter their name.
         System.out.print("Please enter your name:\t");
         //Grabbing input from the user.
