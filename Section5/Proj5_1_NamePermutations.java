@@ -20,6 +20,10 @@ public class Proj5_1_NamePermutations {
         //Creating a place counter.
         int placeCounter = 0;
         //Creating a while loop.
+        while(placeCounter < 6)
+        {
+            
+        }
         //Printing a message out to the user.
         System.out.print("Please enter your name: ");
         //Accepting input from the user.
