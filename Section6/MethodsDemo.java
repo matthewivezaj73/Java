@@ -27,4 +27,8 @@ public class MethodsDemo {
     }
 
     //Creating a value-returning, parameterless method.
+    public static int giveMe10() 
+    {
+        
+    }
 }
