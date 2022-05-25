@@ -8,6 +8,6 @@ public class MethodsDemo {
     //Creating a main method.
     public static void main(String[] args)
     {
-        
+        //Body of the method.
     }
 }
