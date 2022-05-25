@@ -23,5 +23,6 @@ public class Proj5_1_NamePermutations {
         String name = keyboard.nextLine();
         //Finding the space in the name.
         int findSpace = name.indexOf(" ");
+        //Creating a new index to grab the last name.
     }
 }
