@@ -15,6 +15,7 @@ public class Proj5_1_NamePermutations {
         Scanner keyboard = new Scanner(System.in);
         //Creating a list to hold first names.
         ArrayList<String> firstNames = new ArrayList<>();
+        //Creating a list to hold last names.
         //Creating a string to hold the name.
         String givenName;
         //Printing a message out to the user.
