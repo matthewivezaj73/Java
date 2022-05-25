@@ -34,5 +34,6 @@ public class Proj5_1_NamePermutations {
         //Placing the first name into it's own list.
         firstNames.add(first);
         //Placing the last name into it's own list.
+        lastNames.add(last);
     }
 }
