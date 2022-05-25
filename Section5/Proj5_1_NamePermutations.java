@@ -48,6 +48,7 @@ public class Proj5_1_NamePermutations {
             for(String j: firstNames)
             {
                 //Printing out each pair.
+                System.out.println(j + " " + i);
             }
         }
     }
