@@ -13,7 +13,7 @@ public class Proj5_1_NamePermutations {
     {
         //Creating a scanner.
         Scanner keyboard = new Scanner(System.in);
-        //Creating a list.
+        //Creating a list to hold first names.
         ArrayList<String> firstNames = new ArrayList<>();
         //Creating a string to hold the name.
         String givenName;
