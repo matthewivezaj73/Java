@@ -18,4 +18,6 @@ public class MethodsDemo {
         //Printing a message to the user.
         System.out.println("Hello there!");
     }
+
+    //Creating a void, parameterized method.
 }
