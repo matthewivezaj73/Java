@@ -18,5 +18,6 @@ public class Proj5_1_NamePermutations {
         //Creating a string to hold the name.
         String givenName;
         //Printing a message out to the user.
+        System.out.print("Please enter your name: ");
     }
 }
