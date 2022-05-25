@@ -57,5 +57,6 @@ public class MethodsDemo {
         //Giving a value to the double.
         myDouble = 55.43;
         //Returning a value to the user.
+        return myDouble * myDouble;
     }
 }
