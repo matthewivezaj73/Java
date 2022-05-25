@@ -10,6 +10,7 @@ public class MethodsDemo {
     public static void main(String[] args)
     {
         //Body of the method.
+        printHello();
     }
 
     //Creating a new void, paramerless method.
