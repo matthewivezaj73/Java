@@ -20,6 +20,7 @@ public class MethodsDemo {
         System.out.println("The number is " + result);
         //Overloading the method.
         result = addThese(3, 5);
+        //Printing out result to the user.
     }
 
     //Creating a new void, paramerless method.
