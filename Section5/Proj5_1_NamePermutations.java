@@ -33,5 +33,6 @@ public class Proj5_1_NamePermutations {
         String first = name.substring(0,findSpace);
         //Placing the first name into it's own list.
         firstNames.add(first);
+        //Placing the last name into it's own list.
     }
 }
