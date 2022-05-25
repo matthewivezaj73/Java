@@ -17,8 +17,7 @@ public class Proj5_1_NamePermutations {
         ArrayList<String> firstNames = new ArrayList<>();
         //Creating a list to hold last names.
         ArrayList<String> lastNames = new ArrayList<>();
-        //Creating a string to hold the name.
-        String givenName;
+
         //Printing a message out to the user.
         System.out.print("Please enter your name: ");
         //Accepting input from the user.
