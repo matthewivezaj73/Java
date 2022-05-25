@@ -18,6 +18,7 @@ public class MethodsDemo {
         int result = giveMe10();
         //Printing out the result.
         System.out.println("The number is " + result);
+        //Overloading the method.
     }
 
     //Creating a new void, paramerless method.
