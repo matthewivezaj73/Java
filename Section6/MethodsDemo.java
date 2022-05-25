@@ -12,5 +12,5 @@ public class MethodsDemo {
         //Body of the method.
     }
 
-    //Creating a new method.
+    //Creating a new void, paramerless method.
 }
