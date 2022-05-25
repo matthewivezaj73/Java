@@ -38,6 +38,7 @@ public class Proj5_1_NamePermutations {
             firstNames.add(first);
             //Placing the last name into it's own list.
             lastNames.add(last);
+            //Incrementing placeCounter.
         }
 
     }
