@@ -11,4 +11,6 @@ public class MethodsDemo {
     {
         //Body of the method.
     }
+
+    //Creating a new method.
 }
