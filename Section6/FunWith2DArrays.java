@@ -63,8 +63,7 @@ public class FunWith2DArrays {
                 //Multiplying each element in the array by 2.
                 twoDArr[num][z] *= 2;
             }
-            //Doubling each number in the array.
-            num = num*2;
+
         }
     }
 }
