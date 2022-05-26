@@ -19,7 +19,6 @@ public class MethodOverloading {
         result = getResult(5, "12");
         //Printing out result.
         System.out.println(result);
-
         //Printing out result
         System.out.println(getResult("Hello", "Anna"));
     }
