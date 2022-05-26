@@ -8,6 +8,8 @@ public class MethodCalls {
     //Creating the main method.
     public static void main(String[] args)
     {
-        
+
     }
+
+    //Creating another method.
 }
