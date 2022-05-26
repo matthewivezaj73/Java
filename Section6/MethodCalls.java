@@ -5,5 +5,5 @@
 */
 //Creating public class.
 public class MethodCalls {
-    
+    //Creating the main method.
 }
