@@ -10,9 +10,9 @@ public class FunWith2DArrays {
     {
 
     }
-    //Creating a new method.
-    public static void fill2DArray()
+    //Creating a new method. 
+    public static void fill2DArray(int[][])
     {
-        
+
     }
 }
