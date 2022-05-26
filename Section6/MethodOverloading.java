@@ -17,4 +17,8 @@ public class MethodOverloading {
     }
 
     //Overloading the previous method.
+    public static int getResult(int num1, int num2)
+    {
+        
+    }
 }
