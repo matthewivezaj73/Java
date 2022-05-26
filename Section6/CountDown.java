@@ -17,5 +17,6 @@ public class CountDown {
         //Printing a message to the user.
         System.out.println(num);
         //Calling the same method we are in.
+        countDownFrom(num - 1);
     }
 }
