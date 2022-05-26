@@ -6,4 +6,8 @@
 //Creating a public class.
 public class countUpTo {
     //Creating a main method.
+    public static void main(String[] args)
+    {
+        
+    }
 }
