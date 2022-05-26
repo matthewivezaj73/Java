@@ -20,6 +20,7 @@ public class MethodCalls {
         //Creating a result variable.
         int result = getSomeValue();
         //Printing a message to the user.
+        System.out.println("result: " + result);
     }
 
     //Creating another method.
