@@ -5,5 +5,9 @@
 */
 //Creating a public class.
 public class SumOfElements {
-    //Creating a public method.    
+    //Creating a public method. 
+    public static void main(String[] args)
+    {
+        
+    }   
 }
