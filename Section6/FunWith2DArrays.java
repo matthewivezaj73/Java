@@ -58,6 +58,6 @@ public class FunWith2DArrays {
         for(int num : take2DArray)
         {
             
-        };
+        }
     }
 }
