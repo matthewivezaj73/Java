@@ -1,4 +1,4 @@
-//Importing two arraylists.
+//Importing two libraries.
 import java.util.ArrayList;
 /*
         Matthew Ivezaj
