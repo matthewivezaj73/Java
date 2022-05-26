@@ -79,6 +79,7 @@ public class FunWith2DArrays {
                 System.out.println(myNum + " ");
             }
             //Adding a print statement to give padding.
+            System.out.println();
         }
     }
 }
