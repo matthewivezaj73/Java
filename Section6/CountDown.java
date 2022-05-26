@@ -28,7 +28,6 @@ public class CountDown {
     //Creating a method called countUpTo.
     public static int countUpTo(int num1, int num2)
     {
-        //Returning num1 and num2.
-        return num1 + num2;
+        //Creating an if statement.
     }
 }
