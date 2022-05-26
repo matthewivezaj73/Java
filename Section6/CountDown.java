@@ -32,6 +32,7 @@ public class CountDown {
         if(num2 >= num1)
         {
             //Printing a message to the user.
+            System.out.println(num1 + 1);
         }
     }
 }
