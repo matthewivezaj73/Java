@@ -60,7 +60,7 @@ public class FunWith2DArrays {
             //Creating another for loop within the parent for loop.
             for(int z=0; z < twoDArr[num].length; z++)
             {
-
+                //Multiplying each element in the array by 2.
             }
             //Doubling each number in the array.
             num = num*2;
