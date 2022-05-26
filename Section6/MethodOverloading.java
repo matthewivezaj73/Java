@@ -13,5 +13,6 @@ public class MethodOverloading {
     public static int getResult(int num)
     {
         //Returning number passed multiplied by two.
+        return num * 2;
     }
 }
