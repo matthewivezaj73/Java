@@ -24,7 +24,7 @@ public class FunWith2DArrays {
             //Creating a for loop to access the numbers.
             for(int num : arr)
             {
-                
+                //Printing out the numbers to the user.
             }
         }
     }
