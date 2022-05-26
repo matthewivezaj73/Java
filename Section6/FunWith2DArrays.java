@@ -78,6 +78,7 @@ public class FunWith2DArrays {
                 //Printing each element out of the loop.
                 System.out.println(myNum + " ");
             }
+            //Adding a print statement to give padding.
         }
     }
 }
