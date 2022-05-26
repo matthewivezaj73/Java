@@ -66,4 +66,5 @@ public class FunWith2DArrays {
 
         }
     }
+    //Creating a method to print the elements.
 }
