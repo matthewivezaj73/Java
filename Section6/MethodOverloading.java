@@ -19,10 +19,9 @@ public class MethodOverloading {
         result = getResult(5, "12");
         //Printing out result.
         System.out.println(result);
-        //Overloading result.
-        String strResult = getResult("Hello", "Anna");
+
         //Printing out result
-        System.out.println(strResult);
+        System.out.println(getResult("Hello", "Anna"));
     }
     //Creating a new method.
     public static int getResult(int num)
