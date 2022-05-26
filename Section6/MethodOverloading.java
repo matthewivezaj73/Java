@@ -7,7 +7,7 @@ public class MethodOverloading {
     //Creating a main method.
     public static void main(String[] args)
     {
-        int result = getResult()
+        int result = getResult(5);
     }
     //Creating a new method.
     public static int getResult(int num)
