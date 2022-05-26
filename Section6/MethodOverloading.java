@@ -25,6 +25,6 @@ public class MethodOverloading {
     //Overloading the method again.
     public static int getResult(int num1, String value)
     {
-        
+        //Returning the number multiplied by a string value.
     }
 }
