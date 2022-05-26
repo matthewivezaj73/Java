@@ -19,6 +19,6 @@ public class SumOfElements {
     //Creating a public method.
     public static void sumElements(int[][] twoDArray)
     {
-        //Creating a for loop.
+        //Creating an enhanced for loop.
     }
 }
