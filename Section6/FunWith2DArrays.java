@@ -52,4 +52,8 @@ public class FunWith2DArrays {
         }
     }
     //Creating another 2Darray method.
+    public static void take2DArray(int[][] twoDArr)
+    {
+        
+    }
 }
