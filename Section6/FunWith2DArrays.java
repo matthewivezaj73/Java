@@ -21,7 +21,7 @@ public class FunWith2DArrays {
         //Creating an enhanced for loop.
         for(int[] arr : twoDArr)
         {
-            
+            //Creating a for loop to access the numbers.
         }
     }
 }
