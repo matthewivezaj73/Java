@@ -52,7 +52,7 @@ public class FunWith2DArrays {
         }
     }
     //Creating another 2Darray method.
-    public static void take2DArray(int[][] twoDArr)
+    public static void twice2DArray(int[][] twoDArr)
     {
         //Creating an enhanced for loop.
         for(int[] num : twoDArr)
