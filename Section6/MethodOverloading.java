@@ -39,7 +39,7 @@ public class MethodOverloading {
         return num1 * Integer.parseInt(value);
     }
     //Overloading the method again.
-    public static String main()
+    public static String main(String str1, String str2)
     {
 
     }
