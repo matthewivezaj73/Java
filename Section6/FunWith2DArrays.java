@@ -12,6 +12,8 @@ public class FunWith2DArrays {
     {
         //2 row x 3 column.
         int[][] my2DArray = new int[2][3]; 
+
+        //Calling the fill2DArray method.
     }
     //Creating a new method. 
     public static void fill2DArray(int[][] twoDArr)
