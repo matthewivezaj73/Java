@@ -20,7 +20,7 @@ public class SumOfElements {
     public static void sumElements(int[][] myArrayList)
     {
         //Creating an enhanced for loop.
-        for(int alpha : myArrayList)
+        for(int[] alpha : myArrayList)
         {
 
         }
