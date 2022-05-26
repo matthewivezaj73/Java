@@ -11,4 +11,8 @@ public class SumOfElements {
 
     }   
     //Creating a public method.
+    public static int sumElements()
+    {
+        
+    }
 }
