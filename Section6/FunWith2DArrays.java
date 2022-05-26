@@ -19,5 +19,9 @@ public class FunWith2DArrays {
     public static void print2DArray(int[][] twoDArr)
     {
         //Creating an enhanced for loop.
+        for(int[] arr : twoDArr)
+        {
+            
+        }
     }
 }
