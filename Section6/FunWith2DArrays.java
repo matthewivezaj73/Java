@@ -75,7 +75,7 @@ public class FunWith2DArrays {
             //Creating another for loop to access each number.
             for(int myNum : twoDArray)
             {
-                
+                //Printing each element out of the loop.
             }
         }
     }
