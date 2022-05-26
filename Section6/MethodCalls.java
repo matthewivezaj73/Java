@@ -14,7 +14,7 @@ public class MethodCalls {
     //Creating a method called doSomething.
     public static void doSomething()
     {
-
+        //Printing a message to the user.
     }
 
     //Creating another method.
