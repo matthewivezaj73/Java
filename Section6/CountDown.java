@@ -33,9 +33,10 @@ public class CountDown {
         {
             //Printing a message to the user.
             System.out.println(num1);
-
             //Incrementing num1 by 1.
             num1 = num1+1;
+            //Calling the same method we are in.
+            countUpTo(num1, num2);
         }
     }
 }
