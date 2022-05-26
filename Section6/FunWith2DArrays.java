@@ -13,7 +13,7 @@ public class FunWith2DArrays {
     //Creating a new method. 
     public static void fill2DArray(int[][] twoDArr)
     {
-
+        //Creating a random number generator.
     }
     //Creating a new method.
     public static void print2DArray(int[][] twoDArr)
