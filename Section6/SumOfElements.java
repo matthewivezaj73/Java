@@ -1,3 +1,4 @@
+//Importing an arraylist.
 import java.util.ArrayList;
 
 /*
