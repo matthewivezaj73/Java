@@ -22,4 +22,5 @@ public class MethodOverloading {
         //Multiplying two numbers passed into the method and returning them.
         return num1 * num2;
     }
+    //Overloading the method again.
 }
