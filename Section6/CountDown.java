@@ -15,5 +15,6 @@ public class CountDown {
     public static void countDownFrom(int num)
     {
         //Printing a message to the user.
+        System.out.println(num);
     }
 }
