@@ -25,6 +25,7 @@ public class FunWith2DArrays {
             for(int num : arr)
             {
                 //Printing out the numbers to the user.
+                System.out.print(num+ " ");
             }
         }
     }
