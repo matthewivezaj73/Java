@@ -57,7 +57,7 @@ public class FunWith2DArrays {
         //Creating an enhanced for loop.
         for(int num : take2DArray)
         {
-            
+            //Doubling each number in the array.
         }
     }
 }
