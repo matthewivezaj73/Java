@@ -23,4 +23,8 @@ public class MethodOverloading {
         return num1 * num2;
     }
     //Overloading the method again.
+    public static int getResult(int num1, String value)
+    {
+        
+    }
 }
