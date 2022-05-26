@@ -11,7 +11,7 @@ public class SumOfElements {
     public static void main(String[] args)
     {
         //Creating an arraylist.
-        ArrayList<String> myArrayList = new ArrayList<>();
+        ArrayList<Integer> myArrayList = new ArrayList<>();
     }   
     //Creating a public method.
     public static void sumElements(int[][] twoDArray)
