@@ -13,7 +13,7 @@ public class MethodOverloading {
         System.out.println(result);
         //Overloading result.
         result = getResult(5, 6);
-        //Printing out the result.
+        //Printing out result.
         System.out.println(result);
         //Overloading result.
         result = getResult(5, "12");
