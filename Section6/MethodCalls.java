@@ -16,6 +16,8 @@ public class MethodCalls {
     {
         //Printing a message to the user.
         System.out.println("In doSomething!");
+
+        //Creating a result variable.
     }
 
     //Creating another method.
