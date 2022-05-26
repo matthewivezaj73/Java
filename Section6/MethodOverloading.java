@@ -39,4 +39,8 @@ public class MethodOverloading {
         return num1 * Integer.parseInt(value);
     }
     //Overloading the method again.
+    public static int main()
+    {
+        
+    }
 }
