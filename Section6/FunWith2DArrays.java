@@ -21,6 +21,10 @@ public class FunWith2DArrays {
         for(int i = 0; i < twoDArr.length; i++)
         {
             //Creating a new enhanced for loop.
+            for(int j = 0; j < twoDArr[i].length; j++)
+            {
+                
+            }
         }
     }
     //Creating a new method.
