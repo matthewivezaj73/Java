@@ -26,7 +26,7 @@ public class CountDown {
         }
     }
     //Creating a method called countUpTo.
-    public static int countUpTo(int num1, int num2)
+    public static void countUpTo(int num1, int num2)
     {
         //Creating an if statement.
         if(num2 >= num1)
