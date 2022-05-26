@@ -5,5 +5,5 @@
 */
 //Creating a public class.
 public class countUpTo {
-    
+    //Creating a main method.
 }
