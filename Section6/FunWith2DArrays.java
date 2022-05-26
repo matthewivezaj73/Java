@@ -20,7 +20,7 @@ public class FunWith2DArrays {
         //Creating a regular for loop.
         for(int i = 0; i < twoDArr.length; i++)
         {
-
+            //Creating a new enhanced for loop.
         }
     }
     //Creating a new method.
