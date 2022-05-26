@@ -12,6 +12,6 @@ public class MethodOverloading {
     //Creating a new method.
     public static int getResult(int num)
     {
-        
+        //Returning number passed multiplied by two.
     }
 }
