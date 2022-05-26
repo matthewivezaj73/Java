@@ -28,6 +28,7 @@ public class FunWith2DArrays {
                 System.out.print(num+ " ");
             }
             //Adding some padding.
+            System.out.println();
         }
     }
 }
