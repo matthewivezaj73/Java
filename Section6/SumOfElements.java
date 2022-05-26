@@ -3,6 +3,7 @@
         5/26/2022
         SumOfElements
 */
+//Creating a public class.
 public class SumOfElements {
     
 }
