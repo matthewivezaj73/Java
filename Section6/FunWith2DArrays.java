@@ -70,5 +70,9 @@ public class FunWith2DArrays {
     public static void printTwice2DArray(int[][] twoDArray)
     {
         //Creating an enhanced for loop.
+        for(int num : twoDArray)
+        {
+            
+        }
     }
 }
