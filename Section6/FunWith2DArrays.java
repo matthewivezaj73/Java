@@ -58,6 +58,7 @@ public class FunWith2DArrays {
         for(int num : take2DArray)
         {
             //Doubling each number in the array.
+            num = num*2;
         }
     }
 }
