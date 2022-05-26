@@ -15,9 +15,12 @@ public class CountDown {
     public static void countDownFrom(int num)
     {
         //Creating an if statement.
-        //Printing a message to the user.
-        System.out.println(num);
-        //Calling the same method we are in.
-        countDownFrom(num - 1);
+        if(num >= 0)
+        {
+            //Printing a message to the user.
+            System.out.println(num);
+            //Calling the same method we are in.
+            countDownFrom(num - 1);
+        }
     }
 }
