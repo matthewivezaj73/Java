@@ -8,6 +8,7 @@ public class FunWith2DArrays {
     //Creating the main method.
     public static void main(String[] args)
     {
-        
+
     }
+    //Creating a new method.
 }
