@@ -27,5 +27,6 @@ public class CountDown {
     public static int countUpTo(int num1, int num2)
     {
         //Returning num1 and num2.
+        return num1;
     }
 }
