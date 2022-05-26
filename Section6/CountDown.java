@@ -29,5 +29,9 @@ public class CountDown {
     public static int countUpTo(int num1, int num2)
     {
         //Creating an if statement.
+        if(num2 >= num1)
+        {
+            
+        }
     }
 }
