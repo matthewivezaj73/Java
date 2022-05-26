@@ -20,9 +20,9 @@ public class MethodOverloading {
         //Printing out result.
         System.out.println(result);
         //Overloading result.
-        result = getResult("Hello", "Anna");
+        String strResult = getResult("Hello", "Anna");
         //Printing out result
-        System.out.println(result);
+        System.out.println(strResult);
     }
     //Creating a new method.
     public static int getResult(int num)
