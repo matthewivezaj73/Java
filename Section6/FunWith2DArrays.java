@@ -24,6 +24,7 @@ public class FunWith2DArrays {
             for(int j = 0; j < twoDArr[i].length; j++)
             {
                 //Randomize 0 through 99 (inclusive)
+                //row i, column j.
                 twoDArr[i][i] = rand.nextInt(100);
             }
         }
