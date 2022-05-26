@@ -23,4 +23,5 @@ public class CountDown {
             countDownFrom(num - 1);
         }
     }
+    //Creating a method called countUpTo.
 }
