@@ -19,6 +19,6 @@ public class MethodOverloading {
     //Overloading the previous method.
     public static int getResult(int num1, int num2)
     {
-        
+        //Multiplying two numbers passed into the method and returning them.
     }
 }
