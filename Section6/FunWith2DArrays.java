@@ -22,6 +22,10 @@ public class FunWith2DArrays {
         for(int[] arr : twoDArr)
         {
             //Creating a for loop to access the numbers.
+            for(int num : arr)
+            {
+                
+            }
         }
     }
 }
