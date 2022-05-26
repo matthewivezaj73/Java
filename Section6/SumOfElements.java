@@ -5,5 +5,5 @@
 */
 //Creating a public class.
 public class SumOfElements {
-    
+    //Creating a public method.    
 }
