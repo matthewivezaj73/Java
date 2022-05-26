@@ -7,6 +7,7 @@ public class MethodOverloading {
     //Creating a main method.
     public static void main(String[] args)
     {
+        //Creating a variable and assigning a method to it.
         int result = getResult(5);
     }
     //Creating a new method.
