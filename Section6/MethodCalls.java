@@ -9,6 +9,7 @@ public class MethodCalls {
     public static void main(String[] args)
     {
         //Calling doSomething.
+        doSomething();
     }
 
     //Creating a method called doSomething.
