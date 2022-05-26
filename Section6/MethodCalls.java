@@ -18,6 +18,7 @@ public class MethodCalls {
         System.out.println("In doSomething!");
 
         //Creating a result variable.
+        int result = getSomeValue();
     }
 
     //Creating another method.
