@@ -12,6 +12,10 @@ public class MethodCalls {
     }
 
     //Creating a method called doSomething.
+    public static void doSomething()
+    {
+        
+    }
 
     //Creating another method.
     public static int getSomeValue()
