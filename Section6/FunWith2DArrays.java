@@ -73,6 +73,10 @@ public class FunWith2DArrays {
         for(int[] num : twoDArray)
         {
             //Creating another for loop to access each number.
+            for(int myNum : twoDArray)
+            {
+                
+            }
         }
     }
 }
