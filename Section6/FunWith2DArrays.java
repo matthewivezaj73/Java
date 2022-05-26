@@ -18,13 +18,13 @@ public class FunWith2DArrays {
         //Creating a random number generator.
         Random rand = new Random();
         //Creating a regular for loop.
-        for(int i = 0; i < twoDArr)
+        for(int i = 0; i < twoDArr.length; i++)
+        {
+
+        }
     }
     //Creating a new method.
-    public static void print2DArray(int[][] twoDArr.length; i++)
-    {
-        
-    }
+    public static void print2DArray(int[][] twoDArr)
     {
         //Creating an enhanced for loop.
         for(int[] arr : twoDArr)
