@@ -14,6 +14,7 @@ public class MethodCalls {
     //Creating another method.
     public static int getSomeValue()
     {
-        
+        //Returning an integer.
+        return 150;
     }
 }
