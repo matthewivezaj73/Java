@@ -20,5 +20,9 @@ public class SumOfElements {
     public static void sumElements(int[][] twoDArray)
     {
         //Creating an enhanced for loop.
+        for(int alpha : myArrayList)
+        {
+            
+        }
     }
 }
