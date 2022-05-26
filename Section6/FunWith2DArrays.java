@@ -73,7 +73,7 @@ public class FunWith2DArrays {
         for(int[] num : twoDArray)
         {
             //Creating another for loop to access each number.
-            for(int myNum : twoDArray)
+            for(int myNum : num)
             {
                 //Printing each element out of the loop.
                 System.out.println(myNum + " ");
