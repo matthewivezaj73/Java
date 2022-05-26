@@ -1,6 +1,5 @@
 //Importing an arraylist.
 import java.util.ArrayList;
-
 /*
         Matthew Ivezaj
         5/26/2022
