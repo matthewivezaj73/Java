@@ -26,5 +26,6 @@ public class MethodOverloading {
     public static int getResult(int num1, String value)
     {
         //Returning the number multiplied by a string value.
+        return num1 * Integer.parseInt(value);
     }
 }
