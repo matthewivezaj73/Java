@@ -80,7 +80,7 @@ public class FunWith2DArrays {
             for(int myNum : num)
             {
                 //Printing each element out of the loop.
-                System.out.println(myNum + " ");
+                System.out.print(myNum + " ");
             }
             //Adding a print statement to give padding.
             System.out.println();
