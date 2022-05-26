@@ -31,7 +31,7 @@ public class CountDown {
         //Creating an if statement.
         if(num2 >= num1)
         {
-            
+            //Printing a message to the user.
         }
     }
 }
