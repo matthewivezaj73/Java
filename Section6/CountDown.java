@@ -8,7 +8,8 @@ public class CountDown {
     //Creating main method.
     public static void main(String[] args)
     {
-
+        //Calling countDownFrom.
+        
     }
     //Creating another method.
     public static void countDownFrom(int num)
