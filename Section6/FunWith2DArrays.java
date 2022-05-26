@@ -23,7 +23,7 @@ public class FunWith2DArrays {
             //Creating a new enhanced for loop.
             for(int j = 0; j < twoDArr[i].length; j++)
             {
-                
+                //Randomize 0 through 99 (inclusive)
             }
         }
     }
