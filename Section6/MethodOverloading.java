@@ -26,7 +26,6 @@ public class MethodOverloading {
         //Returning number passed multiplied by two.
         return num * 2;
     }
-
     //Overloading the previous method.
     public static int getResult(int num1, int num2)
     {
