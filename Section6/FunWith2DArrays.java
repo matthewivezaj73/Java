@@ -17,6 +17,7 @@ public class FunWith2DArrays {
     {
         //Creating a random number generator.
         Random rand = new Random();
+        //Creating a regular for loop.
     }
     //Creating a new method.
     public static void print2DArray(int[][] twoDArr)
