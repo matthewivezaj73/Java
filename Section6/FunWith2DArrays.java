@@ -76,6 +76,7 @@ public class FunWith2DArrays {
             for(int myNum : twoDArray)
             {
                 //Printing each element out of the loop.
+                System.out.println(myNum + " ");
             }
         }
     }
