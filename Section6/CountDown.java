@@ -11,4 +11,8 @@ public class CountDown {
 
     }
     //Creating another method.
+    public static void countDownFrom(int num)
+    {
+        
+    }
 }
