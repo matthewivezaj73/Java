@@ -8,7 +8,7 @@ public class SumOfElements {
     //Creating a public method. 
     public static void main(String[] args)
     {
-
+        //Creating an arraylist.
     }   
     //Creating a public method.
     public static void sumElements(int[][] twoDArray)
