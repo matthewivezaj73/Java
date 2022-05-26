@@ -35,6 +35,7 @@ public class CountDown {
             System.out.println(num1);
             //Calling the same method we are in.
             countUpTo(num1, num2);
+            //Incrementing num1 by 1.
         }
     }
 }
