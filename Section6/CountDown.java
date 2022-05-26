@@ -33,6 +33,7 @@ public class CountDown {
         {
             //Printing a message to the user.
             System.out.println(num1);
+            //Calling the same method we are in.
         }
     }
 }
