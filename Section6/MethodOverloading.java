@@ -10,6 +10,7 @@ public class MethodOverloading {
         //Creating a variable and assigning a method to it.
         int result = getResult(5);
         //Printing the variable.
+        System.out.println(result);
     }
     //Creating a new method.
     public static int getResult(int num)
