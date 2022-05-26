@@ -12,4 +12,8 @@ public class MethodCalls {
     }
 
     //Creating another method.
+    public static int getSomeValue()
+    {
+        
+    }
 }
