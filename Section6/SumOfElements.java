@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /*
         Matthew Ivezaj
         5/26/2022
@@ -9,6 +11,7 @@ public class SumOfElements {
     public static void main(String[] args)
     {
         //Creating an arraylist.
+        ArrayList<String> myArrayList = new ArrayList<>();
     }   
     //Creating a public method.
     public static void sumElements(int[][] twoDArray)
