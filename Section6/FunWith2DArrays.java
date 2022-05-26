@@ -31,7 +31,7 @@ public class FunWith2DArrays {
             {
                 //Randomize 0 through 99 (inclusive)
                 //row i, column j.
-                twoDArr[i][i] = rand.nextInt(100);
+                twoDArr[i][j] = rand.nextInt(100);
             }
         }
     }
@@ -60,7 +60,7 @@ public class FunWith2DArrays {
             //Creating another for loop within the parent for loop.
             for(int z=0; z < twoDArr[num].length; z++)
             {
-                
+
             }
             //Doubling each number in the array.
             num = num*2;
