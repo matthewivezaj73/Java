@@ -14,6 +14,6 @@ public class CountDown {
     //Creating another method.
     public static void countDownFrom(int num)
     {
-        
+        //Printing a message to the user.
     }
 }
