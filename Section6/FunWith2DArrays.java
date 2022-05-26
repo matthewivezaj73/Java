@@ -17,6 +17,7 @@ public class FunWith2DArrays {
         fill2DArray(my2DArray);
         //Printing the 2d array.
         print2DArray(my2DArray);
+        //Calling the twice2DArray method.
     }
     //Creating a new method. 
     public static void fill2DArray(int[][] twoDArr)
