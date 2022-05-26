@@ -8,13 +8,13 @@ public class MethodCalls {
     //Creating the main method.
     public static void main(String[] args)
     {
-
+        //Calling doSomething.
     }
 
     //Creating a method called doSomething.
     public static void doSomething()
     {
-        
+
     }
 
     //Creating another method.
