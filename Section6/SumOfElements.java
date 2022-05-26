@@ -17,12 +17,12 @@ public class SumOfElements {
         Random myRandomInt = new Random();
     }   
     //Creating a public method.
-    public static void sumElements(int[][] twoDArray)
+    public static void sumElements(int[][] myArrayList)
     {
         //Creating an enhanced for loop.
         for(int alpha : myArrayList)
         {
-            
+
         }
     }
 }
