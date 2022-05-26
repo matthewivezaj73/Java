@@ -4,6 +4,7 @@
         FunWith2DArrays
 */
 //Importing a library.
+import java.util.random.*;
 //Creating a public class.
 public class FunWith2DArrays {
     //Creating the main method.
