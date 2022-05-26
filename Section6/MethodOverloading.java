@@ -11,6 +11,7 @@ public class MethodOverloading {
         int result = getResult(5);
         //Printing the variable.
         System.out.println(result);
+        //Overloading result.
     }
     //Creating a new method.
     public static int getResult(int num)
