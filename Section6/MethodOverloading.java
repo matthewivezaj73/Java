@@ -20,6 +20,7 @@ public class MethodOverloading {
         //Printing out result.
         System.out.println(result);
         //Overloading result.
+        result = getResult("Hello", "Anna");
     }
     //Creating a new method.
     public static int getResult(int num)
