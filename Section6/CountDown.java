@@ -9,7 +9,7 @@ public class CountDown {
     public static void main(String[] args)
     {
         //Calling countDownFrom.
-        
+        countDownFrom(10);
     }
     //Creating another method.
     public static void countDownFrom(int num)
