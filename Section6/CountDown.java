@@ -11,6 +11,7 @@ public class CountDown {
         //Calling countDownFrom.
         // countDownFrom(10);
         //Calling countUpTo.
+        countUpTo(5,10);
     }
     //Creating another method.
     public static void countDownFrom(int num)
