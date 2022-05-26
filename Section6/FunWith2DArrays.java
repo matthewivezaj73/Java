@@ -10,7 +10,7 @@ public class FunWith2DArrays {
     //Creating the main method.
     public static void main(String[] args)
     {
-
+        //2 row x 3 column.
     }
     //Creating a new method. 
     public static void fill2DArray(int[][] twoDArr)
