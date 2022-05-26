@@ -8,6 +8,7 @@ public class SumOfElements {
     //Creating a public method. 
     public static void main(String[] args)
     {
-        
+
     }   
+    //Creating a public method.
 }
