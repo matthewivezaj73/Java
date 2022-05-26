@@ -19,6 +19,7 @@ public class MethodCalls {
 
         //Creating a result variable.
         int result = getSomeValue();
+        //Printing a message to the user.
     }
 
     //Creating another method.
