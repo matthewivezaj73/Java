@@ -15,6 +15,7 @@ public class MethodCalls {
     public static void doSomething()
     {
         //Printing a message to the user.
+        System.out.println("In doSomething!");
     }
 
     //Creating another method.
