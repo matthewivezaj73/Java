@@ -28,7 +28,7 @@ public class SumOfElements {
         //Creating a for loop.
         for(int j = 0; j < my2DArray.length; j++)
         {
-            
+            //Creating an embedded for loop to access each element.
         }
     }
 }
