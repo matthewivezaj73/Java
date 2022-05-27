@@ -24,6 +24,10 @@ public class SumOfElements {
         for(int[] alpha : myArrayList)
         {
             //Using another for loop to access the elements.
+            for(int num = 0; num < myArrayList.length; num++)
+            {
+                
+            }
         }
     }
 }
