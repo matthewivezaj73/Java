@@ -14,6 +14,7 @@ public class SumOfElements {
     {
         //Creating an arraylist.
         ArrayList<Integer> myArrayList = new ArrayList<>();       
+        int myFirstParam;
         //Creating an array.
         int[][] my2DArray = new int[10][10]; 
     }
