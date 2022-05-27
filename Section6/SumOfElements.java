@@ -31,7 +31,7 @@ public class SumOfElements {
             //Creating an embedded for loop to access each element.
             for(int i = 0; i < my2DArray[j].length; i++)
             {
-
+                //Randomize 0 to infinite.
             }
         }
     }
