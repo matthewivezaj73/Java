@@ -14,11 +14,11 @@ public class SumOfElements {
         //Creating an arraylist.
         ArrayList<Integer> myArrayList = new ArrayList<>();
         //Creating a variable and assigning it the newly created method.
-        
+        int mySum = sumElements(null);
         //Creating a for loop to insert random numbers in the list.
     }   
     //Creating a public method.
-    public static void sumElements(int[][] myArrayList)
+    public static int sumElements(int[][] myArrayList)
     {
         //Creating a regular for loop.
         for(int element = 0; element < myArrayList.length; element++)
@@ -30,5 +30,6 @@ public class SumOfElements {
                 Random myRandomInt = new Random();
             }
         }
+        return 0;
     }
 }
