@@ -44,10 +44,6 @@ public class SumOfElements {
     //Creating a method to print sumelements.
     public static void print2DArray(int[][] my2DArray)
     {
-        //Creating a main method.
-        public static void main(String[] args)
-        {
-            
-        }
+        //Creating an enhanced for loop.
     }   
 }
