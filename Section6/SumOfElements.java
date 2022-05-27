@@ -23,7 +23,7 @@ public class SumOfElements {
         //Creating an enhanced for loop.
         for(int[] alpha : myArrayList)
         {
-
+            //Adding each element together.
         }
     }
 }
