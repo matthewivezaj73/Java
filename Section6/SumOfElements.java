@@ -38,7 +38,7 @@ public class SumOfElements {
         //Creating a for loop.
         for(int num=0; num < my2DArray.length; num++)
         {
-            
+            //Adding each element in the array.
         }
     }
 }
