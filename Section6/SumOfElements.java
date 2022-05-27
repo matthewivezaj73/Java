@@ -28,7 +28,6 @@ public class SumOfElements {
             //Using another for loop to access the elements.
             for(int num = 0; num < myArrayList.length; num++)
             {
-
                 //Adding each random number to the list.
                 myArrayList[element][num] = myRandomInt.nextInt();
             }
