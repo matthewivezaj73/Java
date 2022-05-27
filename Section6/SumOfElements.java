@@ -29,6 +29,7 @@ public class SumOfElements {
                 //Creating a random object.
                 Random myRandomInt = new Random();
                 //Adding each random number to the list.
+                myArrayList[element][num] = myRandomInt.nextInt();
             }
         }
     }
