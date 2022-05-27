@@ -19,6 +19,7 @@ public class SumOfElements {
         //Creating my integer variables to hold user input.
         int myFirstParam;
         int mySecondParam;
+        //Printing out instruction to the user.
         //Creating an array.
         int[][] my2DArray = new int[10][10]; 
     }
