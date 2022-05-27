@@ -39,6 +39,10 @@ public class SumOfElements {
         for(int num=0; num < my2DArray.length; num++)
         {
             //Creating another for loop.
+            for(int yourNum=0; yourNum < my2DArray[num].length; yourNum++)
+            {
+                
+            }
             //Adding each element in the array.
         }
     }
