@@ -47,7 +47,7 @@ public class SumOfElements {
         //Creating an enhanced for loop.
         for(int num[] : my2DArray)
         {
-
+            //Creting an embedded enhanced for loop.
         }
     }   
 }
