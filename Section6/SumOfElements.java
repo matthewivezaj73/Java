@@ -26,6 +26,9 @@ public class SumOfElements {
         //Creating a random object.
         Random myRandomInt = new Random(); 
         //Creating a for loop.
-
+        for(int j = 0; j < my2DArray.length; j++)
+        {
+            
+        }
     }
 }
