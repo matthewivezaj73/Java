@@ -1,11 +1,11 @@
-//Importing two libraries.
-import java.util.ArrayList;
-import java.util.Random;
 /*
         Matthew Ivezaj
         5/26/2022
         SumOfElements
 */
+//Importing two libraries.
+import java.util.ArrayList;
+import java.util.Random;
 //Creating a public class.
 public class SumOfElements {
     //Creating a public method. 
