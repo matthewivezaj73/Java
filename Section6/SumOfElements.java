@@ -24,7 +24,7 @@ public class SumOfElements {
         //Accepting user input.
         myFirstParam = keyboard.nextInt();
         //Creating an array.
-        int[][] my2DArray = new int[10][10]; 
+        int[][] my2DArray = new int[myFirstParam][10]; 
     }
     //Creating a method called sumElements.
     public static void sumElements(int[][] my2DArray)
