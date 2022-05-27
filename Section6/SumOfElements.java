@@ -17,14 +17,6 @@ public class SumOfElements {
         //Creating my integer variables to hold user input.
         int myFirstParam;
         int mySecondParam;
-        //Printing out instruction to the user.
-        System.out.print("Please enter the first parameter of the array we are building:\t");
-        //Accepting user input.
-        myFirstParam = keyboard.nextInt();
-        //Printing out instructions to the user.
-        System.out.print("Please enter the second parameter of the array we are building:\t");
-        //Accepting user input.
-        mySecondParam = keyboard.nextInt();
         //Creating an array.
         int[][] my2DArray = new int[myFirstParam][mySecondParam]; 
     }
