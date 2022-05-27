@@ -34,6 +34,10 @@ public class SumOfElements {
                 //Randomize 0 to infinite.
                 my2DArray[i][j] = myRandomInt.nextInt();
                 //Checking if i >= 1.
+                if(i >= 1)
+                {
+                    
+                }
             }
         }
     }
