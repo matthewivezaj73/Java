@@ -45,9 +45,9 @@ public class SumOfElements {
     public static void print2DArray(int[][] my2DArray)
     {
         //Creating an enhanced for loop.
-        for(int num : my2DArray)
+        for(int num[] : my2DArray)
         {
-            
+
         }
     }   
 }
