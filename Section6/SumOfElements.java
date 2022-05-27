@@ -30,8 +30,6 @@ public class SumOfElements {
             {
                 //Adding each random number to the list.
                 myArrayList[element][num] = myRandomInt.nextInt();
-                //Adding each element in the array.
-                myArrayList[element][num] += num;
             }
         }
     }
