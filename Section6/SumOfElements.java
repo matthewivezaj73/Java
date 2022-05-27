@@ -13,6 +13,8 @@ public class SumOfElements {
     {
         //Creating an arraylist.
         ArrayList<Integer> myArrayList = new ArrayList<>();
+        //Creating a variable and assigning it the newly created method.
+        
         //Creating a for loop to insert random numbers in the list.
     }   
     //Creating a public method.
