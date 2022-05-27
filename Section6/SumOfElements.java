@@ -6,6 +6,7 @@
 //Importing two libraries.
 import java.util.ArrayList;
 import java.util.Random;
+import java.util.Scanner;
 //Creating a public class.
 public class SumOfElements {
     //Creating a public method. 
