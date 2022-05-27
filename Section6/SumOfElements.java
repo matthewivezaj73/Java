@@ -50,7 +50,7 @@ public class SumOfElements {
             //Creting an embedded enhanced for loop.
             for(int myValue : num)
             {
-                
+        
             }
         }
     }   
