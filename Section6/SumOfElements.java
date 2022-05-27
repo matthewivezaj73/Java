@@ -40,5 +40,6 @@ public class SumOfElements {
                 }
             }
         }
+    //Creating a method to print sumelements.
     }
 }
