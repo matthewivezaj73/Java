@@ -20,7 +20,7 @@ public class SumOfElements {
     //Creating a public method.
     public static void sumElements(int[][] myArrayList)
     {
-        //Creating an enhanced for loop.
+        //Creating a regular for loop.
         for(int element = 0; element < myArrayList.length; element++)
         {
             //Using another for loop to access the elements.
