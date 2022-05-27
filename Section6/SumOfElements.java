@@ -36,7 +36,7 @@ public class SumOfElements {
                 if(i >= 1)
                 {
                     //Adding the elements together.
-                    my2DArray[i][j] += my2DArray[i-1][j-1];
+                    System.out.println(my2DArray[i][j] += my2DArray[i-1][j-1]);
                 }
             }
         }
