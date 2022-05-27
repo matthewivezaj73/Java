@@ -27,6 +27,7 @@ public class SumOfElements {
             for(int num = 0; num < myArrayList.length; num++)
             {
                 //Adding the elements together.
+                myArrayList[element][num] = myRandomInt.nextInt(100);
             }
         }
     }
