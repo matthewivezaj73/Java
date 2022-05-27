@@ -16,7 +16,6 @@ public class SumOfElements {
         Scanner keyboard = new Scanner(System.in);
         //Creating my integer variables to hold user input.
         int myFirstParam;
-        int mySecondParam;
         //Creating an array.
         int[][] my2DArray = new int[5][10]; 
     }
@@ -36,7 +35,7 @@ public class SumOfElements {
                 //Checking if i >= 1.
                 if(i >= 1)
                 {
-                    
+
                 }
             }
         }
