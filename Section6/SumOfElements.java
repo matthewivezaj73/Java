@@ -12,6 +12,7 @@ public class SumOfElements {
     //Creating a public method. 
     public static void main(String[] args)
     {
+        Scanner keyboard = new Scanner(System.in);
         //Creating an arraylist.
         ArrayList<Integer> myArrayList = new ArrayList<>();       
         int myFirstParam;
