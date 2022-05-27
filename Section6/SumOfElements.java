@@ -12,15 +12,13 @@ public class SumOfElements {
     public static void main(String[] args)
     {
         //Creating an arraylist.
-        ArrayList<Integer> myArrayList = new ArrayList<>();
-        //Creating a random object.
-        Random myRandomInt = new Random();        
+        ArrayList<Integer> myArrayList = new ArrayList<>();       
         //Creating an array.
         int[][] my2DArray = new int[10][10]; 
     }
     //Creating a method called sumElements.
     public static void sumElements(int[][] my2DArray)
     {
-        
+
     }
 }
