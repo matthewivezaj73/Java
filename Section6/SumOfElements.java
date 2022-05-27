@@ -21,7 +21,7 @@ public class SumOfElements {
     public static void sumElements(int[][] myArrayList)
     {
         //Creating an enhanced for loop.
-        for(int[] alpha : myArrayList)
+        for(int element = 0; element < myArrayList.length; element++)
         {
             //Using another for loop to access the elements.
             for(int num = 0; num < myArrayList.length; num++)
