@@ -35,7 +35,7 @@ public class SumOfElements {
                 //Checking if i >= 1.
                 if(i >= 1)
                 {
-
+                    //Adding the elements together.
                 }
             }
         }
