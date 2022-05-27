@@ -23,6 +23,7 @@ public class SumOfElements {
         System.out.print("Please enter the first parameter of the array we are building:\t");
         //Accepting user input.
         myFirstParam = keyboard.nextInt();
+        //Printing out instructions to the user.
         //Creating an array.
         int[][] my2DArray = new int[myFirstParam][10]; 
     }
