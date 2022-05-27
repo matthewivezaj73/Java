@@ -16,5 +16,6 @@ public class SumOfElements {
         //Creating a random object.
         Random myRandomInt = new Random();        
         //Creating an array.
+        int[][] my2DArray = new int[10][10]; 
     }
 }
