@@ -35,5 +35,6 @@ public class SumOfElements {
     {
         //Creating a random object.
         Random myRandomInt = new Random(); 
+        //Creating a for loop.
     }
 }
