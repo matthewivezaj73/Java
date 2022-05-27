@@ -45,5 +45,9 @@ public class SumOfElements {
     public static void print2DArray(int[][] my2DArray)
     {
         //Creating a main method.
+        public static void main(String[] args)
+        {
+            
+        }
     }   
 }
