@@ -31,6 +31,7 @@ public class SumOfElements {
                 //Adding each random number to the list.
                 myArrayList[element][num] = myRandomInt.nextInt();
             }
+            //Creating another for loop to add the elements.
         }
     }
 }
