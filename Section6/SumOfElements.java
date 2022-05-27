@@ -39,7 +39,11 @@ public class SumOfElements {
                     System.out.println(my2DArray[i][j] += my2DArray[i-1][j-1]);
                 }
             }
-        }
-    //Creating a method to print sumelements.
+        } 
     }
+    //Creating a method to print sumelements.
+    public static void print2DArray(int[][] my2DArray)
+    {
+
+    }   
 }
