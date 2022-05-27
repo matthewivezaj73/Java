@@ -45,5 +45,6 @@ public class SumOfElements {
                 my2DArray[num][yourNum] += my2DArray[num][yourNum];
             }
         }
+        //Printing my2SArray out.
     }
 }
