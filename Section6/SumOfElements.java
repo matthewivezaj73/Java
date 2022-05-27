@@ -34,7 +34,8 @@ public class SumOfElements {
             //Creating another for loop to add the elements.
             for(int num : myArrayList)
             {
-                
+                //Adding each element in the array.
+                myArrayList[element][num] += num;
             }
         }
     }
