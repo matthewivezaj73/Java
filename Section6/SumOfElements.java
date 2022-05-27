@@ -19,6 +19,7 @@ public class SumOfElements {
     //Creating a method called sumElements.
     public static void sumElements(int[][] my2DArray)
     {
-
+        //Creating a random object.
+        Random myRandomInt = new Random(); 
     }
 }
