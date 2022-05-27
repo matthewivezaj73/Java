@@ -48,6 +48,10 @@ public class SumOfElements {
         for(int num[] : my2DArray)
         {
             //Creting an embedded enhanced for loop.
+            for(int myValue : num)
+            {
+                
+            }
         }
     }   
 }
