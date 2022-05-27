@@ -16,6 +16,7 @@ public class SumOfElements {
         Scanner keyboard = new Scanner(System.in);
         //Creating an arraylist.
         ArrayList<Integer> myArrayList = new ArrayList<>();       
+        //Creating my integer variables to hold user input.
         int myFirstParam;
         //Creating an array.
         int[][] my2DArray = new int[10][10]; 
