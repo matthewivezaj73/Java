@@ -20,14 +20,15 @@ public class SumOfElements {
     //Creating a public method.
     public static void sumElements(int[][] myArrayList)
     {
+        //Creating a random object.
+        Random myRandomInt = new Random();
         //Creating a regular for loop.
         for(int element = 0; element < myArrayList.length; element++)
         {
             //Using another for loop to access the elements.
             for(int num = 0; num < myArrayList.length; num++)
             {
-                //Creating a random object.
-                Random myRandomInt = new Random();
+
                 //Adding each random number to the list.
                 myArrayList[element][num] = myRandomInt.nextInt();
             }
