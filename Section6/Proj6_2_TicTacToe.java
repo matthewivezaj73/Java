@@ -26,6 +26,7 @@ public class Proj6_2_TicTacToe {
         else if(userInput1 == "O")
         {
             //Printing a message to the user.
+            System.out.println("You are going second!");
         }
     }
 }
