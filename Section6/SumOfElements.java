@@ -12,8 +12,6 @@ public class SumOfElements {
     //Creating a public method. 
     public static void main(String[] args)
     {
-        //Creating a scanner.
-        Scanner keyboard = new Scanner(System.in);
         //Creating my integer variables to hold user input.
         int myFirstParam;
         //Creating an array.
