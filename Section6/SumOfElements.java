@@ -23,8 +23,8 @@ public class SumOfElements {
         myArrayList.add(12);
     }
     //Creating a method to print the list.
-    for(int i = 0 : myArrayList)
+    public static void printArray(int[][] myArrayList)
     {
-        
+
     }
 }
