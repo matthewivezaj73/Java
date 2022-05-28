@@ -30,14 +30,9 @@ public class SumOfElements {
         //Creating an integer.
         int myNum = 0;
         //Creating enhanced for loop.
-        for(int[] arr : myArrayList)
+        for(int i = 0; i < myArrayList.size(); i++)
         {
-            //Creating an embedded enhanced for loop.
-            for(int i : arr)
-            {
-                //Printing out the number in the list.
-                System.out.println(i);
-            }
+            
         }
     }
 }
