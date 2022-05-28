@@ -19,7 +19,6 @@ public class Proj6_2_TicTacToe {
     {
         //Creating a scanner.
         Scanner keyboard = new Scanner(System.in);
-
         //Adding a variable.
         int myVariable = 0;
         //Creating a while loop.
