@@ -14,6 +14,7 @@ public class Proj6_2_TicTacToe {
         System.out.print("Would you like to be X or O:\t");
         startGame();
     }
+    //Creating a method to create game board.
     //Creating a method to start the game.
     public static int startGame()
     {
