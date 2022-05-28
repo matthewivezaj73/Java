@@ -21,7 +21,7 @@ public class SumOfElements {
         myArrayList.add(22);
         //Adding a number to the arraylist.
         myArrayList.add(12);
-        //Printing the array.
+        //Created a variable that will print the list.
         int myNewSum = sumElements(myArrayList);
     }
     //Creating a method to print the list.
