@@ -32,6 +32,7 @@ public class Proj6_2_TicTacToe {
         else
         {
             //Printing out a message to the user instructing them to try entering an X or an O.
+            System.out.println("Please enter an X or an O:\t");
         }
     }
 }
