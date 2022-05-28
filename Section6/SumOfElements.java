@@ -29,10 +29,10 @@ public class SumOfElements {
     {
         //Creating an integer.
         int myNum = 0;
-        //Creating enhanced for loop.
+        //Creating standard for loop.
         for(int i = 0; i < myArrayList.size(); i++)
         {
-            
+
         }
     }
 }
