@@ -33,5 +33,6 @@ public class addingElements {
             myVariable = myVariable + newList.get(x);
         }
         //Adding a return statement.
+        return myVariable;
     }
 }
