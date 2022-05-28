@@ -14,9 +14,8 @@ public class SumOfElements {
         //Creating my integer variables to hold user input.
         int myFirstParam;
         //Creating an array.
-        int[][] my2DArray = new int[5][10]; 
-        //Calling sumElements.
-        sumElements(my2DArray);
+        ArrayList<Integer> myArrayList = new ArrayList<>();
+
     }
     //Creating a method called sumElements.
     public static void sumElements(int[][] my2DArray)
