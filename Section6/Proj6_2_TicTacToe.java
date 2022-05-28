@@ -4,6 +4,7 @@
         Tic-Tac-Toe
 */
 //Importing the scanner.
+import java.util.Scanner;
 //Creating a tictactoe class.
 public class Proj6_2_TicTacToe {
     //Creating a main method.
