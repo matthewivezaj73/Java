@@ -27,7 +27,7 @@ public class addingElements {
         //Creating a standard for loop.
         for(int x = 0; x < newList.size(); x++)
         {
-            
+            //Grabbing each number within the new list.
         }
     }
 }
