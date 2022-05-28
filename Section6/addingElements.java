@@ -20,6 +20,7 @@ public class addingElements {
         myArrayList.add(5324);
         //Adding the elements and assigning them to a variable.
         int mySum = addElements(myArrayList);
+        //Printing mySum.
     }
     //Creating a new method to add the elements together.
     public static int addElements(ArrayList<Integer> newList)
