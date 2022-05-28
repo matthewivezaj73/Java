@@ -36,7 +36,7 @@ public class SumOfElements {
                 //Adding to a master variable to hold the sum.
                 mySum += j;            
             }
-
+            //Printing out mySum.
         } 
     }
 
