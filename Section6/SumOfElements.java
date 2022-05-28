@@ -24,6 +24,7 @@ public class SumOfElements {
         //Created a variable that will print the list.
         int myNewSum = sumElements(myArrayList);
         //Printing the new variable.
+        System.out.println(myNewSum);
     }
     //Creating a method to print the list.
     public static int sumElements(ArrayList<Integer> myList)
