@@ -25,6 +25,9 @@ public class SumOfElements {
     //Creating a method to print the list.
     public static void printArray(int[][] myArrayList)
     {
-
+        for(int i = 0 : myArrayList)
+        {
+            
+        }
     }
 }
