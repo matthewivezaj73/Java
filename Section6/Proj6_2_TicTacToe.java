@@ -14,6 +14,7 @@ public class Proj6_2_TicTacToe {
         Scanner keyboard = new Scanner(System.in);
         //Printing out a message to the user telling them to choose whether they want X or O.
         System.out.print("Would you like to be X or O:\t");
+        //Adding a variable.
         //Creating a while loop.
         //Creating a variable to hold user input.
         String userInput1 = keyboard.nextLine();
