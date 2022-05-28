@@ -28,7 +28,7 @@ public class SumOfElements {
         //Creating enhanced for loop.
         for(int[] arr : myArrayList)
         {
-            
+            //Creating an embedded enhanced for loop.
         }
     }
 }
