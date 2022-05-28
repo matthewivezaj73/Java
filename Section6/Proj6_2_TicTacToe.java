@@ -21,6 +21,7 @@ public class Proj6_2_TicTacToe {
     public static void setUpBoard()
     {
         //Inserting a blank line.
+        System.out.println();
         //Printing out the game board.
         System.out.println("   |   |   ");
         //Printing out the next piece of the game board.
