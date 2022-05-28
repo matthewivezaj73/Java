@@ -37,6 +37,7 @@ public class SumOfElements {
                 mySum += j;            
             }
             //Printing out mySum.
+            System.out.print(mySum);
         } 
     }
 
