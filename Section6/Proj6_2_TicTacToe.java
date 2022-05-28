@@ -21,6 +21,7 @@ public class Proj6_2_TicTacToe {
         System.out.println("   |   |   ");
         //Printing out the next piece of the game board.
         System.out.println("___________");
+        //Printing out the next pidcd of the game board.
     }
     //Creating a method to start the game.
     public static int startGame()
