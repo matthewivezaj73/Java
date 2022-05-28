@@ -29,6 +29,10 @@ public class SumOfElements {
         for(int[] arr : myArrayList)
         {
             //Creating an embedded enhanced for loop.
+            for(int i : arr)
+            {
+                
+            }
         }
     }
 }
