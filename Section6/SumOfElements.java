@@ -33,10 +33,10 @@ public class SumOfElements {
             //Creating another enhanced for loop.
             for(int j : myNum)
             {
-                
+                //Adding to a master variable to hold the sum.
+                mySum += myNum;            
             }
-            //Adding to a master variable to hold the sum.
-            mySum += myNum;
+
         } 
     }
 
