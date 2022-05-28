@@ -35,6 +35,7 @@ public class Proj6_2_TicTacToe {
                 //Printing a message to the user.
                 System.out.println("You are going second!");
                 //Incrementing the variable.
+                myVariable += 2;
             }
             //Handling the case where the user enters something else.
             else
