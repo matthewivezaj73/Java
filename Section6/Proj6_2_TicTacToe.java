@@ -23,7 +23,7 @@ public class Proj6_2_TicTacToe {
             System.out.println("You are going first!");
         }
         //Handling the case where the user selects O.
-        else
+        else if(userInput1 == "O")
         {
 
         }
