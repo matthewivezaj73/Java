@@ -31,7 +31,7 @@ public class SumOfElements {
             //Creating an embedded enhanced for loop.
             for(int i : arr)
             {
-                
+                //Printing out the number in the list.
             }
         }
     }
