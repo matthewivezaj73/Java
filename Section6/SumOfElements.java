@@ -32,6 +32,7 @@ public class SumOfElements {
             for(int i : arr)
             {
                 //Printing out the number in the list.
+                System.out.println(i);
             }
         }
     }
