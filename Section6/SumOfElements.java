@@ -15,6 +15,7 @@ public class SumOfElements {
         int myFirstParam;
         //Creating an array.
         int[][] my2DArray = new int[5][10]; 
+        //Calling sumElements.
     }
     //Creating a method called sumElements.
     public static void sumElements(int[][] my2DArray)
