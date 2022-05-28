@@ -9,5 +9,6 @@ public class Proj6_2_TicTacToe {
     public static void main(String[] args)
     {
         //Printing a tictactoe board.
+        System.out.println("   |   |   ");
     }
 }
