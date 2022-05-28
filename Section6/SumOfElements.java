@@ -19,6 +19,7 @@ public class SumOfElements {
         myArrayList.add(10);
         //Adding a number to the arraylist.
         myArrayList.add(22);
+        //Adding a number to the arraylist.
     }
 
 }
