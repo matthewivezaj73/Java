@@ -17,5 +17,9 @@ public class Proj6_2_TicTacToe {
         //Creating a variable to hold user input.
         String userInput1 = keyboard.nextLine();
         //Checking if the user entered an X or an O.
+        if(userInput1 == "X")
+        {
+
+        }
     }
 }
