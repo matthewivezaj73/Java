@@ -28,7 +28,7 @@ public class addingElements {
         for(int x = 0; x < newList.size(); x++)
         {
             //Grabbing each number within the new list.
-            int myNum = myNum + newList.get(x);
+            myVariable = myVariable + newList.get(x);
         }
     }
 }
