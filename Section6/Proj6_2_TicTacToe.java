@@ -50,7 +50,7 @@ public class Proj6_2_TicTacToe {
             }
         }
         //Returning passed object.
-        return passed_object;
+        return 0;
     }
 }
 
