@@ -13,6 +13,7 @@ public class addingElements {
     public static void main(String[] args)
     {
         //Creating a random object.
+        Random randObj = new Random();
         //Creating an arraylist.
         ArrayList<Integer> myArrayList = new ArrayList();
         //Adding a number to the arraylist.
