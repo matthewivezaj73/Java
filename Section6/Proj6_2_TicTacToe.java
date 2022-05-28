@@ -31,7 +31,7 @@ public class Proj6_2_TicTacToe {
         //Handling the case where the user enters something else.
         else
         {
-            
+            //Printing out a message to the user instructing them to try entering an X or an O.
         }
     }
 }
