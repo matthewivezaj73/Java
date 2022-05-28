@@ -32,7 +32,7 @@ public class SumOfElements {
         //Creating standard for loop.
         for(int i = 0; i < myList.size(); i++)
         {
-
+            //Adding each number up.
         }
     }
 }
