@@ -12,10 +12,10 @@ public class Proj6_2_TicTacToe {
     {
         //Printing out a message to the user telling them to choose whether they want X or O.
         System.out.print("Would you like to be X or O:\t");
-
+        startGame();
     }
     //Creating a method to start the game.
-    public static int startGame(int passed_object)
+    public static int startGame()
     {
         //Creating a scanner.
         Scanner keyboard = new Scanner(System.in);
