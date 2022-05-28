@@ -16,5 +16,6 @@ public class addingElements {
         myArrayList.add(4);
         //Adding a number to the arraylist.
         myArrayList.add(414);
+        //Adding a number to the arraylist.
     }
 }
