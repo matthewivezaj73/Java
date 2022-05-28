@@ -30,6 +30,7 @@ public class SumOfElements {
         //Creating a for loop.
         for(int[] myNum : my2DArray)
         {
+            //Creating another enhanced for loop.
             //Adding to a master variable to hold the sum.
             mySum += myNum;
         } 
