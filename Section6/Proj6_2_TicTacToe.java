@@ -19,6 +19,7 @@ public class Proj6_2_TicTacToe {
     //Creating a method to start the game.
     public static int startGame(int passed_object)
     {
-        
+
+        return passed_object;
     }
 }
