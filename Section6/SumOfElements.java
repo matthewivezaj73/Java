@@ -15,7 +15,7 @@ public class SumOfElements {
         int myFirstParam;
         //Creating an array.
         ArrayList<Integer> myArrayList = new ArrayList<>();
-        
+        //Adding numbers to the arraylist.
 
     }
 
