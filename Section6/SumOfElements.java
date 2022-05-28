@@ -33,6 +33,7 @@ public class SumOfElements {
         for(int i = 0; i < myList.size(); i++)
         {
             //Adding each number up.
+            myNum += myList.get(i);
         }
     }
 }
