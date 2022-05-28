@@ -13,7 +13,7 @@ public class Proj6_2_TicTacToe {
         //Calling the setUpBoard method to set up the tic tac toe board.
         setUpBoard();
         //Printing out a message to the user telling them to choose whether they want X or O.
-        System.out.print("Would you like to be X or O:\t");
+        System.out.print("Would you like to be X or O (Please enter a capital X or capital O):\t");
         //Calling the startGame method to initialize the game.
         startGame();
 
