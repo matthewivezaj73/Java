@@ -19,9 +19,10 @@ public class addingElements {
         //Adding a number to the arraylist.
         myArrayList.add(5324);
         //Adding the elements and assigning them to a variable.
+        int mySum = addElements(myArrayList);
     }
     //Creating a new method to add the elements together.
-    public static void addElements(ArrayList<Integer> newList)
+    public static int addElements(ArrayList<Integer> newList)
     {
         //Creating a variable set to 0.
         int myVariable = 0;
