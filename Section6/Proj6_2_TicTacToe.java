@@ -29,5 +29,9 @@ public class Proj6_2_TicTacToe {
             System.out.println("You are going second!");
         }
         //Handling the case where the user enters something else.
+        else
+        {
+            
+        }
     }
 }
