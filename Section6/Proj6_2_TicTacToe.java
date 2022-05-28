@@ -15,7 +15,7 @@ public class Proj6_2_TicTacToe {
         //Printing out a message to the user telling them to choose whether they want X or O.
         System.out.println("Would you like to be X or O:\t");
         //Creating a variable to hold user input.
-        int userInput1;
+        String userInput1 = keyboard.nextLine();
         //Accepting user input.
     }
 }
