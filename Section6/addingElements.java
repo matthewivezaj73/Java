@@ -21,6 +21,7 @@ public class addingElements {
         //Adding the elements and assigning them to a variable.
         int mySum = addElements(myArrayList);
         //Printing mySum.
+        System.out.print(mySum);
     }
     //Creating a new method to add the elements together.
     public static int addElements(ArrayList<Integer> newList)
