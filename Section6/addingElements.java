@@ -5,5 +5,5 @@
 */
 //Creating a public class.
 public class addingElements {
-    
+    //Creating a method.
 }
