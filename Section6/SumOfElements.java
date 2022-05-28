@@ -16,7 +16,7 @@ public class SumOfElements {
         //Creating an array.
         ArrayList<Integer> myArrayList = new ArrayList<>();
         //Adding numbers to the arraylist.
-
+        myArrayList.add(10);
     }
 
 }
