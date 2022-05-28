@@ -25,6 +25,7 @@ public class SumOfElements {
     //Creating a method to print the list.
     public static void printArray(int[][] myArrayList)
     {
+        //Creating enhanced for loop.
         for(int i = 0 : myArrayList)
         {
             
