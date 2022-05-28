@@ -42,18 +42,5 @@ public class SumOfElements {
             }
         } 
     }
-    //Creating a method to print sumelements.
-    public static void print2DArray(int[][] my2DArray)
-    {
-        //Creating an enhanced for loop.
-        for(int num[] : my2DArray)
-        {
-            //Creting an embedded enhanced for loop.
-            for(int myValue : num)
-            {
-                //Printing the number.
-                System.out.print(myValue);
-            }
-        }
-    }   
+
 }
