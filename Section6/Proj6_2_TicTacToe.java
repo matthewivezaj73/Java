@@ -28,5 +28,6 @@ public class Proj6_2_TicTacToe {
             //Printing a message to the user.
             System.out.println("You are going second!");
         }
+        //Handling the case where the user enters something else.
     }
 }
