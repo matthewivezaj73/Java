@@ -20,8 +20,8 @@ public class addingElements {
         myArrayList.add(5324);
     }
     //Creating a new method to add the elements together.
-    public static void addElements(int[][] ArrayList)
+    public static void addElements(ArrayList<Integer> newList)
     {
-
+        //
     }
 }
