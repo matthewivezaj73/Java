@@ -22,9 +22,10 @@ public class SumOfElements {
         //Adding a number to the arraylist.
         myArrayList.add(12);
         //Printing the array.
+        System.out.println(myArrayList);
     }
     //Creating a method to print the list.
-    public static void printArray(int[][] myArrayList)
+    public static void sumElements(int[][] myArrayList)
     {
         //Creating enhanced for loop.
         for(int[] arr : myArrayList)
