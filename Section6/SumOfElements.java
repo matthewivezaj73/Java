@@ -17,25 +17,5 @@ public class SumOfElements {
         ArrayList<Integer> myArrayList = new ArrayList<>();
 
     }
-    //Creating a method called sumElements.
-    public static void sumElements(int[][] my2DArray)
-    {
-        //Creating a random object.
-        Random myRandomInt = new Random(); 
-        //Creating a double value.
-        double mySum = 0;
-        //Creating a for loop.
-        for(int[] myNum : my2DArray)
-        {
-            //Creating another enhanced for loop.
-            for(int j : myNum)
-            {
-                //Adding to a master variable to hold the sum.
-                mySum += j;            
-            }
-            //Printing out mySum.
-            System.out.print(mySum);
-        } 
-    }
 
 }
