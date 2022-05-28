@@ -13,7 +13,7 @@ public class Proj6_2_TicTacToe {
         //Creating a scanner.
         Scanner keyboard = new Scanner(System.in);
         //Printing out a message to the user telling them to choose whether they want X or O.
-        System.out.println("Would you like to be X or O:\t");
+        System.out.print("Would you like to be X or O:\t");
         //Creating a variable to hold user input.
         String userInput1 = keyboard.nextLine();
         //Checking if the user entered an X or an O.
@@ -32,7 +32,7 @@ public class Proj6_2_TicTacToe {
         else
         {
             //Printing out a message to the user instructing them to try entering an X or an O.
-            System.out.println("Please enter an X or an O:\t");
+            System.out.print("Please enter an X or an O:\t");
         }
     }
 }
