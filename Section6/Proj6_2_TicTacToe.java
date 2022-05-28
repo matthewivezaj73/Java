@@ -17,6 +17,9 @@ public class Proj6_2_TicTacToe {
     //Creating a method to start the game.
     public static int startGame(int passed_object)
     {
+        //Creating a scanner.
+        Scanner keyboard = new Scanner(System.in);
+
         //Adding a variable.
         int myVariable = 0;
         //Creating a while loop.
