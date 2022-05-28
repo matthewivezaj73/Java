@@ -16,5 +16,5 @@ public class Proj6_2_TicTacToe {
         System.out.print("Would you like to be X or O:\t");
 
     }
-    
+    //Creating a method to start the game.
 }
