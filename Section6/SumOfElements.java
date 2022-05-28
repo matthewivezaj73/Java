@@ -34,7 +34,7 @@ public class SumOfElements {
             for(int j : myNum)
             {
                 //Adding to a master variable to hold the sum.
-                mySum += myNum;            
+                mySum += j;            
             }
 
         } 
