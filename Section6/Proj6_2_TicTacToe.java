@@ -17,7 +17,7 @@ public class Proj6_2_TicTacToe {
     //Creating a method to create game board.
     public static void setUpBoard()
     {
-        
+        //Printing out the game board.
     }
     //Creating a method to start the game.
     public static int startGame()
