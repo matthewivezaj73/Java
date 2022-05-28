@@ -20,9 +20,9 @@ public class Proj6_2_TicTacToe {
         while(myVariable != 1)
         {
             //Creating a variable to hold user input.
-            String userInput1 = keyboard.nextLine();
+            char userInput1 = keyboard.next().charAt(0);
             //Checking if the user entered an X or an O.
-            if(userInput1 == "X")
+            if(userInput1 == 'X')
             {
                 //Printing a message to the user.
                 System.out.println("You are going first!");
@@ -30,7 +30,7 @@ public class Proj6_2_TicTacToe {
                 myVariable += 1;
             }
             //Handling the case where the user selects O.
-            else if(userInput1 == "O")
+            else if(userInput1 == 'O')
             {
                 //Printing a message to the user.
                 System.out.println("You are going second!");
