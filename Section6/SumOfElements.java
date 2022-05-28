@@ -24,3 +24,4 @@ public class SumOfElements {
     }
 
 }
+//Creating a method to print the list.
