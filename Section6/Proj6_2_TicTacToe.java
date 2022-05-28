@@ -25,7 +25,7 @@ public class Proj6_2_TicTacToe {
         //Handling the case where the user selects O.
         else if(userInput1 == "O")
         {
-
+            //Printing a message to the user.
         }
     }
 }
