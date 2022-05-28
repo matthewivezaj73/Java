@@ -17,8 +17,6 @@ public class SumOfElements {
         int[][] my2DArray = new int[5][10]; 
         //Calling sumElements.
         sumElements(my2DArray);
-        //Calling print2DArray.
-        print2DArray(my2DArray);
     }
     //Creating a method called sumElements.
     public static void sumElements(int[][] my2DArray)
