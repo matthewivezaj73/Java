@@ -14,7 +14,10 @@ public class SumOfElements {
     {
         //Creating a scanner.
         Scanner keyboard = new Scanner(System.in);
-        
+        //Creating my integer variables to hold user input.
+        int myFirstParam;
+        //Creating an array.
+        int[][] my2DArray = new int[5][10]; 
     }
     //Creating a method called sumElements.
     public static void sumElements(int[][] my2DArray)
