@@ -51,6 +51,7 @@ public class SumOfElements {
             for(int myValue : num)
             {
                 //Printing the number.
+                System.out.print(myValue);
             }
         }
     }   
