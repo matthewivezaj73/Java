@@ -32,5 +32,6 @@ public class addingElements {
             //Grabbing each number within the new list.
             myVariable = myVariable + newList.get(x);
         }
+        //Adding a return statement.
     }
 }
