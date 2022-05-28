@@ -28,6 +28,7 @@ public class SumOfElements {
     public static void sumElements(int[][] myArrayList)
     {
         //Creating an integer.
+        int myNum = 0;
         //Creating enhanced for loop.
         for(int[] arr : myArrayList)
         {
