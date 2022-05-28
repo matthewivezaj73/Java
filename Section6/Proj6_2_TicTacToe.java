@@ -20,6 +20,7 @@ public class Proj6_2_TicTacToe {
         if(userInput1 == "X")
         {
             //Printing a message to the user.
+            System.out.println("You are going first!");
         }
     }
 }
