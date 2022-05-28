@@ -14,5 +14,6 @@ public class addingElements {
         ArrayList<Integer> myArrayList = new ArrayList();
         //Adding a number to the arraylist.
         myArrayList.add(4);
+        //Adding a number to the arraylist.
     }
 }
