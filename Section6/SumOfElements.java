@@ -35,5 +35,6 @@ public class SumOfElements {
             //Adding each number up.
             myNum += myList.get(i);
         }
+        //Returning the sum.
     }
 }
