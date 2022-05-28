@@ -22,7 +22,7 @@ public class SumOfElements {
         //Adding a number to the arraylist.
         myArrayList.add(12);
         //Printing the array.
-        
+        int myNewSum = sumElements(myArrayList);
     }
     //Creating a method to print the list.
     public static int sumElements(ArrayList<Integer> myList)
