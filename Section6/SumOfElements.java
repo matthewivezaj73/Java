@@ -27,20 +27,9 @@ public class SumOfElements {
         Random myRandomInt = new Random(); 
         //Creating a double value.
         //Creating a for loop.
-        for(int j = 0; j < my2DArray.length; j++)
+        for(int[] myNum : my2DArray)
         {
-            //Creating an embedded for loop to access each element.
-            for(int i = 0; i < my2DArray[j].length; i++)
-            {
-                //Randomize 0 to infinite.
-                my2DArray[i][j] = myRandomInt.nextInt();
-                //Checking if i >= 1.
-                if(i >= 1)
-                {
-                    //Adding the elements together.
-                    System.out.println(my2DArray[i][j] += my2DArray[i-1][j-1]);
-                }
-            }
+            
         } 
     }
 
