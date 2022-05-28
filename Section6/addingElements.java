@@ -12,6 +12,7 @@ public class addingElements {
     //Creating a method.
     public static void main(String[] args)
     {
+        //Creating a random object.
         //Creating an arraylist.
         ArrayList<Integer> myArrayList = new ArrayList();
         //Adding a number to the arraylist.
