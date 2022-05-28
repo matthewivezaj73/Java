@@ -23,5 +23,6 @@ public class addingElements {
     public static void addElements(ArrayList<Integer> newList)
     {
         //Creating a variable set to 0.
+        int myVariable = 0;
     }
 }
