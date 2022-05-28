@@ -24,5 +24,6 @@ public class addingElements {
     {
         //Creating a variable set to 0.
         int myVariable = 0;
+        //Creating a standard for loop.
     }
 }
