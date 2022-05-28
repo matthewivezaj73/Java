@@ -17,25 +17,28 @@ public class Proj6_2_TicTacToe {
         //Adding a variable.
         int myVariable = 0;
         //Creating a while loop.
-        //Creating a variable to hold user input.
-        String userInput1 = keyboard.nextLine();
-        //Checking if the user entered an X or an O.
-        if(userInput1 == "X")
+        while(myVariable != 1)
         {
-            //Printing a message to the user.
-            System.out.println("You are going first!");
-        }
-        //Handling the case where the user selects O.
-        else if(userInput1 == "O")
-        {
-            //Printing a message to the user.
-            System.out.println("You are going second!");
-        }
-        //Handling the case where the user enters something else.
-        else
-        {
-            //Printing out a message to the user instructing them to try entering an X or an O.
-            System.out.print("Please enter an X or an O:\t");
+            //Creating a variable to hold user input.
+            String userInput1 = keyboard.nextLine();
+            //Checking if the user entered an X or an O.
+            if(userInput1 == "X")
+            {
+                //Printing a message to the user.
+                System.out.println("You are going first!");
+            }
+            //Handling the case where the user selects O.
+            else if(userInput1 == "O")
+            {
+                //Printing a message to the user.
+                System.out.println("You are going second!");
+            }
+            //Handling the case where the user enters something else.
+            else
+            {
+                //Printing out a message to the user instructing them to try entering an X or an O.
+                System.out.print("Please enter an X or an O:\t");
+            }
         }
     }
 }
