@@ -6,7 +6,7 @@
 //Importing arraylist.
 import java.util.ArrayList;
 //Importing random.
-import java.util.random.*;
+import java.util.Random;
 //Creating a public class.
 public class addingElements {
     //Creating a method.
