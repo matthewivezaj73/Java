@@ -54,6 +54,7 @@ public class Proj6_2_TicTacToe {
                 break;
             }
             //Breaking out of the loop.
+            break;
         }
     }
     //Creating a method to create game board.
