@@ -39,10 +39,11 @@ public class Proj6_2_TicTacToe {
         //Creating a for loop to access the specific column and row.
         for(int alpha = 0; alpha < gameBoard.length; alpha++)
         {
+            //Print a message to the user.
             //Creating a regular for loop.
             for(int beta = 0; beta < gameBoard[alpha].length; beta++)
             {
-                
+
             }
         }
     }
