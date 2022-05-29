@@ -50,15 +50,11 @@ public class Proj6_2_TicTacToe {
         //Assigning certain cells |.
         //Printing out the first vertical line.
         gameBoard[0][1] = "|";
-        gameBoard[1][1] = "*";
         gameBoard[2][1] = "|";
-        gameBoard[3][1] = "*";
         gameBoard[4][1] = "|";
         //Printing out the second vertical line.
         gameBoard[0][3] = "|";
-        gameBoard[1][3] = "*";
         gameBoard[2][3] = "|";
-        gameBoard[3][3] = "*";
         gameBoard[4][3] = "|";
         //Adding underscores.
         //Printing out the first horizontal line.
