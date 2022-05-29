@@ -23,18 +23,13 @@ public class Proj6_2_TicTacToe {
     //Creating a method to create game board.
     public static void setUpBoard(String[][] gameBoard)
     {
-        //Inserting a blank line.
-        System.out.println();
-        //Printing out the game board.
-        System.out.println("   |   |   ");
-        //Printing out the next piece of the game board.
-        System.out.println("___________");
-        //Printing out the next piece of the game board.
-        System.out.println("   |   |   ");
-        //Printing out the next piece of the game board.
-        System.out.println("___________");
-        //Printing the next piece of the game board.
-        System.out.println("   |   |   ");
+        //Assigning certain cells |.
+        gameBoard[2][1] = "|";
+        gameBoard[4][1] = "|";
+        gameBoard[2][3] = "|";
+        gameBoard[4][3] = "|";
+        gameBoard[2][5] = "|";
+        gameBoard[4][5] = "|";
     }
     //Creating a method to start the game.
     public static int startGame()
