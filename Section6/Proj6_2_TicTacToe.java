@@ -12,9 +12,6 @@ public class Proj6_2_TicTacToe {
     {
         //Creating a 3 x 3 array.
         String[][] gameBoard = new String[5][5];
-        //Calling the setUpBoard method to set up the tic tac toe board.
-        // setUpBoard(gameBoard);
-        //Calling printGameBoard.
         //Calling the startGame method to initialize the game.
         startGame();
         printGameBoard(gameBoard);
