@@ -15,7 +15,7 @@ public class Proj6_2_TicTacToe {
         //Assigning certain cells |.
         gameBoard[2][1] = "|";
         gameBoard[4][1] = "|";
-        gameBoard[2][2] = "|";
+        gameBoard[2][3] = "|";
         gameBoard[4][2] = "|";
         gameBoard[2][3] = "|";
         gameBoard[4][3] = "|";
