@@ -37,6 +37,10 @@ public class Proj6_2_TicTacToe {
         //Asking the user which row they would like to insert their choice in.
         columnChoice = keyboard.nextInt();
         //Creating a for loop to access the specific column and row.
+        for(int alpha = 0; alpha < gameBoard.length; alpha++)
+        {
+            
+        }
     }
     //Creating a method to create game board.
     public static void setUpBoard(String[][] gameBoard)
