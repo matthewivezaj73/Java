@@ -19,7 +19,7 @@ public class Proj6_2_TicTacToe {
 
     }
     //Creating a method to create game board.
-    public static void setUpBoard()
+    public static void setUpBoard(int[][] gameBoard)
     {
         //Inserting a blank line.
         System.out.println();
