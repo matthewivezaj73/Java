@@ -42,9 +42,9 @@ public class Proj6_2_TicTacToe {
     {
         //Assigning certain cells |.
         gameBoard[2][1] = "|";
-        gameBoard[3][1] = "_";
         gameBoard[4][1] = "|";
         gameBoard[2][3] = "|";
+
 
         System.out.println(gameBoard);
     }
