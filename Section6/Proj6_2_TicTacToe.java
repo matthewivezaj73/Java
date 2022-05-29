@@ -16,6 +16,7 @@ public class Proj6_2_TicTacToe {
         // setUpBoard(gameBoard);
         //Printing out a message to the user telling them to choose whether they want X or O.
         System.out.print("Would you like to be X or O (Please enter a capital X or capital O):\t");
+        //Calling printGameBoard.
         //Calling the startGame method to initialize the game.
         startGame();
 
