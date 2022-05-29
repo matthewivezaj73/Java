@@ -47,7 +47,8 @@ public class Proj6_2_TicTacToe {
         //Adding underscores.
         gameBoard[3][1] = "_";
         gameBoard[3][2] = "_";
-        
+        gameBoard[3][3] = "_";
+
 
         System.out.println(gameBoard);
     }
