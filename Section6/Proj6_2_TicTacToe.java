@@ -22,6 +22,8 @@ public class Proj6_2_TicTacToe {
     //Creating a method to allow the players to make their move.
     public static void makeAMove(String move)
     {
+        //Adding a scanner object.
+        Scanner keyboard = new Scanner(System.in);
         //Asking the user to add a column they would like to enter their counter in.
     }
     //Creating a method to print the game board.
