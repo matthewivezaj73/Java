@@ -24,6 +24,7 @@ public class Proj6_2_TicTacToe {
     public static void printGameBoard(String[][] gameBoard)
     {
         //Creating variables.
+        int rowChoice;
         //Creating a keyboard scanner to allow for input.
         Scanner keyboard = new Scanner(System.in);
         //Printing a message to the user.
