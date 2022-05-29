@@ -14,6 +14,7 @@ public class Proj6_2_TicTacToe {
         String[][] gameBoard = new String[5][5];
         //Assigning certain cells |.
         gameBoard[2][1] = "|";
+        gameBoard[4][1] = "|";
         //Calling the setUpBoard method to set up the tic tac toe board.
         setUpBoard(gameBoard);
         //Printing out a message to the user telling them to choose whether they want X or O.
