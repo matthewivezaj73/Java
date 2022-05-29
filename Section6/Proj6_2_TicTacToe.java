@@ -18,9 +18,6 @@ public class Proj6_2_TicTacToe {
         setUpBoard(gameBoard);
         //Calling the print gameBoard method to print the game board.
         printGameBoard(gameBoard);
-        //Calling the startGame method to initialize the game.
-        
-
     }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
