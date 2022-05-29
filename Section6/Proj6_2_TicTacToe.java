@@ -58,6 +58,7 @@ public class Proj6_2_TicTacToe {
         while(myVariable != 1)
         {
             //Asking the user to enter x or o.
+            System.out.print("Please enter X or O:\t");
             //Creating a variable to hold user input.
             char userInput1 = keyboard.next().charAt(0);
             //Checking if the user entered an X or an O.
