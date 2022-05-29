@@ -25,6 +25,7 @@ public class Proj6_2_TicTacToe {
     {
         //Creating a keyboard scanner to allow for input.
         Scanner keyboard = new Scanner(System.in);
+        //Printing a message to the user.
         //Asking the user which row they would like to insert their choice in.
         int rowChoice = keyboard.nextInt(); 
     }
