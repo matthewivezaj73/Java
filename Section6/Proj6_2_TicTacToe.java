@@ -40,6 +40,10 @@ public class Proj6_2_TicTacToe {
         for(int alpha = 0; alpha < gameBoard.length; alpha++)
         {
             //Creating a regular for loop.
+            for(int beta = 0; beta < gameBoard[alpha].length; beta++)
+            {
+                
+            }
         }
     }
     //Creating a method to create game board.
