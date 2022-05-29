@@ -15,6 +15,7 @@ public class Proj6_2_TicTacToe {
         //Calling the setUpBoard method to set up the tic tac toe board.
         // setUpBoard(gameBoard);
         //Calling printGameBoard.
+        //Calling the startGame method to initialize the game.
         startGame();
         printGameBoard(gameBoard);
         //Calling the startGame method to initialize the game.
