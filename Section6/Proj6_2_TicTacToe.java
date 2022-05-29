@@ -54,6 +54,7 @@ public class Proj6_2_TicTacToe {
                 break;
             }
             //Breaking from the loop.
+            break;
         }
     }
     //Creating a new method.
