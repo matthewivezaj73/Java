@@ -23,7 +23,7 @@ public class Proj6_2_TicTacToe {
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] gameBoard)
     {
-
+        //Creating a keyboard scanner to allow for input.
     }
     //Creating a method to create game board.
     public static void setUpBoard(String[][] gameBoard)
