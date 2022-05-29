@@ -21,10 +21,10 @@ public class Proj6_2_TicTacToe {
 
     }
     //Creating a method to print the game board.
-    public static void printGameBoard(String[][] gameBoard)
+    public static void printGameBoard(String[][] Board)
     {
         //Creating an enhanced for loop.
-        for(int[] arr : gameBoard)
+        for(int[] arr : Board)
         {
             //Creating a for loop to access the numbers.
             for(int num : arr)
