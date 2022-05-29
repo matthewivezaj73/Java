@@ -20,6 +20,10 @@ public class Proj6_2_TicTacToe {
         printGameBoard(gameBoard);
     }
     //Creating a method to allow the players to make their move.
+    public static void makeAMove(String move)
+    {
+
+    }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
     {
