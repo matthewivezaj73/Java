@@ -46,7 +46,7 @@ public class Proj6_2_TicTacToe {
             //Creating a regular for loop.
             for(int beta = 0; beta < gameBoard[alpha].length; beta++)
             {
-
+                //Inserting choice in specified cell.
             }
         }
     }
