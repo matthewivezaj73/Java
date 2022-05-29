@@ -53,6 +53,7 @@ public class Proj6_2_TicTacToe {
                 //Breaking out of the loop.
                 break;
             }
+            System.out.print(gameBoard);
             //Breaking out of the loop.
             break;
         }
