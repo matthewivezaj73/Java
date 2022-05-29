@@ -24,7 +24,7 @@ public class Proj6_2_TicTacToe {
     public static void printGameBoard(String[][] Board)
     {
         //Creating an enhanced for loop.
-        for(int[] arr : Board)
+        for(String[] arr : Board)
         {
             //Creating a for loop to access the numbers.
             for(int num : arr)
