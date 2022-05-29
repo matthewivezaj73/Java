@@ -45,6 +45,7 @@ public class Proj6_2_TicTacToe {
         gameBoard[4][1] = "|";
         gameBoard[2][3] = "|";
         //Adding underscores.
+        gameBoard[1][0] = "_";
         gameBoard[3][0] = "_";
         gameBoard[3][1] = "_";
         gameBoard[3][2] = "_";
