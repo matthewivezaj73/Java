@@ -69,8 +69,6 @@ public class Proj6_2_TicTacToe {
         gameBoard[3][2] = "_";
         gameBoard[3][3] = "_";
         gameBoard[3][4] = "_";
-
-
         System.out.println(gameBoard);
     }
     //Creating a method to start the game.
