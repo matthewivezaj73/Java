@@ -45,7 +45,7 @@ public class Proj6_2_TicTacToe {
         gameBoard[4][1] = "|";
         gameBoard[2][3] = "|";
         //Adding underscores.
-        //Printing out the first straight line.
+        //Printing out the first horizontal line.
         gameBoard[1][0] = "_";
         gameBoard[1][1] = "_";
         gameBoard[1][2] = "_";
