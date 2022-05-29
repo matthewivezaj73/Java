@@ -10,6 +10,7 @@ public class Proj6_2_TicTacToe {
     //Creating a main method.
     public static void main(String[] args)
     {
+        //Creating a 3 x 3 array.
         //Calling the setUpBoard method to set up the tic tac toe board.
         setUpBoard();
         //Printing out a message to the user telling them to choose whether they want X or O.
