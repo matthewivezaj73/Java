@@ -48,6 +48,7 @@ public class Proj6_2_TicTacToe {
         gameBoard[1][0] = "_";
         gameBoard[1][1] = "_";
         gameBoard[1][2] = "_";
+        gameBoard[1][3] = "_";
         gameBoard[3][0] = "_";
         gameBoard[3][1] = "_";
         gameBoard[3][2] = "_";
