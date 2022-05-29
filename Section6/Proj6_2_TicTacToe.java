@@ -62,7 +62,7 @@ public class Proj6_2_TicTacToe {
             //Creating a variable to hold user input.
             char userInput1 = keyboard.next().charAt(0);
             //Checking if the user entered an X or an O.
-            if(userInput1 == 'X')
+            if(userInput.toUpperCase() == 'X')
             {
                 //Printing a message to the user.
                 System.out.println("You are going first!");
