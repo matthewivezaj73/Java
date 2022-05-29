@@ -54,7 +54,10 @@ public class Proj6_2_TicTacToe {
                 break;
             }
             //Creating a for loop to print each element of the gameBoard.
-            System.out.print(gameBoard);
+            for(int i = 0; i < gameBoard.length; i++)
+            {
+                System.out.print(gameBoard);
+            }
             //Breaking out of the loop.
             break;
         }
