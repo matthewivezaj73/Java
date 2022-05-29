@@ -58,7 +58,12 @@ public class Proj6_2_TicTacToe {
     //Creating a new method.
     public static void printGameBoard(int[][] gameBoard)
     {
-        
+        //Creating a for loop to print each element of the gameBoard.
+        for(int[] arr : gameBoard)
+        {
+            
+            System.out.print(gameBoard);
+        }
     }
     //Creating a method to create game board.
     public static void setUpBoard(String[][] gameBoard)
