@@ -23,50 +23,18 @@ public class Proj6_2_TicTacToe {
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] gameBoard)
     {
-        //Creating variables.
-        int rowChoice;
-        int columnChoice;
-        //Creating a keyboard scanner to allow for input.
-        Scanner keyboard = new Scanner(System.in);
-        //Printing a message to the user.
-        System.out.print("Please enter the row number you would like to insert your play at:\t");
-        //Asking the user which row they would like to insert their choice in.
-        rowChoice = keyboard.nextInt(); 
-        //Printing a message to the user.
-        System.out.print("Please enter the column number you would like to inser your play at:\t");
-        //Asking the user which row they would like to insert their choice in.
-        columnChoice = keyboard.nextInt();
-        //Creating a for loop to access the specific column and row.
-        for(int alpha = 0; alpha < gameBoard.length; alpha++)
-        {
-            //Print a message to the user.
-            System.out.print("Please enter your X or O:\t");
-            //Grabbing user choice.
-            String userInput = keyboard.nextLine();
-            //Creating a regular for loop.
-            for(int beta = 0; beta < gameBoard[alpha].length; beta++)
-            {
-                //Inserting value in the array.
-                System.out.println("Inserting value in the array.");
-                //Inserting choice in specified cell.
-                gameBoard[columnChoice][rowChoice] = userInput;
-                //Breaking out of the loop.
-                break;
-            }
-            //Breaking from the loop.
-            break;
-        }
-    }
-    //Creating a new method.
-    public static void printGameBoard(int[][] gameBoard)
-    {
-        //Creating a for loop to print each element of the gameBoard.
+        //Creating an enhanced for loop.
         for(int[] arr : gameBoard)
         {
-            
-            System.out.print(gameBoard);
-        }
-    }
+            //Creating a for loop to access the numbers.
+            for(int num : arr)
+            {
+                //Printing out the numbers to the user.
+                System.out.print(num+ " ");
+            }
+            //Adding some padding.
+            System.out.println();
+        }    }
     //Creating a method to create game board.
     public static void setUpBoard(String[][] gameBoard)
     {
