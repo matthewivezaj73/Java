@@ -14,6 +14,7 @@ public class Proj6_2_TicTacToe {
         String[][] gameBoard = new String[5][5];
         //Calling the startGame method to initialize the game.
         startGame();
+        //Calling the setup board method to set up the board.
         //Calling the print gameBoard method to print the game board.
         printGameBoard(gameBoard);
         //Calling the startGame method to initialize the game.
