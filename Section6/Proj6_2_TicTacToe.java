@@ -47,6 +47,7 @@ public class Proj6_2_TicTacToe {
             for(int beta = 0; beta < gameBoard[alpha].length; beta++)
             {
                 //Inserting choice in specified cell.
+                gameBoard[columnChoice][rowChoice] = userInput;
             }
         }
     }
