@@ -19,6 +19,7 @@ public class Proj6_2_TicTacToe {
         //Calling the print gameBoard method to print the game board.
         printGameBoard(gameBoard);
     }
+    //Creating a method to allow the players to make their move.
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
     {
