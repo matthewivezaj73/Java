@@ -35,6 +35,7 @@ public class Proj6_2_TicTacToe {
         //Printing a message to the user.
         System.out.print("Please enter the column number you would like to inser your play at:\t");
         //Asking the user which row they would like to insert their choice in.
+        columnChoice = keyboard.nextInt();
     }
     //Creating a method to create game board.
     public static void setUpBoard(String[][] gameBoard)
