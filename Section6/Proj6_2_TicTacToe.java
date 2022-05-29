@@ -27,7 +27,7 @@ public class Proj6_2_TicTacToe {
         for(String[] arr : Board)
         {
             //Creating a for loop to access the numbers.
-            for(int num : arr)
+            for(int num : Board)
             {
                 //Printing out the numbers to the user.
                 System.out.print(num+ " ");
