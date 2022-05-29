@@ -82,8 +82,6 @@ public class Proj6_2_TicTacToe {
                 System.out.print("Please enter an X or an O:\t");
             }
         }
-        //Returning passed object.
-        return;
     }
 }
 
