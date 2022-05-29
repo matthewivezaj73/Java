@@ -40,6 +40,7 @@ public class Proj6_2_TicTacToe {
         for(int alpha = 0; alpha < gameBoard.length; alpha++)
         {
             //Print a message to the user.
+            System.out.print("Please enter your letter:\t");
             //Creating a regular for loop.
             for(int beta = 0; beta < gameBoard[alpha].length; beta++)
             {
