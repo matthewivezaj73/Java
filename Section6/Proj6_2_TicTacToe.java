@@ -30,7 +30,7 @@ public class Proj6_2_TicTacToe {
             for(int myString : Board)
             {
                 //Printing out the numbers to the user.
-                System.out.print(num+ " ");
+                System.out.print(myString+ " ");
             }
             //Adding some padding.
             System.out.println();
