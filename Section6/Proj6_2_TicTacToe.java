@@ -12,13 +12,7 @@ public class Proj6_2_TicTacToe {
     {
         //Creating a 3 x 3 array.
         String[][] gameBoard = new String[5][5];
-        //Assigning certain cells |.
-        gameBoard[2][1] = "|";
-        gameBoard[4][1] = "|";
-        gameBoard[2][3] = "|";
-        gameBoard[4][3] = "|";
-        gameBoard[2][5] = "|";
-        gameBoard[4][5] = "|";
+
         //Printing out the gameBoard.
         System.out.println(gameBoard);
         //Calling the setUpBoard method to set up the tic tac toe board.
