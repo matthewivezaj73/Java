@@ -103,12 +103,6 @@ public class Proj6_2_TicTacToe {
                 //Incrementing the variable.
                 myVariable += 2;
             }
-            //Handling the case where the user enters something else.
-            else
-            {
-                //Printing out a message to the user instructing them to try entering an X or an O.
-                System.out.print("Please enter an X or an O:\t");
-            }
         }
     }
 }
