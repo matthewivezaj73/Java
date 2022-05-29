@@ -11,7 +11,7 @@ public class Proj6_2_TicTacToe {
     public static void main(String[] args)
     {
         //Creating a 3 x 3 array.
-        int[][] gameBoard = new int[5][5];
+        int[][] gameBoard = new String[5][5];
         //Assigning certain cells |.
         gameBoard[2][1] = "|";
         //Calling the setUpBoard method to set up the tic tac toe board.
