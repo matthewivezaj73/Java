@@ -38,7 +38,8 @@ public class Proj6_2_TicTacToe {
             }
             //Adding some padding.
             System.out.println();
-        }    }
+        }    
+    }
     //Creating a method to create game board.
     public static void setUpBoard(String[][] gameBoard)
     {
