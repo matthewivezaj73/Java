@@ -47,7 +47,7 @@ public class Proj6_2_TicTacToe {
         gameBoard[4][5] = "|";
     }
     //Creating a method to start the game.
-    public static int startGame()
+    public static void startGame()
     {
         //Creating a scanner.
         Scanner keyboard = new Scanner(System.in);
