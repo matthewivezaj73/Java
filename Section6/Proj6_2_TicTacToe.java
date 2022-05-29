@@ -25,6 +25,8 @@ public class Proj6_2_TicTacToe {
         //Adding a scanner object.
         Scanner keyboard = new Scanner(System.in);
         //Asking the user to add a column they would like to enter their counter in.
+        System.out.println("Please enter a digit from 0 to place your counter in the first column.\n"+
+        "Please enter a digit from 2 to place your counter in the second column\nPlease enter a digit from 4 to place your counter in the 3rd column");
     }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
