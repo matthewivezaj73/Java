@@ -50,6 +50,7 @@ public class Proj6_2_TicTacToe {
                 System.out.println("Inserting value in the array.");
                 //Inserting choice in specified cell.
                 gameBoard[columnChoice][rowChoice] = userInput;
+                //Breaking out of the loop.
             }
         }
     }
