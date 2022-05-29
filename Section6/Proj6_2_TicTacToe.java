@@ -47,6 +47,7 @@ public class Proj6_2_TicTacToe {
             for(int beta = 0; beta < gameBoard[alpha].length; beta++)
             {
                 //Inserting value in the array.
+                System.out.println("Inserting value in the array.");
                 //Inserting choice in specified cell.
                 gameBoard[columnChoice][rowChoice] = userInput;
             }
