@@ -51,6 +51,7 @@ public class Proj6_2_TicTacToe {
                 //Inserting choice in specified cell.
                 gameBoard[columnChoice][rowChoice] = userInput;
                 //Breaking out of the loop.
+                break;
             }
         }
     }
