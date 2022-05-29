@@ -41,6 +41,7 @@ public class Proj6_2_TicTacToe {
         {
             //Print a message to the user.
             System.out.print("Please enter your X or O:\t");
+            //Grabbing user choice.
             char userInput = keyboard.next().charAt(rowChoice);
             //Creating a regular for loop.
             for(int beta = 0; beta < gameBoard[alpha].length; beta++)
