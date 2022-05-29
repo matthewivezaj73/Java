@@ -16,7 +16,7 @@ public class Proj6_2_TicTacToe {
         gameBoard[2][1] = "|";
         gameBoard[4][1] = "|";
         gameBoard[2][3] = "|";
-        gameBoard[4][2] = "|";
+        gameBoard[4][3] = "|";
         gameBoard[2][3] = "|";
         gameBoard[4][3] = "|";
         //Calling the setUpBoard method to set up the tic tac toe board.
