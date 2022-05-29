@@ -25,6 +25,7 @@ public class Proj6_2_TicTacToe {
     {
         //Creating variables.
         int rowChoice;
+        int columnChoice;
         //Creating a keyboard scanner to allow for input.
         Scanner keyboard = new Scanner(System.in);
         //Printing a message to the user.
