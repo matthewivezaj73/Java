@@ -38,7 +38,7 @@ public class Proj6_2_TicTacToe {
         //Accepting user input.
         columnInput = keyboard.nextInt();
         //Checking if the user entered if the user entered a 0, 2, or 4.
-        if(userInput == 0)
+        if(columnInput == 0)
         {
             //Printing out a message to the user.
             System.out.println("Good choice!");
