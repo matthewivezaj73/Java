@@ -101,6 +101,8 @@ public class Proj6_2_TicTacToe {
         gameBoard[3][4] = "_";
         //Adding some padding.
         System.out.println();
+        System.out.println();
+        
     }
     //Creating a method to start the game.
     public static void startGame()
