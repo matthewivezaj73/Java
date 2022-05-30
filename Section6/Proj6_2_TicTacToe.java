@@ -40,29 +40,29 @@ public class Proj6_2_TicTacToe {
         //Setting no for the value of myCounter.
         myCounter = "yes";
 
-            //Asking the user to add a column they would like to enter their counter in.
-            System.out.println("Please enter a 0 to place your counter in the first column.\n"+
-            "Please enter a 2 to place your counter in the second column\nPlease enter a 4 to place your counter in the 3rd column");
-            //Accepting user input for the column variable.
-            columnInput = keyboard.nextInt();
-            //Instructing the user to make a choice for which row they would like to enter their counter in.
-            System.out.println("Please enter a 0 to place a counter in the first row.\n"+
-            "Please enter a 2 to place a counter in the second row.\n" +"Please enter a 4 to place your counter in the 3rd row" );
-            //Accepting user input for the row variable.
-            rowInput = keyboard.nextInt();
-            //Asking the user if they are X or O.
-            System.out.println("Are you X or O?");
-            //Accepting user input for the charInput.
-            charInput = keyboard.next();
-            System.out.print(charInput);
-            //Notifying the user that we are inserting their character of choice.
-            System.out.println("We are now inserting a \'" + charInput+"\' at position " + rowInput + ", " + columnInput+".");
-            //Adding the user's count to the gameboard. Row * Column
-            gameBoard[rowInput][columnInput] = charInput;
-            //Printing a message to the user asking if they would like to make another move.
-            System.out.println("Would you like to make another move (insert \'yes\' or \'no\' without quotes)");
-            //Requesting user input.
-            myCounter = keyboard.nextLine();
+        //Asking the user to add a column they would like to enter their counter in.
+        System.out.println("Please enter a 0 to place your counter in the first column.\n"+
+        "Please enter a 2 to place your counter in the second column\nPlease enter a 4 to place your counter in the 3rd column");
+        //Accepting user input for the column variable.
+        columnInput = keyboard.nextInt();
+        //Instructing the user to make a choice for which row they would like to enter their counter in.
+        System.out.println("Please enter a 0 to place a counter in the first row.\n"+
+        "Please enter a 2 to place a counter in the second row.\n" +"Please enter a 4 to place your counter in the 3rd row" );
+        //Accepting user input for the row variable.
+        rowInput = keyboard.nextInt();
+        //Asking the user if they are X or O.
+        System.out.println("Are you X or O?");
+        //Accepting user input for the charInput.
+        charInput = keyboard.next();
+        System.out.print(charInput);
+        //Notifying the user that we are inserting their character of choice.
+        System.out.println("We are now inserting a \'" + charInput+"\' at position " + rowInput + ", " + columnInput+".");
+        //Adding the user's count to the gameboard. Row * Column
+        gameBoard[rowInput][columnInput] = charInput;
+        //Printing a message to the user asking if they would like to make another move.
+        System.out.println("Would you like to make another move (insert \'yes\' or \'no\' without quotes)");
+        //Requesting user input.
+        myCounter = keyboard.nextLine();
         }
     }
     //Creating a method to print the game board.
