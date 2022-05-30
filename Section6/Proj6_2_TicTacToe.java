@@ -31,11 +31,6 @@ public class Proj6_2_TicTacToe {
             makeAMove(gameBoard);
             //Calling the print gameBoard method to print the game board in it's current state.
             printGameBoard(gameBoard);
-            //Giving the user instructions on making a choice to continue or not.
-            System.out.print("Are you ready to make a move (please insert 0 to continue or 1 to quit):\t");
-            //Asking the user if they would like to continue.
-            placeCounter = keyboard.nextLine();
-            //Checking if the user select 0.
         }
     }
     //Creating a method to allow the players to make their move.
