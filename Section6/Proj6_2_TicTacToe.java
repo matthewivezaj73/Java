@@ -51,6 +51,7 @@ public class Proj6_2_TicTacToe {
         System.out.println("Are you X or O?");
         //Accepting user input for the charInput.
         charInput = keyboard.nextLine();
+        //Notifying the user that we are inserting their character of choice.
         //Adding the user's count to the gameboard. Row * Column
         gameBoard[rowInput][columnInput] = charInput;
     }
