@@ -38,7 +38,7 @@ public class Proj6_2_TicTacToe {
             //Checking if the user select 0.
             if(placeCounter == "0")
             {
-
+                //Printing out a statement to the user.
             }
         }
     }
