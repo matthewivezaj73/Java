@@ -50,7 +50,7 @@ public class Proj6_2_TicTacToe {
             System.out.println("Good choice!");
         }
         //Handling the case where the user enters a 4.
-        else if(userInput == 4)
+        else if(columnInput == 4)
         {
             //Printing out a message to the user.
             System.out.println("Good choice!");
