@@ -132,7 +132,6 @@ public class Proj6_2_TicTacToe {
                 //Incrementing the variable.
                 myVariable += 1;
             }
-            //Returning user input.
         }
     }
 }
