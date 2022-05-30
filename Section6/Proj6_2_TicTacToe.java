@@ -52,7 +52,7 @@ public class Proj6_2_TicTacToe {
         //Accepting user input for the charInput.
         charInput = keyboard.nextLine();
         //Adding the user's count to the gameboard. Row * Column
-        coodinates = [rowInput][columnInput] = charInput;
+        gameBoard[rowInput][columnInput] = charInput;
     }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
