@@ -82,7 +82,7 @@ public class Proj6_2_TicTacToe {
         gameBoard[4][1] = "|";
         //Printing out the second vertical line.
         gameBoard[0][3] = "|";
-        gameBoard[1][3] = " ";
+        gameBoard[1][3] = "-";
         gameBoard[2][3] = "|";
         gameBoard[3][3] = " ";
         gameBoard[4][3] = "|";
