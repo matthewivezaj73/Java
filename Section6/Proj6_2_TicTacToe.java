@@ -40,7 +40,7 @@ public class Proj6_2_TicTacToe {
         //Setting no for the value of myCounter.
         myCounter = "yes";
         //Creating a while loop.
-        while(myCounter != "yes")
+        while(myCounter != "no")
         {
             //Asking the user to add a column they would like to enter their counter in.
             System.out.println("Please enter a 0 to place your counter in the first column.\n"+
