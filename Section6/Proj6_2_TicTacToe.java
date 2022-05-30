@@ -102,7 +102,7 @@ public class Proj6_2_TicTacToe {
         //Adding some padding.
         System.out.println();
         System.out.println();
-        
+        System.out.println();
     }
     //Creating a method to start the game.
     public static void startGame()
