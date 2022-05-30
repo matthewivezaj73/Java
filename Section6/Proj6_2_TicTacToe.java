@@ -65,6 +65,7 @@ public class Proj6_2_TicTacToe {
             //Printing a message to the user asking if they would like to make another move.
             System.out.println("Would you like to make another move (insert \'yes\' or \'no\' without quotes)");
             //Requesting user input.
+            myCounter = keyboard.nextLine();
         }
     }
     //Creating a method to print the game board.
