@@ -35,7 +35,7 @@ public class Proj6_2_TicTacToe {
         if(userInput == 0)
         {
             //Printing out a message to the user.
-            System.out.println("Good move!");
+            System.out.println("Good choice!");
         }
         //Handling the case where the user enters 2.
         else if(userInput == 2)
