@@ -44,6 +44,7 @@ public class Proj6_2_TicTacToe {
             else if(placeCounter == "1")
             {
                 //Printing out a statement to the user.
+                System.out.println("Now exiting the program...");
             }
         }
     }
