@@ -31,6 +31,7 @@ public class Proj6_2_TicTacToe {
         int rowInput;
         String charInput;
         int coordinates;
+        String myCounter;
         //Adding a scanner object.
         Scanner keyboard = new Scanner(System.in);
         //Adding some padding.
