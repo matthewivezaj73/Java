@@ -29,7 +29,7 @@ public class Proj6_2_TicTacToe {
         //Creating a variable.
         int columnInput;
         int rowInput;
-        char charInput;
+        String charInput;
         int coordinates;
         //Adding a scanner object.
         Scanner keyboard = new Scanner(System.in);
@@ -50,7 +50,7 @@ public class Proj6_2_TicTacToe {
         //Asking the user if they are X or O.
         System.out.println("Are you X or O?");
         //Accepting user input for the charInput.
-        charInput = keyboard.next().charAt(0);
+        charInput = keyboard.nextLine();
         //Notifying the user that we are inserting their character of choice.
         System.out.println("We are now inserting a \'" + charInput+"\' at position " + rowInput + ", " + columnInput+".");
         //Adding the user's count to the gameboard. Row * Column
@@ -132,6 +132,7 @@ public class Proj6_2_TicTacToe {
                 //Incrementing the variable.
                 myVariable += 1;
             }
+            //Returning user input.
         }
     }
 }
