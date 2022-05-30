@@ -40,7 +40,7 @@ public class Proj6_2_TicTacToe {
         //Handling the case where the user enters 2.
         else if(userInput == 2)
         {
-            
+            //Printing out a message to the user.
         }
     }
     //Creating a method to print the game board.
