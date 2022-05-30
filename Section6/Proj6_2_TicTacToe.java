@@ -26,6 +26,7 @@ public class Proj6_2_TicTacToe {
     {
         //Creating a variable.
         int columnInput;
+        int rowInput;
         //Adding a scanner object.
         Scanner keyboard = new Scanner(System.in);
         //Adding some padding.
