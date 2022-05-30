@@ -41,6 +41,10 @@ public class Proj6_2_TicTacToe {
                 //Printing out a statement to the user.
                 System.out.println("Moving on!");
             }
+            else if(placeCounter == "1")
+            {
+                
+            }
         }
     }
     //Creating a method to allow the players to make their move.
