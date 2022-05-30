@@ -36,6 +36,10 @@ public class Proj6_2_TicTacToe {
             //Asking the user if they would like to continue.
             placeCounter = keyboard.nextLine();
             //Checking if the user select 0.
+            if(placeCounter == "0")
+            {
+
+            }
         }
     }
     //Creating a method to allow the players to make their move.
