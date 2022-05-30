@@ -36,7 +36,7 @@ public class Proj6_2_TicTacToe {
         System.out.println("Please enter a digit from 0 to place your counter in the first column.\n"+
         "Please enter a digit from 2 to place your counter in the second column\nPlease enter a digit from 4 to place your counter in the 3rd column");
         //Accepting user input.
-        userInput = keyboard.nextInt();
+        columnInput = keyboard.nextInt();
         //Checking if the user entered if the user entered a 0, 2, or 4.
         if(userInput == 0)
         {
