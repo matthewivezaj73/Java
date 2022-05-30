@@ -37,30 +37,6 @@ public class Proj6_2_TicTacToe {
         "Please enter a digit from 2 to place your counter in the second column\nPlease enter a digit from 4 to place your counter in the 3rd column");
         //Accepting user input.
         columnInput = keyboard.nextInt();
-        //Checking if the user entered if the user entered a 0, 2, or 4.
-        if(columnInput == 0)
-        {
-            //Printing out a message to the user.
-            System.out.println("Good choice!");
-        }
-        //Handling the case where the user enters 2.
-        else if(columnInput == 2)
-        {
-            //Printing out a message to the user.
-            System.out.println("Good choice!");
-        }
-        //Handling the case where the user enters a 4.
-        else if(columnInput == 4)
-        {
-            //Printing out a message to the user.
-            System.out.println("Good choice!");
-        }
-        //Handling the case where the user enters anything else.
-        else
-        {
-            //Printing out a message to the user.
-            System.out.println("Sorry, but \'" + columnInput+"\' is not a valid selection, please try again!");
-        }
     }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
