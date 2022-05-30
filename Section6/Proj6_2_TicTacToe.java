@@ -32,6 +32,7 @@ public class Proj6_2_TicTacToe {
             //Calling the print gameBoard method to print the game board in it's current state.
             printGameBoard(gameBoard);
             //Giving the user instructions on making a choice to continue or not.
+            System.out.println("Are you ready to make a move (please insert yes or no):")
             //Asking the user if they would like to continue.
             placeCounter = keyboard.nextLine();
         }
