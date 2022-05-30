@@ -41,6 +41,7 @@ public class Proj6_2_TicTacToe {
         System.out.println("Please enter a 0 to place a counter in the first row.\n"+
         "Please enter a 2 to place a counter in the second row.\n" +"Please enter a 4 to place your counter in the 3rd row" );
         //Accepting user input for the row variable.
+        rowInput = keyboard.nextInt();
     }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
