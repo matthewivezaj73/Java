@@ -21,6 +21,7 @@ public class Proj6_2_TicTacToe {
         //Calling the print gameBoard method to print the game board.
         printGameBoard(gameBoard);
         //Setting placeCounter equal to yes.
+        placeCounter = "yes";
         //Creating a while loop to keep calling the following methods.
         while(placeCounter == "yes")
         {
