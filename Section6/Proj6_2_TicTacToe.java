@@ -15,6 +15,7 @@ public class Proj6_2_TicTacToe {
         //Adding a variable.
         String placeCounter;
         //Adding a new scanner object.
+        Scanner keyboard = new Scanner(System.in);
         //Calling the startGame method to initialize the game.
         startGame();
         //Calling the setup board method to set up the board.
