@@ -100,6 +100,7 @@ public class Proj6_2_TicTacToe {
         gameBoard[3][3] = "_";
         gameBoard[3][4] = "_";
         //Printing the current gameBoard.
+        System.out.println(gameBoard);
     }
     //Creating a method to start the game.
     public static void startGame()
