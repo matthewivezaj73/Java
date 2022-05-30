@@ -63,7 +63,6 @@ public class Proj6_2_TicTacToe {
         System.out.println("Would you like to make another move (insert \'yes\' or \'no\' without quotes)");
         //Requesting user input.
         myCounter = keyboard.nextLine();
-        }
     }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
