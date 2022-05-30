@@ -36,18 +36,6 @@ public class Proj6_2_TicTacToe {
             //Asking the user if they would like to continue.
             placeCounter = keyboard.nextLine();
             //Checking if the user select 0.
-            if(placeCounter == "0")
-            {
-                //Printing out a statement to the user.
-                System.out.println("Moving on!");
-            }
-            else if(placeCounter == "1")
-            {
-                //Printing out a statement to the user.
-                System.out.println("Now exiting the program...");
-                //Adding a break.
-                break;
-            }
         }
     }
     //Creating a method to allow the players to make their move.
