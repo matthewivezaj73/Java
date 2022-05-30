@@ -38,6 +38,10 @@ public class Proj6_2_TicTacToe {
             System.out.println("Good move!");
         }
         //Handling the case where the user enters 2.
+        else if(userInput == 2)
+        {
+            
+        }
     }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
