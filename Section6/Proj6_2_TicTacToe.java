@@ -20,6 +20,7 @@ public class Proj6_2_TicTacToe {
         printGameBoard(gameBoard);
         //Calling the makeAMove method, so that the user will make a choice.
         makeAMove(gameBoard);
+        //Calling the print gameBoard method to print the game board in it's current state.
     }
     //Creating a method to allow the players to make their move.
     public static void makeAMove(String[][] gameBoard)
