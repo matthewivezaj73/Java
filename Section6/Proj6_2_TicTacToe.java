@@ -23,7 +23,7 @@ public class Proj6_2_TicTacToe {
     public static void makeAMove(String move)
     {
         //Creating a variable.
-        char userInput;
+        int userInput;
         //Adding a scanner object.
         Scanner keyboard = new Scanner(System.in);
         //Asking the user to add a column they would like to enter their counter in.
