@@ -45,6 +45,7 @@ public class Proj6_2_TicTacToe {
             {
                 //Printing out a statement to the user.
                 System.out.println("Now exiting the program...");
+                //Adding a break.
             }
         }
     }
