@@ -38,7 +38,7 @@ public class Proj6_2_TicTacToe {
         System.out.println("\n");
         System.out.println("\n");
         //Setting no for the value of myCounter.
-        myCounter = "no";
+        myCounter = "yes";
         //Creating a while loop.
         while(myCounter != "yes")
         {
