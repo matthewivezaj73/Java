@@ -39,6 +39,7 @@ public class Proj6_2_TicTacToe {
             if(placeCounter == "0")
             {
                 //Printing out a statement to the user.
+                System.out.println("Moving on!");
             }
         }
     }
