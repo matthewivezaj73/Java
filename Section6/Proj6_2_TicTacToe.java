@@ -44,6 +44,7 @@ public class Proj6_2_TicTacToe {
         //Accepting user input for the row variable.
         rowInput = keyboard.nextInt();
         //Asking the user if they are X or O.
+        System.out.print("Are you X or O:\t");
         //Adding the user's count to the gameboard. Row * Column
         gameBoard[rowInput][columnInput] = 
     }
