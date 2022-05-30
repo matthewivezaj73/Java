@@ -44,7 +44,7 @@ public class Proj6_2_TicTacToe {
             System.out.println("Good choice!");
         }
         //Handling the case where the user enters 2.
-        else if(userInput == 2)
+        else if(columnInput == 2)
         {
             //Printing out a message to the user.
             System.out.println("Good choice!");
