@@ -31,6 +31,7 @@ public class Proj6_2_TicTacToe {
         "Please enter a digit from 2 to place your counter in the second column\nPlease enter a digit from 4 to place your counter in the 3rd column");
         //Accepting user input.
         userInput = keyboard.next().charAt(0);
+        //Checking if the user entered if the user entered a 0, 2, or 4.
     }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
