@@ -59,7 +59,7 @@ public class Proj6_2_TicTacToe {
         else
         {
             //Printing out a message to the user.
-            System.out.println("Sorry, but \'" + userInput+"\' is not a valid selection, please try again!");
+            System.out.println("Sorry, but \'" + columnInput+"\' is not a valid selection, please try again!");
         }
     }
     //Creating a method to print the game board.
