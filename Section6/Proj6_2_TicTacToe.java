@@ -63,6 +63,7 @@ public class Proj6_2_TicTacToe {
             //Adding the user's count to the gameboard. Row * Column
             gameBoard[rowInput][columnInput] = charInput;
             //Printing a message to the user asking if they would like to make another move.
+            System.out.println("Would you like to make another move (insert \'yes\' or \'no\' without quotes)");
         }
     }
     //Creating a method to print the game board.
