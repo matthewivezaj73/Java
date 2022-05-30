@@ -32,7 +32,7 @@ public class Proj6_2_TicTacToe {
         //Accepting user input.
         userInput = keyboard.nextInt();
         //Checking if the user entered if the user entered a 0, 2, or 4.
-        if(userInput == "0")
+        if(userInput == 0)
         {
             
         }
