@@ -44,6 +44,7 @@ public class Proj6_2_TicTacToe {
         //Accepting user input for the row variable.
         rowInput = keyboard.nextInt();
         //Adding the user's count to the gameboard.
+        gameBoard[3][4]
     }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
