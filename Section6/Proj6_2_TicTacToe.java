@@ -49,6 +49,7 @@ public class Proj6_2_TicTacToe {
             //Printing out a message to the user.
             System.out.println("Good choice!");
         }
+        //Handling the case where the user enters anything else.
     }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
