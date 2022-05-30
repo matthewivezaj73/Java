@@ -50,6 +50,10 @@ public class Proj6_2_TicTacToe {
             System.out.println("Good choice!");
         }
         //Handling the case where the user enters anything else.
+        else
+        {
+            
+        }
     }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
