@@ -47,6 +47,7 @@ public class Proj6_2_TicTacToe {
         else if(userInput == 4)
         {
             //Printing out a message to the user.
+            System.out.println("Good choice!");
         }
     }
     //Creating a method to print the game board.
