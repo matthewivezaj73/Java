@@ -30,6 +30,7 @@ public class Proj6_2_TicTacToe {
             //Calling the print gameBoard method to print the game board in it's current state.
             printGameBoard(gameBoard);
             //Asking the user if they would like to continue.
+            placeCounter = keyboard.nextLine();
         }
     }
     //Creating a method to allow the players to make their move.
