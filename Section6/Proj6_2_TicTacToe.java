@@ -18,6 +18,7 @@ public class Proj6_2_TicTacToe {
         setUpBoard(gameBoard);
         //Calling the print gameBoard method to print the game board.
         printGameBoard(gameBoard);
+        //Creating a while loop to keep calling the following methods.
         //Calling the makeAMove method, so that the user will make a choice.
         makeAMove(gameBoard);
         //Calling the print gameBoard method to print the game board in it's current state.
