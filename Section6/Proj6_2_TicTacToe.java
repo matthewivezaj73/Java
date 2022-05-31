@@ -36,7 +36,7 @@ public class Proj6_2_TicTacToe {
         printGameBoard(gameBoard);
     }
     //Creating a method to allow the players to make their move.
-    public static void makeAMove(String[][] gameBoard)
+    public static void makeAMovePlayerOne(String[][] gameBoard)
     {
         //Creating a variable.
         int columnInput;
