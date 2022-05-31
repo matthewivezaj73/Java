@@ -30,7 +30,7 @@ public class Proj6_2_TicTacToe {
         printGameBoard(gameBoard);
         //Printing a statement to the user.
         System.out.println("Player with the O counter, it is your turn.");
-
+        //Calling the makeAMove method, so that the user will make a choice.
     }
     //Creating a method to allow the players to make their move.
     public static void makeAMove(String[][] gameBoard)
