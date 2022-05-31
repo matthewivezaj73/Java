@@ -23,7 +23,7 @@ public class Proj6_2_TicTacToe {
         //Calling the print gameBoard method to print the game board.
         printGameBoard(gameBoard);
         //Setting placeCounter equal to yes.
-        placeCounter = "yes";
+        placeCounter = 0;
         //Creating a while loop.
     }
     //Creating a method to allow the players to make their move.
