@@ -33,6 +33,7 @@ public class Proj6_2_TicTacToe {
             makeAMovePlayerTwo(gameBoard);
             //Calling the printGameBoard method.
             printGameBoard(gameBoard);
+            //Creating an if statement to see if there is a winner.
         }
     }
     //Creating a method to allow the players to make their move.
