@@ -26,6 +26,9 @@ public class Proj6_2_TicTacToe {
         placeCounter = 0;
         //Creating a while loop.
         while(placeCounter < 100)
+        {
+            
+        }
     }
     //Creating a method to allow the players to make their move.
     public static void makeAMovePlayerOne(String[][] gameBoard)
