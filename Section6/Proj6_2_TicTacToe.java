@@ -99,7 +99,7 @@ public class Proj6_2_TicTacToe {
         //Notifying the user that we are inserting their character of choice.
         System.out.println("We are now inserting a \'" + playerTwo+"\' at position " + rowInput + ", " + columnInput+".");
         //Adding the user's count to the gameboard. Row * Column
-        gameBoard[rowInput][columnInput] = playerOne;
+        gameBoard[rowInput][columnInput] = playerTwo;
     }
 
     //Creating a method to print the game board.
