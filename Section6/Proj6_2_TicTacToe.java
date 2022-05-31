@@ -13,7 +13,7 @@ public class Proj6_2_TicTacToe {
         //Creating a 3 x 3 array.
         String[][] gameBoard = new String[5][5];
         //Adding a variable.
-        String placeCounter;
+        int placeCounter;
         //Adding a new scanner object.
         Scanner keyboard = new Scanner(System.in);
         //Calling the startGame method to initialize the game.
