@@ -32,6 +32,7 @@ public class Proj6_2_TicTacToe {
             //Calling the makeAMovePlayerTwo method.
             makeAMovePlayerTwo(gameBoard);
             //Calling the printGameBoard method.
+            printGameBoard(gameBoard);
         }
     }
     //Creating a method to allow the players to make their move.
