@@ -28,6 +28,7 @@ public class Proj6_2_TicTacToe {
         while(placeCounter < 100)
         {
             //Calling the first method.
+            makeAMovePlayerOne(gameBoard);
         }
     }
     //Creating a method to allow the players to make their move.
