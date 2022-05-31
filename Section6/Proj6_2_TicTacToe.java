@@ -94,7 +94,7 @@ public class Proj6_2_TicTacToe {
         //Asking the user if they are X or O.
         System.out.println("Are you X or O?");
         //Accepting user input for the charInput.
-        playerOne = keyboard.next();
+        playerTwo = keyboard.next();
         System.out.print(playerOne);
         //Notifying the user that we are inserting their character of choice.
         System.out.println("We are now inserting a \'" + playerOne+"\' at position " + rowInput + ", " + columnInput+".");
