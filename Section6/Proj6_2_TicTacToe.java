@@ -24,20 +24,7 @@ public class Proj6_2_TicTacToe {
         printGameBoard(gameBoard);
         //Setting placeCounter equal to yes.
         placeCounter = "yes";
-        //Calling the makeAMove method, so that the user will make a choice.
-        makeAMovePlayerOne(gameBoard);
-        //Calling the print gameBoard method to print the game board in it's current state.
-        printGameBoard(gameBoard);
-        //Printing a statement to the user.
-        System.out.println("Player 2, it is your turn.");
-        //Calling the makeAMove method, so that the user will make a choice.
-        makeAMovePlayerTwo(gameBoard);
-        //Calling the print gameBoard method to print the game board in it's current state.
-        printGameBoard(gameBoard);
-        //Calling the makeAmove method, so that the user will make a choice.
-        makeAMovePlayerOne(gameBoard);
-        //Calling the printGameBoard method.
-        printGameBoard(gameBoard);
+        //Creating a while loop.
     }
     //Creating a method to allow the players to make their move.
     public static void makeAMovePlayerOne(String[][] gameBoard)
