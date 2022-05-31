@@ -27,7 +27,7 @@ public class Proj6_2_TicTacToe {
         //Creating a while loop.
         while(placeCounter < 100)
         {
-            
+            //Calling the first method.
         }
     }
     //Creating a method to allow the players to make their move.
