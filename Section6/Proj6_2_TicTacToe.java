@@ -41,7 +41,7 @@ public class Proj6_2_TicTacToe {
                 for(int z=0; z < gameBoard[num].length; z++)
                 {
                     //Multiplying each element in the array by 2.
-                    gameBoard[num][z] *= 2;
+                    String my_variable = gameBoard[num][z];
                 }
 
             }
