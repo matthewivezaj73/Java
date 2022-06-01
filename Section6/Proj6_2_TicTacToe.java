@@ -28,7 +28,6 @@ public class Proj6_2_TicTacToe {
     public static void gamePlay(String[][] gameBoard)
     {
         //Creating an int.
-        //Setting placeCounter equal to yes.
         placeCounter = 0;
         //Creating a while loop.
         while(placeCounter < 100)
