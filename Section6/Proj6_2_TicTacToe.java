@@ -31,8 +31,6 @@ public class Proj6_2_TicTacToe {
             makeAMovePlayerOne(gameBoard);
             //Calling the makeAMovePlayerTwo method.
             makeAMovePlayerTwo(gameBoard);
-            //Calling the youHaveWon method for testing.
-            youHaveWon(gameBoard);
             //Calling the printGameBoard method.
             printGameBoard(gameBoard);
             //Creating an if statement to see if there is a winner.
@@ -190,7 +188,7 @@ public class Proj6_2_TicTacToe {
         if(gameBoard[0][0] == "X")
         {
             //Printing out the value.
-            System.out.println("the value is x.");
+            System.out.println();
         }
     }
 }
