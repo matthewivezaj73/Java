@@ -36,7 +36,7 @@ public class Proj6_2_TicTacToe {
             //Checking if specific fields are X.
             for (int myInt = 0; myInt < 8; myInt++)
             {
-                
+                //Creating a variable.
             }
         }
     }
