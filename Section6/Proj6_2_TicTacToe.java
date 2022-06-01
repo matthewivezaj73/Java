@@ -35,7 +35,7 @@ public class Proj6_2_TicTacToe {
             printGameBoard(gameBoard);
             //Printing each object in the list.
             //Creating a for loop.
-            for(int num=0; num < twoDArr.length; num++)
+            for(int num=0; num < gameBoard.length; num++)
             {
                 //Creating another for loop within the parent for loop.
                 for(int z=0; z < twoDArr[num].length; z++)
