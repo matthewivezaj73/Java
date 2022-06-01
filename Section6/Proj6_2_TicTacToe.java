@@ -34,6 +34,10 @@ public class Proj6_2_TicTacToe {
             //Calling the printGameBoard method.
             printGameBoard(gameBoard);
             //Checking if specific fields are X.
+            if(gameBoard[0][0] == "X" && gameBoard[0][2] == "X" && gameBoard[0][4] == "X")
+            {
+                
+            }
         }
     }
     //Creating a method to allow the players to make their move.
