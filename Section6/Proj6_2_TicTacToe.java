@@ -38,7 +38,7 @@ public class Proj6_2_TicTacToe {
             for(int num=0; num < gameBoard.length; num++)
             {
                 //Creating another for loop within the parent for loop.
-                for(int z=0; z < twoDArr[num].length; z++)
+                for(int z=0; z < gameBoard[num].length; z++)
                 {
                     //Multiplying each element in the array by 2.
                     twoDArr[num][z] *= 2;
