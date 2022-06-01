@@ -33,7 +33,7 @@ public class Proj6_2_TicTacToe {
             makeAMovePlayerTwo(gameBoard);
             //Calling the printGameBoard method.
             printGameBoard(gameBoard);
-            System.out.println(gameBoard[0][0] == "X");
+            //Need to figure out a way to check if there are 3 of the same variable in a row so that a player wins.
         }
     }
     //Creating a method to allow the players to make their move.
