@@ -34,11 +34,7 @@ public class Proj6_2_TicTacToe {
             //Calling the printGameBoard method.
             printGameBoard(gameBoard);
             //Checking if specific fields are X.
-            if(gameBoard[0][0] == "X" && gameBoard[0][2] == "X" && gameBoard[0][4] == "X")
-            {
-                //Printing out a message to the user indicating that they have won the game.
-                System.out.println("You have won the game!");
-            }
+            for (int a = 0; a < 8; a++)
         }
     }
     //Creating a method to allow the players to make their move.
