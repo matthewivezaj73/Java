@@ -43,6 +43,7 @@ public class Proj6_2_TicTacToe {
                     //Multiplying each element in the array by 2.
                     String my_variable = gameBoard[num][z];
                     //Printing out the variable.
+                    System.out.println(my_variable);
                 }
 
             }
