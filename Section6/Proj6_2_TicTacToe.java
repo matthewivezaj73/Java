@@ -36,7 +36,7 @@ public class Proj6_2_TicTacToe {
             //Creating an if statement to see if there is a winner.
             if(gameBoard[0][0] == "X")
             {
-                
+                System.out.println("the first block is an X.");
             }
         }
     }
