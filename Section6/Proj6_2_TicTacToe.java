@@ -37,6 +37,7 @@ public class Proj6_2_TicTacToe {
             for (int myInt = 0; myInt < 8; myInt++)
             {
                 //Creating a variable.
+                String myLine = null;
             }
         }
     }
