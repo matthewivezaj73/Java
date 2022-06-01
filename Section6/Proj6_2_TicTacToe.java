@@ -33,20 +33,7 @@ public class Proj6_2_TicTacToe {
             makeAMovePlayerTwo(gameBoard);
             //Calling the printGameBoard method.
             printGameBoard(gameBoard);
-            //Printing each object in the list.
-            //Creating a for loop.
-            for(int num=0; num < gameBoard.length; num++)
-            {
-                //Creating another for loop within the parent for loop.
-                for(int z=0; z < gameBoard[num].length; z++)
-                {
-                    //Multiplying each element in the array by 2.
-                    String my_variable = gameBoard[num][z];
-                    //Printing out the variable.
-                    System.out.println(my_variable);
-                }
 
-            }
         }
     }
     //Creating a method to allow the players to make their move.
