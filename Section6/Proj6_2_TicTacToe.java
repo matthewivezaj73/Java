@@ -33,7 +33,7 @@ public class Proj6_2_TicTacToe {
             makeAMovePlayerTwo(gameBoard);
             //Calling the printGameBoard method.
             printGameBoard(gameBoard);
-            System.out.println(gameBoard);
+            System.out.println(gameBoard[0][0]);
         }
     }
     //Creating a method to allow the players to make their move.
