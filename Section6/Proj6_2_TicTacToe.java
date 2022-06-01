@@ -47,7 +47,7 @@ public class Proj6_2_TicTacToe {
                 switch(myInt)
                 {
                     //Creating the first case.
-                    case "1":
+                    case 0:
                         //Creating a winning line.
                         myLine = gameBoard[0][0] + gameBoard[0][1] + gameBoard[0][2];
                         //Checking if myLine is equal to a winning line.
