@@ -51,7 +51,7 @@ public class Proj6_2_TicTacToe {
                         //Checking if the given line is equal to the requirements.
                         myLine.equals("X");
                     //Creating the second case.
-                    case 2:
+                    case "2":
                     
                 }
             }
