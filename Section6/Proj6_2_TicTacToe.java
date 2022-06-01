@@ -55,6 +55,7 @@ public class Proj6_2_TicTacToe {
                     case 1:
                     
                 }
+                //Checking if the player X is the winnter.
             }
         }
     }
