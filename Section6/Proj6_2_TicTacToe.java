@@ -35,6 +35,9 @@ public class Proj6_2_TicTacToe {
             printGameBoard(gameBoard);
             //Checking if specific fields are X.
             for (int myInt = 0; myInt < 8; myInt++)
+            {
+                
+            }
         }
     }
     //Creating a method to allow the players to make their move.
