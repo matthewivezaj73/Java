@@ -188,6 +188,7 @@ public class Proj6_2_TicTacToe {
         if(gameBoard[0][0] == "X")
         {
             //Printing out the value.
+            System.out.println("");
         }
     }
 }
