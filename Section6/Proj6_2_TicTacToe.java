@@ -38,6 +38,11 @@ public class Proj6_2_TicTacToe {
             {
                 //Creating a variable.
                 String myLine = "";
+
+                switch(myLine)
+                {
+                    
+                }
             }
         }
     }
