@@ -25,6 +25,10 @@ public class Proj6_2_TicTacToe {
 
     }
     //Creating a method that allows the game to play.
+    public static void gamePlay(String[][] gameBoard)
+    {
+        
+    }
     //Creating a method to allow the players to make their move.
     public static void makeAMovePlayerOne(String[][] gameBoard)
     {
