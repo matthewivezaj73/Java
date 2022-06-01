@@ -36,7 +36,7 @@ public class Proj6_2_TicTacToe {
             //Checking if specific fields are X.
             if(gameBoard[0][0] == "X" && gameBoard[0][2] == "X" && gameBoard[0][4] == "X")
             {
-                
+                //Printing out a message to the user indicating that they have won the game.
             }
         }
     }
