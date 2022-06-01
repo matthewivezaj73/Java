@@ -22,31 +22,7 @@ public class Proj6_2_TicTacToe {
         setUpBoard(gameBoard);
         //Calling the print gameBoard method to print the game board.
         printGameBoard(gameBoard);
-        //Setting placeCounter equal to yes.
-        placeCounter = 0;
-        //Creating a while loop.
-        while(placeCounter < 100)
-        {
-            //Calling the makeAMovePlayerOne method.
-            makeAMovePlayerOne(gameBoard);
-            //Calling the makeAMovePlayerTwo method.
-            makeAMovePlayerTwo(gameBoard);
-            //Calling the printGameBoard method.
-            printGameBoard(gameBoard);
-            //Checking if specific fields are X.
-            for (int myInt = 0; myInt < 8; myInt++)
-            {
-                //Creating a variable.
-                String myLine = "";
-                //Creating a switch statement to go through the possible outcomes.
-                switch(myLine)
-                {
-                    //Creating the first case.
-                    case 1:
-                    
-                }
-            }
-        }
+
     }
     //Creating a method to allow the players to make their move.
     public static void makeAMovePlayerOne(String[][] gameBoard)
