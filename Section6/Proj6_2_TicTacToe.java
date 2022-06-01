@@ -50,6 +50,7 @@ public class Proj6_2_TicTacToe {
                     case 1:
                         //Checking if the given line is equal to the requirements.
                         myLine.equals("X");
+                    //Creating the second case.
                     case 2:
                     
                 }
