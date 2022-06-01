@@ -33,11 +33,6 @@ public class Proj6_2_TicTacToe {
             makeAMovePlayerTwo(gameBoard);
             //Calling the printGameBoard method.
             printGameBoard(gameBoard);
-            //Creating an if statement to see if there is a winner.
-            if(gameBoard[0][0] == "X")
-            {
-                System.out.println("the first block is an X.");
-            }
         }
     }
     //Creating a method to allow the players to make their move.
