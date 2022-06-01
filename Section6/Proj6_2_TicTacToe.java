@@ -49,6 +49,7 @@ public class Proj6_2_TicTacToe {
                     //Creating the first case.
                     case 1:
                         myLine.equals("X");
+                    case 2:
                     
                 }
             }
