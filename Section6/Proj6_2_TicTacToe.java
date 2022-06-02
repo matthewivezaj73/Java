@@ -76,7 +76,7 @@ public class Proj6_2_TicTacToe {
                             return "X";
                         }
                     //Creating an else if statement.
-                    else if(myLine.equals("O"))
+                    else if(myLine.equals("OOO"))
                     {
                         return "O";
                     }
