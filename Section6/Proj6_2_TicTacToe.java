@@ -43,7 +43,6 @@ public class Proj6_2_TicTacToe {
             makeAMovePlayerTwo(gameBoard);
             //Calling the printGameBoard method.
             printGameBoard(gameBoard);
-
             //Creating a variable.
             String myLine = gameBoard[0][0] + gameBoard[0][2]+gameBoard[0][2];
             //Creating a switch statement to go through the possible outcomes.
