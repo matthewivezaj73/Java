@@ -45,6 +45,62 @@ public class Proj6_2_TicTacToe {
             makeAMovePlayerTwo(gameBoard);
             //Calling the printGameBoard method.
             printGameBoard(gameBoard);
+            //Creating a variable.
+            String myLine = gameBoard[0][0] + gameBoard[0][2]+gameBoard[0][2];
+            //Creating a switch statement to go through the possible outcomes.
+            switch(myLine)
+            {
+                //Creating the first case.
+                case "0":
+                    //Creating a winning line.
+                    myLine = gameBoard[0][0] + gameBoard[0][2] + gameBoard[0][4];
+                    //Breaking out of the case.
+                    break;
+                //Creating the second case.
+                case "1":
+                    //Creating a winning line.
+                    myLine = gameBoard[2][0] + gameBoard[2][2] + gameBoard[2][4];
+                    //Breaking out of the case.
+                    break;
+                //Creating the third case.
+                case "2":
+                    //Creating a winning line.
+                    myLine = gameBoard[4][0] + gameBoard[4][2] + gameBoard[4][4];
+                    //Breaking out of the case.
+                    break;
+            }
+            //Creating a try block to close handle any errors.
+            try{
+                    //Handling the case where all of the entries across a line are the same.
+                    if(gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X") && gameBoard[0][4].equals("X"))
+                    {
+                        //Printing out a message to the user saying that they won.
+                        System.out.println("Congratulations, Player One has won the game!");
+                        //Breaking out of the loop.
+                        break;
+                    }
+                    if(gameBoard[0][0].equals("X") && gameBoard[2][0].equals("X") && gameBoard[4][0].equals("X"))
+                    {
+                        //Printing out a message to the user saying that they won.
+                        System.out.println("Congratulations, Player One has won the game!");
+                        //Breaking out of the loop.
+                        break;
+                    }
+                    //Handling the case where all of the entries across a line are the same.
+                    else if(gameBoard[2][0].equals("X") && gameBoard[2][2].equals("X") && gameBoard[2][4].equals("X"))
+                    {
+                        //Printing out a message to the user saying that they won.
+                        System.out.println("Congratulations, Player One has won the game!");
+                        //Breaking out of the loop.
+                        break;
+                    }
+                }
+            //Adding catch for the exception of what to do when an error is found.
+            catch(Exception e)
+            {
+                //Printing a statement to notify the user that X cannot be founder at the position.
+                System.out.println("");
+            }
         }        
         //Printing the match is over.
         return "The match is over.";
@@ -114,11 +170,6 @@ public class Proj6_2_TicTacToe {
         System.out.println("We are now inserting a \'" + playerTwo+"\' at position " + rowInput + ", " + columnInput+".");
         //Adding the user's count to the gameboard. Row * Column
         gameBoard[rowInput][columnInput] = playerTwo;
-    }
-    //Creating a new method.
-    public static void playValidation(String[][] gameBoard)
-    {
-        
     }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
