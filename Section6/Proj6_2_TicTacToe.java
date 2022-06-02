@@ -121,7 +121,6 @@ public class Proj6_2_TicTacToe {
         "Please enter a 2 to place a counter in the second row.\n" +"Please enter a 4 to place your counter in the third row" );
         //Accepting user input for the row variable.
         rowInput = keyboard.nextInt();
-
         //Accepting user input for the charInput.
         playerOne = "X";
         //Printing out the variable.
