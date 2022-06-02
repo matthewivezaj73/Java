@@ -75,6 +75,7 @@ public class Proj6_2_TicTacToe {
                     //Checking if the player X is the winnter.
                     if(myLine.equals("XXX"))
                     {
+                        //Letting the user know the player with Xs won the game.
                         return "X";
                     }
                     //Creating an else if statement.
