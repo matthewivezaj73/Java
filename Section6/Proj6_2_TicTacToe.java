@@ -43,52 +43,52 @@ public class Proj6_2_TicTacToe {
             //Checking if specific fields are X.
             for (int myInt = 0; myInt < 8; myInt++)
             {
-                    //Creating a variable.
-                    String myLine = gameBoard[0][0] + gameBoard[0][2]+gameBoard[0][2];
-                    //Creating a switch statement to go through the possible outcomes.
-                    switch(myInt)
-                    {
-                        //Creating the first case.
-                        case 0:
-                            //Creating a winning line.
-                            myLine = gameBoard[0][0] + gameBoard[0][2] + gameBoard[0][4];
-                            //Breaking out of the case.
-                            break;
-                        //Creating the second case.
-                        case 1:
-                            //Creating a winning line.
-                            myLine = gameBoard[2][0] + gameBoard[2][2] + gameBoard[2][4];
-                            //Breaking out of the case.
-                            break;
-                        //Creating the third case.
-                        case 2:
-                            //Creating a winning line.
-                            myLine = gameBoard[4][0] + gameBoard[4][2] + gameBoard[4][4];
-                            //Breaking out of the case.
-                            break;
-                    }
-                    //Printing myLine.
-                    System.out.print(myLine.charAt(0));
-                    //Letting the player know that they won.
-                    System.out.println(" has won the game, congratulations!");
-                    //Checking if the player X is the winnter.
-                    if(myLine.equals("XXX"))
-                    {
-                        //Letting the user know the player with Xs won the game.
-                        return "X";
-                    }
-                    //Creating an else if statement.
-                    else if(myLine.equals("OOO"))
-                    {
-                        //Letting the user know the player with Os won the game.
-                        return "O";
-                    }
-                    //Handling the case where there is a draw.
-                    else
-                    {
-                        //Letting the user know the game ended in a draw.
-                        return "Draw";
-                    }
+                //Creating a variable.
+                String myLine = gameBoard[0][0] + gameBoard[0][2]+gameBoard[0][2];
+                //Creating a switch statement to go through the possible outcomes.
+                switch(myInt)
+                {
+                    //Creating the first case.
+                    case 0:
+                        //Creating a winning line.
+                        myLine = gameBoard[0][0] + gameBoard[0][2] + gameBoard[0][4];
+                        //Breaking out of the case.
+                        break;
+                    //Creating the second case.
+                    case 1:
+                        //Creating a winning line.
+                        myLine = gameBoard[2][0] + gameBoard[2][2] + gameBoard[2][4];
+                        //Breaking out of the case.
+                        break;
+                    //Creating the third case.
+                    case 2:
+                        //Creating a winning line.
+                        myLine = gameBoard[4][0] + gameBoard[4][2] + gameBoard[4][4];
+                        //Breaking out of the case.
+                        break;
+                }
+                //Printing myLine.
+                System.out.print(myLine.charAt(0));
+                //Letting the player know that they won.
+                System.out.println(" has won the game, congratulations!");
+                //Checking if the player X is the winnter.
+                if(myLine.equals("XXX"))
+                {
+                    //Letting the user know the player with Xs won the game.
+                    return "X";
+                }
+                //Creating an else if statement.
+                else if(myLine.equals("OOO"))
+                {
+                    //Letting the user know the player with Os won the game.
+                    return "O";
+                }
+                //Handling the case where there is a draw.
+                else
+                {
+                    //Letting the user know the game ended in a draw.
+                    return "Draw";
+                }
             }        
         }
         //Printing the match is over.
