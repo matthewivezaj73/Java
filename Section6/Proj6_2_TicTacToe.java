@@ -240,7 +240,7 @@ public class Proj6_2_TicTacToe {
         //Adding underscores.
         //Printing out the first horizontal line.
         gameBoard[1][0] = mySpace;
-        gameBoard[1][1] = "__";
+        gameBoard[1][1] = mySpace;
         gameBoard[1][2] = "__";
         gameBoard[1][3] = "__";
         gameBoard[1][4] = "__";
