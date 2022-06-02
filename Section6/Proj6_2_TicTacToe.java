@@ -159,7 +159,6 @@ public class Proj6_2_TicTacToe {
         //Adding the user's count to the gameboard. Row * Column
         gameBoard[rowInput][columnInput] = playerTwo;
     }
-
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
     {
