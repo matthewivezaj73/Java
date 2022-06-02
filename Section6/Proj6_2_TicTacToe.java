@@ -134,6 +134,7 @@ public class Proj6_2_TicTacToe {
             catch(Exception e)
             {
                 //Printing a message to the user.
+                System.out.println("");
             }
         }        
         //Printing the match is over.
