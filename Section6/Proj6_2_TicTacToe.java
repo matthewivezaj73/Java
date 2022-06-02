@@ -114,6 +114,7 @@ public class Proj6_2_TicTacToe {
                 else if(gameBoard[0][0].equals("O") && gameBoard[2][0].equals("O") && gameBoard[4][0].equals("O"))
                 {
                     //Printing out a message to the user saying that they won.
+                    System.out.println("Congratulations, Player Two has won the game!");
                 }
                 //Calling the printGameBoard method.
                 printGameBoard(gameBoard);
