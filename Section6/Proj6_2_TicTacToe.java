@@ -93,7 +93,7 @@ public class Proj6_2_TicTacToe {
             catch(Exception e)
             {
                 //Printing a statement to notify the user that X cannot be founder at the position.
-                System.out.println("X cannot be found at that position.");
+                System.out.println("");
             }
         }        
         //Printing the match is over.
