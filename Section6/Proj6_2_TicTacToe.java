@@ -22,7 +22,7 @@ public class Proj6_2_TicTacToe {
         setUpBoard(gameBoard);
         //Calling the print gameBoard method to print the game board.
         printGameBoard(gameBoard);
-
+        //Calling the gamePlay method.
     }
     //Creating a method that allows the game to play.
     public static String gamePlay(String[][] gameBoard)
@@ -69,7 +69,7 @@ public class Proj6_2_TicTacToe {
             //Creating a for loop to determine if the game is a draw.
             for(int alpha = 0; alpha < 9; alpha++)
             {
-                
+
             }
         }
         return null;
