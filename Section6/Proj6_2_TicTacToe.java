@@ -154,7 +154,7 @@ public class Proj6_2_TicTacToe {
         //Accepting user input for the row variable.
         rowInput = keyboard.nextInt();
         //Accepting user input for the charInput.
-        playerTwo = keyboard.next();
+        playerTwo = "O";
         //Printing out the variable that was just entered.
         System.out.print(playerTwo);
         //Notifying the user that we are inserting their character of choice.
