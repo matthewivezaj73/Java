@@ -120,6 +120,10 @@ public class Proj6_2_TicTacToe {
                     break;
                 }
                 //Handling the case where all of the entries are the same.
+                else if(gameBoard[2][0].equals("O") && gameBoard[2][2].equals("O") && gameBoard[2][4].equals("O"))
+                {
+                    
+                }
                 //Calling the printGameBoard method.
                 printGameBoard(gameBoard);
             }
