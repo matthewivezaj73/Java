@@ -119,6 +119,7 @@ public class Proj6_2_TicTacToe {
                     //Breaking out of the loop.
                     break;
                 }
+                //Handling the case where all of the entries are the same.
                 //Calling the printGameBoard method.
                 printGameBoard(gameBoard);
             }
