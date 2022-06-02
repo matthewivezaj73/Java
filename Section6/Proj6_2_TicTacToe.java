@@ -85,6 +85,7 @@ public class Proj6_2_TicTacToe {
                     //Handling the case where there is a draw.
                     else
                     {
+                        //Letting the user know the game ended in a draw.
                         return "Draw";
                     }
                 }
