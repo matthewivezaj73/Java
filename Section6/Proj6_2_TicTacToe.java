@@ -71,7 +71,7 @@ public class Proj6_2_TicTacToe {
             }
             //Creating a try block to close handle any errors.
             try{
-                    //Checking if 0,0 is equal to x.
+                    //Handling the case where all of the entries across a line are the same.
                     if(gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X") && gameBoard[0][4].equals("X"))
                     {
                         //Printing out a message to the user saying that they won.
