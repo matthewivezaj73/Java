@@ -95,6 +95,7 @@ public class Proj6_2_TicTacToe {
                         break;
                     }
                 }
+                //Creating another switch statement.
             //Adding catch for the exception of what to do when an error is found.
             catch(Exception e)
             {
