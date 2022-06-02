@@ -73,7 +73,7 @@ public class Proj6_2_TicTacToe {
                     //Printing myLine.
                     System.out.println(myLine);
                     //Letting the player know that they won.
-                    System.out.println("Congratulations, the player with " + myLine[0] + "has won the game");
+                    System.out.println("Has won the game, congratulations!");
                     //Checking if the player X is the winnter.
                     if(myLine.equals("XXX"))
                     {
