@@ -72,7 +72,7 @@ public class Proj6_2_TicTacToe {
             //Checking if 0,0 is equal to x.
             if(gameBoard[0][0].equals("X"))
             {
-                
+                System.out.println("X is at position 0,0.");
             }
             //Checking if the player X is the winner.
             if(myLine.equals("XXX"))
