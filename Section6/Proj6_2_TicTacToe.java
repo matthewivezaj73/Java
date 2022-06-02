@@ -90,7 +90,6 @@ public class Proj6_2_TicTacToe {
                 //Letting the user know the game ended in a draw.
                 return "Draw";
             }
-            placeCounter = placeCounter+1;
         }        
         //Printing the match is over.
         return "The match is over.";
