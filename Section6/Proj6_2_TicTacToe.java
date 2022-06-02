@@ -69,11 +69,17 @@ public class Proj6_2_TicTacToe {
                     //Breaking out of the case.
                     break;
             }
-            //Checking if 0,0 is equal to x.
-            if(gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X"))
-            {
-                System.out.println("X is at position 0,0.");
-            }
+            try{
+                //Checking if 0,0 is equal to x.
+                if(gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X"))
+                {
+                    System.out.println("X is at position 0,0.");
+                }
+               }
+               catch(Exception e)
+               {
+                   System.out.println("X cannot be found at that position.");
+               }
             //Checking if the player X is the winner.
             if(myLine.equals("XXX"))
             {
