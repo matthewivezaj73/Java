@@ -92,6 +92,7 @@ public class Proj6_2_TicTacToe {
         }        
         //Printing the match is over.
         return "The match is over.";
+        //Incrementing placeCounter.
     }
     //Creating a method to allow the players to make their move.
     public static void makeAMovePlayerOne(String[][] gameBoard)
