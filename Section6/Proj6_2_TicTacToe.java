@@ -95,6 +95,10 @@ public class Proj6_2_TicTacToe {
                         break;
                     }
                     //Handling the case where all of the entries are the same.
+                    else if(gameBoard[0][0].equals("O") && gameBoard[0][2].equals("O") && gameBoard[0][4].equals("O"))
+                    {
+                        
+                    }
                 }
             //Adding catch for the exception of what to do when an error is found.
             catch(Exception e)
