@@ -176,7 +176,7 @@ public class Proj6_2_TicTacToe {
             for(String myString : arr)
             {
                 //Printing out the numbers to the user.
-                System.out.print(myString+ " ");
+                System.out.print(myString);
             }
             //Adding some padding.
             System.out.println();
