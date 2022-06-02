@@ -77,6 +77,11 @@ public class Proj6_2_TicTacToe {
                         //Printing out a message to the user saying that they won.
                         System.out.println("Congratulations, Player One has won the game!");
                     }
+                    if(gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X") && gameBoard[0][4].equals("X"))
+                    {
+                        //Printing out a message to the user saying that they won.
+                        System.out.println("Congratulations, Player One has won the game!");
+                    }
                     //Handling the case where all of the entries across a line are the same.
                     else if(gameBoard[2][0].equals("X") && gameBoard[2][2].equals("X") && gameBoard[2][4].equals("X"))
                     {
