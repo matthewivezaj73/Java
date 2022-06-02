@@ -59,6 +59,7 @@ public class Proj6_2_TicTacToe {
                         myLine = gameBoard[2][0] + gameBoard[2][2] + gameBoard[2][4];
                         //Breaking out of the case.
                         break;
+                    case 2:
                     
                 }
                 //Checking if the player X is the winnter.
