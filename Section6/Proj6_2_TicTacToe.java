@@ -133,7 +133,7 @@ public class Proj6_2_TicTacToe {
             //Catch block.
             catch(Exception e)
             {
-
+                //Printing a message to the user.
             }
         }        
         //Printing the match is over.
