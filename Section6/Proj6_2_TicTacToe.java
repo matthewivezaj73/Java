@@ -54,8 +54,8 @@ public class Proj6_2_TicTacToe {
                         //Checking if myLine is equal to a winning line.
                     //Creating the second case.
                     case 1:
-                    //Creating a winning line.
-                    myLine = gameBoard[2][0] + gameBoard[2][2] + gameBoard[2][4];
+                        //Creating a winning line.
+                        myLine = gameBoard[2][0] + gameBoard[2][2] + gameBoard[2][4];
                     
                 }
                 //Checking if the player X is the winnter.
