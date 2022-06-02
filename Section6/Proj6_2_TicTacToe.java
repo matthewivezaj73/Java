@@ -90,7 +90,7 @@ public class Proj6_2_TicTacToe {
                     }
                 }
             //Adding catch for the exception of what to do when an error is found.
-            catch(Exception e)
+            catch(ArrayIndexOutOfBoundsException e)
             {
                 //Printing a statement to notify the user that X cannot be founder at the position.
                 System.out.println("X cannot be found at that position.");
