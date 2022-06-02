@@ -24,8 +24,7 @@ public class Proj6_2_TicTacToe {
         printGameBoard(gameBoard);
         //Calling the gamePlay method.
         gamePlay(gameBoard);
-        //Printing out a line.
-        System.out.println(gameBoard[0][0] + gameBoard[0][2]+gameBoard[0][4]);
+        
     }
     //Creating a method that allows the game to play.
     public static String gamePlay(String[][] gameBoard)
