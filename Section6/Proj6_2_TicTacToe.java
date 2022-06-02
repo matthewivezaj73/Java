@@ -100,7 +100,6 @@ public class Proj6_2_TicTacToe {
         }
         //Creating another while loop.
         while(placeCounter < 100)
-
         {
             //Printing the gameBoard.
             printGameBoard(gameBoard);
