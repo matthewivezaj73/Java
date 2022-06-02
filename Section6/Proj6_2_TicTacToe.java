@@ -59,7 +59,7 @@ public class Proj6_2_TicTacToe {
                     //Breaking out of the case.
                     break;
                 //Creating the third case.
-                case 2:
+                case "2":
                     //Creating a winning line.
                     myLine = gameBoard[4][0] + gameBoard[4][2] + gameBoard[4][4];
                     //Breaking out of the case.
