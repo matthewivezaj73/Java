@@ -141,6 +141,7 @@ public class Proj6_2_TicTacToe {
                 System.out.println("");
             }
             //Printing the game board.
+            printGameBoard(gameBoard);
         }        
         //Printing the match is over.
         return "The match is over.";
