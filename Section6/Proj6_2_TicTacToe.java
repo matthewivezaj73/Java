@@ -222,6 +222,7 @@ public class Proj6_2_TicTacToe {
     //Creating a method to create game board.
     public static void setUpBoard(String[][] gameBoard)
     {
+        //Assigning * to all of the cells.
         //Assigning certain cells |.
         //Printing out the first vertical line.
         gameBoard[0][1] = "|";
