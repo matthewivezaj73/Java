@@ -95,6 +95,7 @@ public class Proj6_2_TicTacToe {
                 }
             }        
         }
+        //Printing the match is over.
         return "The match is over.";
     }
     //Creating a method to allow the players to make their move.
