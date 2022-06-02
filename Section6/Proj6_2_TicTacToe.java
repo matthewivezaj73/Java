@@ -81,10 +81,10 @@ public class Proj6_2_TicTacToe {
                     //Printing out a message to the user saying that they won.
                 }
                }
-               catch(Exception e)
-               {
-                   System.out.println("X cannot be found at that position.");
-               }
+            catch(Exception e)
+            {
+                System.out.println("X cannot be found at that position.");
+            }
             //Checking if the player X is the winner.
             if(myLine.equals("XXX"))
             {
