@@ -223,6 +223,7 @@ public class Proj6_2_TicTacToe {
     public static void setUpBoard(String[][] gameBoard)
     {
         //Assigning * to all of the cells.
+        gameBoard[0][0] = "*";
         //Assigning certain cells |.
         //Printing out the first vertical line.
         gameBoard[0][1] = "|";
