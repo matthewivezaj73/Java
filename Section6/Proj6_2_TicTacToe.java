@@ -43,6 +43,7 @@ public class Proj6_2_TicTacToe {
             for (int myInt = 0; myInt < 8; myInt++)
             {
                 //Creating another for loop.
+                for (int yourInt = 0; yourInt < 8; yourInt++)
                 //Creating a variable.
                 String myLine = "";
                 //Creating a switch statement to go through the possible outcomes.
