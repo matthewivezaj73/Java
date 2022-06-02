@@ -100,11 +100,7 @@ public class Proj6_2_TicTacToe {
             }
             //Calling the makeAMovePlayerTwo method.
             makeAMovePlayerTwo(gameBoard);
-            //Creating a switch statement.
-            switch(myLine)
-            {
-
-            }
+            //Creating a try block.
         }        
         //Printing the match is over.
         return "The match is over.";
