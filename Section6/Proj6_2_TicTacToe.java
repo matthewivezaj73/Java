@@ -67,8 +67,7 @@ public class Proj6_2_TicTacToe {
                         case 2:
                             //Creating a winning line.
                             myLine = gameBoard[4][0] + gameBoard[4][2] + gameBoard[4][4];
-                            //Breaking out of the case.
-                            break;
+
                     }
                     //Printing myLine.
                     System.out.print(myLine.charAt(0));
