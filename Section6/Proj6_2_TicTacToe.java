@@ -113,6 +113,10 @@ public class Proj6_2_TicTacToe {
                 //Calling the printGameBoard method.
                 printGameBoard(gameBoard);
             }
+            catch
+            {
+                
+            }
         }        
         //Printing the match is over.
         return "The match is over.";
