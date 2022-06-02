@@ -248,8 +248,8 @@ public class Proj6_2_TicTacToe {
         gameBoard[3][0] = mySpace;
         gameBoard[3][1] = mySpace;
         gameBoard[3][2] = mySpace;
-        gameBoard[3][3] = "__";
-        gameBoard[3][4] = "__";
+        gameBoard[3][3] = mySpace;
+        gameBoard[3][4] = mySpace;
     }
     //Creating a method to start the game.
     public static void startGame()
