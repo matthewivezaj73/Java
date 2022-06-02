@@ -78,19 +78,19 @@ public class Proj6_2_TicTacToe {
                     if(myLine.equals("XXX"))
                     {
                         //Letting the user know the player with Xs won the game.
-                        System.out.println("X");
+                        return "X";
                     }
                     //Creating an else if statement.
                     else if(myLine.equals("OOO"))
                     {
                         //Letting the user know the player with Os won the game.
-                        System.out.println("O");
+                        return "O";
                     }
                     //Handling the case where there is a draw.
                     else
                     {
                         //Letting the user know the game ended in a draw.
-                         System.out.println("Draw");
+                        return "Draw";
                     }
                 }
             }        
