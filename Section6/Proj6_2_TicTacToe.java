@@ -204,7 +204,7 @@ public class Proj6_2_TicTacToe {
         gameBoard[3][0] = "__";
         gameBoard[3][1] = "__";
         gameBoard[3][2] = "__";
-        gameBoard[3][3] = "_";
+        gameBoard[3][3] = "__";
         gameBoard[3][4] = "_";
     }
     //Creating a method to start the game.
