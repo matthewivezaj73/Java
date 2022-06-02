@@ -90,7 +90,6 @@ public class Proj6_2_TicTacToe {
                 return "Draw";
             }
         }        
-
         //Printing the match is over.
         return "The match is over.";
     }
