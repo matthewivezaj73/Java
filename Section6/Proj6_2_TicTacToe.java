@@ -222,8 +222,6 @@ public class Proj6_2_TicTacToe {
     //Creating a method to create game board.
     public static void setUpBoard(String[][] gameBoard)
     {
-        //Creating a string variable.
-        String mySpace = "";
         //Assigning certain cells |.
         //Printing out the first vertical line.
         gameBoard[0][1] = "|";
@@ -239,17 +237,17 @@ public class Proj6_2_TicTacToe {
         gameBoard[4][3] = "|";
         //Adding underscores.
         //Printing out the first horizontal line.
-        gameBoard[1][0] = mySpace;
-        gameBoard[1][1] = mySpace;
-        gameBoard[1][2] = mySpace;
-        gameBoard[1][3] = mySpace;
-        gameBoard[1][4] = mySpace;
+        gameBoard[1][0] = "__";
+        gameBoard[1][1] = "__";
+        gameBoard[1][2] = "__";
+        gameBoard[1][3] = "__";
+        gameBoard[1][4] = "__";
         //Printing out the second horizontal line.
-        gameBoard[3][0] = mySpace;
-        gameBoard[3][1] = mySpace;
-        gameBoard[3][2] = mySpace;
-        gameBoard[3][3] = mySpace;
-        gameBoard[3][4] = mySpace;
+        gameBoard[3][0] = "__";
+        gameBoard[3][1] = "__";
+        gameBoard[3][2] = "__";
+        gameBoard[3][3] = "__";
+        gameBoard[3][4] = "__";
     }
     //Creating a method to start the game.
     public static void startGame()
