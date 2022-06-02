@@ -70,10 +70,7 @@ public class Proj6_2_TicTacToe {
                             //Breaking out of the case.
                             break;
                     }
-                    //Printing myLine.
-                    System.out.println(myLine);
-                    //Letting the player know that they won.
-                    System.out.println("Has won the game, congratulations!");
+
                     //Checking if the player X is the winnter.
                     if(myLine.equals("XXX"))
                     {
