@@ -44,46 +44,48 @@ public class Proj6_2_TicTacToe {
             {
                 //Creating another for loop.
                 for (int yourInt = 0; yourInt < 8; yourInt++)
-                //Creating a variable.
-                String myLine = "";
-                //Creating a switch statement to go through the possible outcomes.
-                switch(myInt)
-                {
-                    //Creating the first case.
-                    case 0:
-                        //Creating a winning line.
-                        myLine = gameBoard[0][0] + gameBoard[0][1] + gameBoard[0][2];
-                        //Breaking out of the case.
-                        break;
-                    //Creating the second case.
-                    case 1:
-                        //Creating a winning line.
-                        myLine = gameBoard[2][0] + gameBoard[2][2] + gameBoard[2][4];
-                        //Breaking out of the case.
-                        break;
-                    //Creating the third case.
-                    case 2:
-                        //Creating a winning line.
-                        myLine = gameBoard[4][0] + gameBoard[4][2] + gameBoard[4][4];
-                        //Breaking out of the case.
-                        break;
-                }
-                //Checking if the player X is the winnter.
-                if(myLine.equals("XXX"))
+                {                    
+                    //Creating a variable.
+                    String myLine = "";
+                    //Creating a switch statement to go through the possible outcomes.
+                    switch(myInt)
                     {
-                        return "X";
+                        //Creating the first case.
+                        case 0:
+                            //Creating a winning line.
+                            myLine = gameBoard[0][0] + gameBoard[0][1] + gameBoard[0][2];
+                            //Breaking out of the case.
+                            break;
+                        //Creating the second case.
+                        case 1:
+                            //Creating a winning line.
+                            myLine = gameBoard[2][0] + gameBoard[2][2] + gameBoard[2][4];
+                            //Breaking out of the case.
+                            break;
+                        //Creating the third case.
+                        case 2:
+                            //Creating a winning line.
+                            myLine = gameBoard[4][0] + gameBoard[4][2] + gameBoard[4][4];
+                            //Breaking out of the case.
+                            break;
                     }
-                //Creating an else if statement.
-                else if(myLine.equals("O"))
-                {
-                    return "O";
+                    //Checking if the player X is the winnter.
+                    if(myLine.equals("XXX"))
+                        {
+                            return "X";
+                        }
+                    //Creating an else if statement.
+                    else if(myLine.equals("O"))
+                    {
+                        return "O";
+                    }
                 }
-            }
-            //Creating a for loop to determine if the game is a draw.
-            for(int alpha = 0; alpha < 9; alpha++)
-            {
+                //Creating a for loop to determine if the game is a draw.
+                for(int alpha = 0; alpha < 9; alpha++)
+                {
 
-            }
+                }
+            }        
         }
         return null;
     }
