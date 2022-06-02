@@ -64,6 +64,8 @@ public class Proj6_2_TicTacToe {
                     //Breaking out of the case.
                     break;
             }
+            //Calling the makeAMovePlayerOne method.
+            makeAMovePlayerOne(gameBoard);
             //Creating a try block to close handle any errors.
             try{
                     //Handling the case where all of the entries across a line are the same.
