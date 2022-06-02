@@ -101,11 +101,6 @@ public class Proj6_2_TicTacToe {
             printGameBoard(gameBoard);
             //Calling the makeAMovePlayerTwo method.
             makeAMovePlayerTwo(gameBoard);
-            //Creating an if statement.
-            if(placeCounter < 100)
-            {
-                
-            }
             //Creating a try block.
             try
             {
