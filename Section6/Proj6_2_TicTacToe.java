@@ -253,7 +253,7 @@ public class Proj6_2_TicTacToe {
         gameBoard[1][3] = "_";
         gameBoard[1][4] = "_";
         //Printing out the second horizontal line.
-        gameBoard[3][0] = "__";
+        gameBoard[3][0] = "_";
         gameBoard[3][1] = "__";
         gameBoard[3][2] = "__";
         gameBoard[3][3] = "__";
