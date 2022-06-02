@@ -70,7 +70,7 @@ public class Proj6_2_TicTacToe {
                     break;
             }
             //Checking if 0,0 is equal to x.
-            if(gameBoard[0][0].equals("X"))
+            if(gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X"))
             {
                 System.out.println("X is at position 0,0.");
             }
