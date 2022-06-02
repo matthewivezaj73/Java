@@ -104,45 +104,9 @@ public class Proj6_2_TicTacToe {
             //Creating an if statement.
             if(placeCounter < 100)
             {
-                
+
             }
-            //Creating a try block.
-            try
-            {
-                //Handling the case where all of the entries are the same.
-                if(gameBoard[0][0].equals("O") && gameBoard[0][2].equals("O") && gameBoard[0][4].equals("O"))
-                {
-                    //Printing out a message to the user saying that they won.
-                    System.out.println("Congratulations, Player Two has won the game!");
-                    //Breaking out of the loop.
-                    break;
-                }
-                //Handling the case where all of the entries are the same.
-                else if(gameBoard[0][0].equals("O") && gameBoard[2][0].equals("O") && gameBoard[4][0].equals("O"))
-                {
-                    //Printing out a message to the user saying that they won.
-                    System.out.println("Congratulations, Player Two has won the game!");
-                    //Breaking out of the loop.
-                    break;
-                }
-                //Handling the case where all of the entries are the same.
-                else if(gameBoard[2][0].equals("O") && gameBoard[2][2].equals("O") && gameBoard[2][4].equals("O"))
-                {
-                    //Printing out a message to the user saying that they won.
-                    System.out.println("Congratulations, Player Two has won the game!");
-                    //Breaking out of the loop.
-                    break;
-                }
-                //Calling the printGameBoard method.
-                printGameBoard(gameBoard);
-            }
-            //Catch block.
-            catch(Exception e)
-            {
-                //Printing a message to the user.
-                System.out.println("");
-            }
-        }        
+           
         //Printing the match is over.
         return "The match is over.";
     }
