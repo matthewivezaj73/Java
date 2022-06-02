@@ -97,14 +97,15 @@ public class Proj6_2_TicTacToe {
                 //Printing a statement to notify the user that X cannot be founder at the position.
                 System.out.println("");
             }
-        }
-        //Creating another while loop.
-        while(placeCounter < 100)
-        {
             //Printing the gameBoard.
             printGameBoard(gameBoard);
             //Calling the makeAMovePlayerTwo method.
             makeAMovePlayerTwo(gameBoard);
+            //Creating an if statement.
+            if(placeCounter < 100)
+            {
+                
+            }
             //Creating a try block.
             try
             {
