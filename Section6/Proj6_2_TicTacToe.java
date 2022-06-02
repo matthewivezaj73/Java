@@ -133,8 +133,7 @@ public class Proj6_2_TicTacToe {
                     //Breaking out of the loop.
                     break;
                 }
-                //Calling the printGameBoard method.
-                printGameBoard(gameBoard);
+                
             }
             //Catch block.
             catch(Exception e)
