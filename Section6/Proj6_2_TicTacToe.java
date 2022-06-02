@@ -116,6 +116,10 @@ public class Proj6_2_TicTacToe {
         gameBoard[rowInput][columnInput] = playerTwo;
     }
     //Creating a new method.
+    public static void playValidation(String[][] gameBoard)
+    {
+        
+    }
     //Creating a method to print the game board.
     public static void printGameBoard(String[][] Board)
     {
