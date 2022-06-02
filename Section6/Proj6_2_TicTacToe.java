@@ -110,6 +110,7 @@ public class Proj6_2_TicTacToe {
                     System.out.println("Congratulations, Player Two has won the game!");
                     //Breaking out of the loop.
                 }
+                //Handling the case where all of the entries are the same.
                 //Calling the printGameBoard method.
                 printGameBoard(gameBoard);
             }
