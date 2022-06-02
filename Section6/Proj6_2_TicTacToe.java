@@ -75,7 +75,7 @@ public class Proj6_2_TicTacToe {
                 {
                     System.out.println("Congratulations, Player One has won the game!");
                 }
-                else if(gameBoard[2][0].equals("X") && gameBoard[2][2].equals("X"))
+                else if(gameBoard[2][0].equals("X") && gameBoard[2][2].equals("X") && gameBoard[2][4].equals("X"))
                 {
 
                 }
