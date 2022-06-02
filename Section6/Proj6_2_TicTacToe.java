@@ -228,6 +228,7 @@ public class Proj6_2_TicTacToe {
         gameBoard[0][4] = "*";
         gameBoard[2][0] = "*";
         gameBoard[2][2] = "*";
+        gameBoard[2][4] = "*";
         //Assigning certain cells |.
         //Printing out the first vertical line.
         gameBoard[0][1] = "|";
