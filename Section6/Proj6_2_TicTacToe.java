@@ -24,10 +24,7 @@ public class Proj6_2_TicTacToe {
         printGameBoard(gameBoard);
         //Calling the gamePlay method.
         gamePlay(gameBoard);
-        //Calling gamePlay.
-        gamePlay(gameBoard);
-        //Calling gamePlay.
-        gamePlay(gameBoard);
+
     }
     //Creating a method that allows the game to play.
     public static String gamePlay(String[][] gameBoard)
