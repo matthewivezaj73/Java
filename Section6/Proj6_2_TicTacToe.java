@@ -113,6 +113,7 @@ public class Proj6_2_TicTacToe {
                 //Calling the printGameBoard method.
                 printGameBoard(gameBoard);
             }
+            //Catch block.
             catch(Exception e)
             {
 
