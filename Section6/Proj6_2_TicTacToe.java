@@ -90,7 +90,7 @@ public class Proj6_2_TicTacToe {
                 }
             }        
         }
-        return null;
+        return "The match is over.";
     }
     //Creating a method to allow the players to make their move.
     public static void makeAMovePlayerOne(String[][] gameBoard)
