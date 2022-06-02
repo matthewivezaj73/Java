@@ -99,6 +99,7 @@ public class Proj6_2_TicTacToe {
             }
         }
         //Creating another while loop.
+        while(placeCounter < 100)
             //Printing the gameBoard.
             printGameBoard(gameBoard);
             //Calling the makeAMovePlayerTwo method.
@@ -106,7 +107,7 @@ public class Proj6_2_TicTacToe {
             
             //Creating an if statement.
             
-            if(placeCounter < 100)
+            if()
             {
             //Creating a try block.
             try
