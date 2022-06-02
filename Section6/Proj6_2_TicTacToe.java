@@ -100,6 +100,7 @@ public class Proj6_2_TicTacToe {
             }
             //Calling the makeAMovePlayerTwo method.
             makeAMovePlayerTwo(gameBoard);
+            //Creating a switch statement.
             //Handling the case where all of the entries are the same.
             if(gameBoard[0][0].equals("O") && gameBoard[0][2].equals("O") && gameBoard[0][4].equals("O"))
             {
