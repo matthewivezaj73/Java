@@ -25,7 +25,7 @@ public class Proj6_2_TicTacToe {
 
     }
     //Creating a method that allows the game to play.
-    public static  gamePlay(String[][] gameBoard)
+    public static String gamePlay(String[][] gameBoard)
     {
         //Creating an int.
         int placeCounter = 0;
