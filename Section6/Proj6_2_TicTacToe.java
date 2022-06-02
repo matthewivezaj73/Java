@@ -104,7 +104,7 @@ public class Proj6_2_TicTacToe {
             //Creating an if statement.
             if(placeCounter < 100)
             {
- //Creating a try block.
+            //Creating a try block.
             try
             {
                 //Handling the case where all of the entries are the same.
