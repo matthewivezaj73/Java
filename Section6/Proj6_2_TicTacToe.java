@@ -78,7 +78,7 @@ public class Proj6_2_TicTacToe {
                 }
                 else if(gameBoard[2][0].equals("X") && gameBoard[2][2].equals("X") && gameBoard[2][4].equals("X"))
                 {
-
+                    //Printing out a message to the user saying that they won.
                 }
                }
                catch(Exception e)
