@@ -70,7 +70,6 @@ public class Proj6_2_TicTacToe {
                             //Breaking out of the case.
                             break;
                     }
-
                     //Checking if the player X is the winnter.
                     if(myLine.equals("XXX"))
                     {
