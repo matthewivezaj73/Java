@@ -133,7 +133,6 @@ public class Proj6_2_TicTacToe {
                     //Breaking out of the loop.
                     break;
                 }
-                
             }
             //Catch block.
             catch(Exception e)
