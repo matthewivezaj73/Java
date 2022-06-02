@@ -89,6 +89,8 @@ public class Proj6_2_TicTacToe {
                         return "Draw";
                     }
                 }
+                //Letting the player know that they won.
+                System.out.println("Has won the game, congratulations!");
             }        
         }
         return "The match is over.";
