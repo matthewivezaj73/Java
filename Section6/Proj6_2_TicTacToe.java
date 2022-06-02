@@ -90,7 +90,7 @@ public class Proj6_2_TicTacToe {
                     else
                     {
                         //Letting the user know the game ended in a draw.
-                        return "Draw";
+                         System.out.println("Draw");
                     }
                 }
             }        
