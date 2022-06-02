@@ -223,6 +223,7 @@ public class Proj6_2_TicTacToe {
     public static void setUpBoard(String[][] gameBoard)
     {
         //Creating a string variable.
+        String mySpace = "";
         //Assigning certain cells |.
         //Printing out the first vertical line.
         gameBoard[0][1] = "|";
