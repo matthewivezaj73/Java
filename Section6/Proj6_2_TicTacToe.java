@@ -97,6 +97,7 @@ public class Proj6_2_TicTacToe {
                 //Printing a statement to notify the user that X cannot be founder at the position.
                 System.out.println("");
             }
+            //Printing the gameBoard.
             //Calling the makeAMovePlayerTwo method.
             makeAMovePlayerTwo(gameBoard);
             //Creating a try block.
