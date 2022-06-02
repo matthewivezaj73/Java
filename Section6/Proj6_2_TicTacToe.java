@@ -67,30 +67,30 @@ public class Proj6_2_TicTacToe {
             makeAMovePlayerOne(gameBoard);
             //Creating a try block to close handle any errors.
             try{
-                    //Handling the case where all of the entries across a line are the same.
-                    if(gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X") && gameBoard[0][4].equals("X"))
-                    {
-                        //Printing out a message to the user saying that they won.
-                        System.out.println("Congratulations, Player One has won the game!");
-                        //Breaking out of the loop.
-                        break;
-                    }
-                    if(gameBoard[0][0].equals("X") && gameBoard[2][0].equals("X") && gameBoard[4][0].equals("X"))
-                    {
-                        //Printing out a message to the user saying that they won.
-                        System.out.println("Congratulations, Player One has won the game!");
-                        //Breaking out of the loop.
-                        break;
-                    }
-                    //Handling the case where all of the entries across a line are the same.
-                    else if(gameBoard[2][0].equals("X") && gameBoard[2][2].equals("X") && gameBoard[2][4].equals("X"))
-                    {
-                        //Printing out a message to the user saying that they won.
-                        System.out.println("Congratulations, Player One has won the game!");
-                        //Breaking out of the loop.
-                        break;
-                    }
+                //Handling the case where all of the entries across a line are the same.
+                if(gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X") && gameBoard[0][4].equals("X"))
+                {
+                    //Printing out a message to the user saying that they won.
+                    System.out.println("Congratulations, Player One has won the game!");
+                    //Breaking out of the loop.
+                    break;
                 }
+                if(gameBoard[0][0].equals("X") && gameBoard[2][0].equals("X") && gameBoard[4][0].equals("X"))
+                {
+                    //Printing out a message to the user saying that they won.
+                    System.out.println("Congratulations, Player One has won the game!");
+                    //Breaking out of the loop.
+                    break;
+                }
+                //Handling the case where all of the entries across a line are the same.
+                else if(gameBoard[2][0].equals("X") && gameBoard[2][2].equals("X") && gameBoard[2][4].equals("X"))
+                {
+                    //Printing out a message to the user saying that they won.
+                    System.out.println("Congratulations, Player One has won the game!");
+                    //Breaking out of the loop.
+                    break;
+                }
+            }
             //Adding catch for the exception of what to do when an error is found.
             catch(Exception e)
             {
