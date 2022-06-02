@@ -42,6 +42,7 @@ public class Proj6_2_TicTacToe {
             //Checking if specific fields are X.
             for (int myInt = 0; myInt < 8; myInt++)
             {
+                //Creating another for loop.
                 //Creating a variable.
                 String myLine = "";
                 //Creating a switch statement to go through the possible outcomes.
