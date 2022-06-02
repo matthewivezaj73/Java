@@ -40,8 +40,6 @@ public class Proj6_2_TicTacToe {
             makeAMovePlayerTwo(gameBoard);
             //Calling the printGameBoard method.
             printGameBoard(gameBoard);
-            //Printing out a line.
-            System.out.println(gameBoard[0][0] + gameBoard[0][2]+gameBoard[0][4]);
             //Checking if specific fields are X.
             for (int myInt = 0; myInt < 8; myInt++)
             {
