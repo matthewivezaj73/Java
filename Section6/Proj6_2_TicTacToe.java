@@ -98,6 +98,7 @@ public class Proj6_2_TicTacToe {
                 System.out.println("");
             }
         }
+        //Creating another while loop.
             //Printing the gameBoard.
             printGameBoard(gameBoard);
             //Calling the makeAMovePlayerTwo method.
