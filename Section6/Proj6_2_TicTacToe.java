@@ -82,9 +82,10 @@ public class Proj6_2_TicTacToe {
                     {
                         return "O";
                     }
+                    //Handling the case where there is a draw.
                     else
                     {
-                        
+
                     }
                 }
             }        
