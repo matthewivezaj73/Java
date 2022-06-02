@@ -70,6 +70,10 @@ public class Proj6_2_TicTacToe {
                     break;
             }
             //Checking if 0,0 is equal to x.
+            if(gameBoard[0][0].equals("X"))
+            {
+                
+            }
             //Checking if the player X is the winner.
             if(myLine.equals("XXX"))
             {
