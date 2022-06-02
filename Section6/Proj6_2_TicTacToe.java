@@ -47,7 +47,7 @@ public class Proj6_2_TicTacToe {
                 for (int yourInt = 0; yourInt < 8; yourInt++)
                 {           
                     //Creating a counter. 
-                    int my_counter = 0        
+                    int my_counter = 0;        
                     //Creating a variable.
                     String myLine = gameBoard[myInt][yourInt] + gameBoard[myInt+2][yourInt+2]+gameBoard[myInt][yourInt];
                     //Creating a switch statement to go through the possible outcomes.
