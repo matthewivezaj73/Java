@@ -80,6 +80,7 @@ public class Proj6_2_TicTacToe {
                     //Creating an else if statement.
                     else if(myLine.equals("OOO"))
                     {
+                        //Letting the user know the player with Os won the game.
                         return "O";
                     }
                     //Handling the case where there is a draw.
