@@ -69,6 +69,7 @@ public class Proj6_2_TicTacToe {
                     //Breaking out of the case.
                     break;
             }
+            //Creating a try block to close handle any errors.
             try{
                     //Checking if 0,0 is equal to x.
                     if(gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X") && gameBoard[0][4].equals("X"))
