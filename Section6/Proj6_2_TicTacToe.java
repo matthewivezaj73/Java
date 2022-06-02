@@ -67,6 +67,10 @@ public class Proj6_2_TicTacToe {
                 }
             }
             //Creating a for loop to determine if the game is a draw.
+            for(int alpha = 0; alpha < 9; alpha++)
+            {
+                
+            }
         }
         return null;
     }
