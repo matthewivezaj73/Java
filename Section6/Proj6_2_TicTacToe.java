@@ -101,6 +101,18 @@ public class Proj6_2_TicTacToe {
             //Calling the makeAMovePlayerTwo method.
             makeAMovePlayerTwo(gameBoard);
             //Creating a try block.
+            try
+            {
+                //Handling the case where all of the entries are the same.
+                if(gameBoard[0][0].equals("O") && gameBoard[0][2].equals("O") && gameBoard[0][4].equals("O"))
+                {
+                    //Printing out a message to the user saying that they won.
+                    System.out.println("Congratulations, Player Two has won the game!");
+                    //Breaking out of the loop.
+                }
+                //Calling the printGameBoard method.
+                printGameBoard(gameBoard);
+            }
         }        
         //Printing the match is over.
         return "The match is over.";
