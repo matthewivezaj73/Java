@@ -82,6 +82,7 @@ public class Proj6_2_TicTacToe {
                         //Printing out a message to the user saying that they won.
                     }
                 }
+            //Adding catch for the exception of what to do when an error is found.
             catch(Exception e)
             {
                 System.out.println("X cannot be found at that position.");
