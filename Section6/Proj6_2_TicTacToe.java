@@ -40,9 +40,7 @@ public class Proj6_2_TicTacToe {
             makeAMovePlayerTwo(gameBoard);
             //Calling the printGameBoard method.
             printGameBoard(gameBoard);
-            //Checking if specific fields are X.
-            for (int myInt = 0; myInt < 8; myInt++)
-            {
+
                 //Creating a variable.
                 String myLine = gameBoard[0][0] + gameBoard[0][2]+gameBoard[0][2];
                 //Creating a switch statement to go through the possible outcomes.
@@ -90,7 +88,7 @@ public class Proj6_2_TicTacToe {
                     return "Draw";
                 }
             }        
-        }
+
         //Printing the match is over.
         return "The match is over.";
     }
