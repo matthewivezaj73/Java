@@ -85,7 +85,7 @@ public class Proj6_2_TicTacToe {
                     //Handling the case where there is a draw.
                     else
                     {
-
+                        return "Draw";
                     }
                 }
             }        
