@@ -38,27 +38,7 @@ public class Proj6_2_TicTacToe {
             //Creating a variable.
             String myLine = gameBoard[0][0] + gameBoard[0][2]+gameBoard[0][3];
             //Creating a switch statement to go through the possible outcomes.
-            switch(myLine)
-            {
-                //Creating the first case.
-                case "0":
-                    //Creating a winning line.
-                    myLine = gameBoard[0][0] + gameBoard[0][2] + gameBoard[0][4];
-                    //Breaking out of the case.
-                    break;
-                //Creating the second case.
-                case "1":
-                    //Creating a winning line.
-                    myLine = gameBoard[2][0] + gameBoard[2][2] + gameBoard[2][4];
-                    //Breaking out of the case.
-                    break;
-                //Creating the third case.
-                case "2":
-                    //Creating a winning line.
-                    myLine = gameBoard[4][0] + gameBoard[4][2] + gameBoard[4][4];
-                    //Breaking out of the case.
-                    break;
-            }
+
             //Calling the makeAMovePlayerOne method.
             makeAMovePlayerOne(gameBoard);
             //Creating a try block to close handle any errors.
