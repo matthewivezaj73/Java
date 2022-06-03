@@ -74,7 +74,7 @@ public class Proj6_2_TicTacToe {
                     break;
                 }
                 //Handling the case where all of the entries are in the same alignment.
-                else if((gameBoard[][].equals("X") && gameBoard[][].equals("X") && gameBoard[][].equals("X")))
+                else if((gameBoard[4][0].equals("X") && gameBoard[2][2].equals("X") && gameBoard[0][4].equals("X")))
                 {
 
                 }
