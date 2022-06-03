@@ -93,8 +93,8 @@ public class Proj6_2_TicTacToe {
             //Adding catch for the exception of what to do when an error is found.
             catch(Exception e)
             {
-                //Printing a statement to notify the user that X cannot be founder at the position.
-                System.out.println("");
+                //Printing a statement to notify the user that X cannot be found at the position.
+                System.out.println("Sorry, but your token cannot be used, please try again.");
             }
             //Printing the gameBoard.
             printGameBoard(gameBoard);
