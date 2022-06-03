@@ -80,6 +80,7 @@ public class Proj6_2_TicTacToe {
                     System.out.println("Congratulations, Player One won the game!");
                 }
                 //Handling the case where all of the entries are in the same alignment.
+                else if((gameBoard[4][0].equals("X") && gameBoard[4][2].equals("X") && gameBoard[4][4].equals("X")))
             }
             //Adding catch for the exception of what to do when an error is found.
             catch(Exception e)
