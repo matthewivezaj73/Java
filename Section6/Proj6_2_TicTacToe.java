@@ -78,6 +78,7 @@ public class Proj6_2_TicTacToe {
                 {
                     //Printing out a message to the user saying that they won.
                     System.out.println("Congratulations, Player One won the game!");
+                    //Breaking out of the loop.
                 }
                 //Handling the case where all of the entries are in the same alignment.
                 else if((gameBoard[4][0].equals("X") && gameBoard[4][2].equals("X") && gameBoard[4][4].equals("X")))
