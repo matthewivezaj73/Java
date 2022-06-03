@@ -310,14 +310,4 @@ public class Proj6_2_TicTacToe {
             }
         }
     }
-    //Creating a method to check if the player has won.
-    public static void youHaveWon(String[][] gameBoard)
-    {
-        //Printing the very first value to test the method.
-        if(gameBoard[0][0] == "X")
-        {
-            //Printing out the value.
-            System.out.println();
-        }
-    }
 }
