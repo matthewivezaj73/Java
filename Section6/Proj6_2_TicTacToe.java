@@ -79,6 +79,7 @@ public class Proj6_2_TicTacToe {
                     //Printing out a message to the user saying that they won.
                     System.out.println("Congratulations, Player One won the game!");
                 }
+                //Handling the case where all of the entries are in the same alignment.
             }
             //Adding catch for the exception of what to do when an error is found.
             catch(Exception e)
