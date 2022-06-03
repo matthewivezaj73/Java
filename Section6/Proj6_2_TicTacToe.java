@@ -75,6 +75,9 @@ public class Proj6_2_TicTacToe {
                 }
                 //Handling the case where all of the entries are in the same alignment.
                 else if((gameBoard[][].equals("X") && gameBoard[][] && gameBoard[][]))
+                {
+                    
+                }
             }
             //Adding catch for the exception of what to do when an error is found.
             catch(Exception e)
