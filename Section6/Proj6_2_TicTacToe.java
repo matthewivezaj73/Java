@@ -37,8 +37,6 @@ public class Proj6_2_TicTacToe {
             placeCounter = placeCounter + 1;
             //Creating a variable.
             String myLine = gameBoard[0][0] + gameBoard[0][2]+gameBoard[0][3];
-            //Creating a switch statement to go through the possible outcomes.
-
             //Calling the makeAMovePlayerOne method.
             makeAMovePlayerOne(gameBoard);
             //Creating a try block to close handle any errors.
