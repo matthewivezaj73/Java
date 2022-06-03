@@ -138,6 +138,7 @@ public class Proj6_2_TicTacToe {
             catch(Exception e)
             {
                 //Printing a message to tell the user that the move is not valid.
+                System.out.println("Sorry, but that move is not valid.");
             }
             //Printing the game board.
             printGameBoard(gameBoard);
