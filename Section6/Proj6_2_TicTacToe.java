@@ -143,6 +143,10 @@ public class Proj6_2_TicTacToe {
                 }
             }
             //Creating a catch block.
+            catch(Exception e)
+            {
+                
+            }
             //Printing the game board.
             printGameBoard(gameBoard);
         }        
