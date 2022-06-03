@@ -63,7 +63,7 @@ public class Proj6_2_TicTacToe {
             makeAMovePlayerOne(gameBoard);
             //Creating a try block to close handle any errors.
             try{
-                //Handling the case where all of the entries across a line are the same.
+                //Handling the case where all of the entries are in the same alignment.
                 if(gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X") && gameBoard[0][4].equals("X"))
                 {
                     //Printing out a message to the user saying that they won.
