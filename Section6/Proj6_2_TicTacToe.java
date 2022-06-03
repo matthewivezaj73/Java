@@ -61,43 +61,6 @@ public class Proj6_2_TicTacToe {
             }
             //Calling the makeAMovePlayerOne method.
             makeAMovePlayerOne(gameBoard);
-            //Creating a try block to close handle any errors.
-            try{
-                //Handling the case where all of the entries are in the same alignment.
-                if(gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X") && gameBoard[0][4].equals("X"))
-                {
-                    //Printing out a message to the user saying that they won.
-                    System.out.println("Congratulations, Player One has won the game!");
-                    //Breaking out of the loop.
-                    break;
-                }
-                //Handling the case where all of the entries are in the same alignment.
-                else if(gameBoard[0][0].equals("X") && gameBoard[2][0].equals("X") && gameBoard[4][0].equals("X"))
-                {
-                    //Printing out a message to the user saying that they won.
-                    System.out.println("Congratulations, Player One has won the game!");
-                    //Breaking out of the loop.
-                    break;
-                }
-                //Handling the case where all of the entries are in the same alignment.
-                else if(gameBoard[2][0].equals("X") && gameBoard[2][2].equals("X") && gameBoard[2][4].equals("X"))
-                {
-                    //Printing out a message to the user saying that they won.
-                    System.out.println("Congratulations, Player One has won the game!");
-                    //Breaking out of the loop.
-                    break;
-                }
-            }
-            //Adding catch for the exception of what to do when an error is found.
-            catch(Exception e)
-            {
-                //Printing a statement to notify the user that X cannot be founder at the position.
-                System.out.println("");
-            }
-            //Printing the gameBoard.
-            printGameBoard(gameBoard);
-            //Calling the makeAMovePlayerTwo method.
-            makeAMovePlayerTwo(gameBoard);
             //Inserting a try block under the move player two will make.
             try
             {
@@ -140,6 +103,44 @@ public class Proj6_2_TicTacToe {
                 //Printing a message to tell the user that the move is not valid.
                 System.out.println("Sorry, but that move is not valid.");
             }
+            //Creating a try block to close handle any errors.
+            // try{
+            //     //Handling the case where all of the entries are in the same alignment.
+            //     if(gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X") && gameBoard[0][4].equals("X"))
+            //     {
+            //         //Printing out a message to the user saying that they won.
+            //         System.out.println("Congratulations, Player One has won the game!");
+            //         //Breaking out of the loop.
+            //         break;
+            //     }
+            //     //Handling the case where all of the entries are in the same alignment.
+            //     else if(gameBoard[0][0].equals("X") && gameBoard[2][0].equals("X") && gameBoard[4][0].equals("X"))
+            //     {
+            //         //Printing out a message to the user saying that they won.
+            //         System.out.println("Congratulations, Player One has won the game!");
+            //         //Breaking out of the loop.
+            //         break;
+            //     }
+            //     //Handling the case where all of the entries are in the same alignment.
+            //     else if(gameBoard[2][0].equals("X") && gameBoard[2][2].equals("X") && gameBoard[2][4].equals("X"))
+            //     {
+            //         //Printing out a message to the user saying that they won.
+            //         System.out.println("Congratulations, Player One has won the game!");
+            //         //Breaking out of the loop.
+            //         break;
+            //     }
+            // }
+            //Adding catch for the exception of what to do when an error is found.
+            // catch(Exception e)
+            // {
+            //     //Printing a statement to notify the user that X cannot be founder at the position.
+            //     System.out.println("");
+            // }
+            //Printing the gameBoard.
+            printGameBoard(gameBoard);
+            //Calling the makeAMovePlayerTwo method.
+            makeAMovePlayerTwo(gameBoard);
+
             //Printing the game board.
             printGameBoard(gameBoard);
         }        
