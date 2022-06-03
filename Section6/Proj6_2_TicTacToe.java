@@ -149,6 +149,7 @@ public class Proj6_2_TicTacToe {
                 {
                     //Printing out a messge to the user saying that they won.
                     System.out.println("Congratulations, Player Two has won the game!");
+                    //Breaking out of the loop.
                 }
             }
             //Creating a catch block.
