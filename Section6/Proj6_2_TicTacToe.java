@@ -71,6 +71,7 @@ public class Proj6_2_TicTacToe {
                     //Breaking out of the loop.
                     break;
                 }
+                //Handling the case where all of the entries are in the same alignment.
                 else if(gameBoard[0][0].equals("X") && gameBoard[2][0].equals("X") && gameBoard[4][0].equals("X"))
                 {
                     //Printing out a message to the user saying that they won.
