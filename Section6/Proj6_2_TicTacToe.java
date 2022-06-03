@@ -109,6 +109,38 @@ public class Proj6_2_TicTacToe {
             //Inserting a try block under the move player two will make.
             try
             {
+                //Handling the case where all of the entries are in the same alignment.
+                else if(gameBoard[0][0].equals("O") && gameBoard[0][2].equals("O") && gameBoard[0][4].equals("O"))
+                {
+                    //Printing out a message to the user saying that they won.
+                    System.out.println("Congratulations, Player Two has won the game!");
+                    //Breaking out of the loop.
+                    break;
+                }
+                //Handling the case where all of the entries are in the same alignment.
+                else if(gameBoard[0][0].equals("O") && gameBoard[2][0].equals("O") && gameBoard[4][0].equals("O"))
+                {
+                    //Printing out a message to the user saying that they won.
+                    System.out.println("Congratulations, Player Two has won the game!");
+                    //Breaking out of the loop.
+                    break;
+                }
+                //Handling the case where all of the entries are in the same alignment.
+                else if(gameBoard[2][0].equals("O") && gameBoard[2][2].equals("O") && gameBoard[2][4].equals("O"))
+                {
+                    //Printing out a message to the user saying that they won.
+                    System.out.println("Congratulations, Player Two has won the game!");
+                    //Breaking out of the loop.
+                    break;
+                }
+                //Handling the case where all of the entries are in the same alignment.
+                else if(gameBoard[4][0].equals("O") && gameBoard[4][2].equals("O" ) && gameBoard[4][4].equals("O"))
+                {
+                    //Printing out a message to the user saying that they won.
+                    System.out.println("Congratulations, Player Two has won the game!");
+                    //Breaking out of the loop.
+                    break;
+                }
                 
             }
             //Printing the game board.
