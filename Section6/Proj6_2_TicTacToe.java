@@ -148,6 +148,7 @@ public class Proj6_2_TicTacToe {
         Scanner keyboard = new Scanner(System.in);
         //Adding some padding.
         System.out.println("\n");
+        //Adding a message stating player one is up.
         System.out.println("\n");
         System.out.println("\n");
         //Asking the user to add a column they would like to enter their counter in.
