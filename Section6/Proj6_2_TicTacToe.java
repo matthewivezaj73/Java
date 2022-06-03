@@ -97,12 +97,6 @@ public class Proj6_2_TicTacToe {
             printGameBoard(gameBoard);
             //Calling the makeAMovePlayerTwo method.
             makeAMovePlayerTwo(gameBoard);
-            //Catch block.
-            catch(Exception e)
-            {
-                //Printing a message to the user.
-                System.out.println("");
-            }
             //Printing the game board.
             printGameBoard(gameBoard);
         }        
