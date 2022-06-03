@@ -137,7 +137,7 @@ public class Proj6_2_TicTacToe {
             //Adding a catch block.
             catch(Exception e)
             {
-                
+                //Printing a message to tell the user that the move is not valid.
             }
             //Printing the game board.
             printGameBoard(gameBoard);
