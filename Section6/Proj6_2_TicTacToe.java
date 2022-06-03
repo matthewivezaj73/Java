@@ -110,6 +110,7 @@ public class Proj6_2_TicTacToe {
                     //Breaking out of the loop.
                     break;
                 }
+                //Handling the case where all of the entries are in the same alignment.
             }
             //Adding catch for the exception of what to do when an error is found.
             catch(Exception e)
