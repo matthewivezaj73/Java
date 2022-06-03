@@ -99,6 +99,8 @@ public class Proj6_2_TicTacToe {
             //Calling the makeAMovePlayerTwo method.
             makeAMovePlayerTwo(gameBoard);
             //Inserting a try block under the move player two will make.
+            try
+            {
                 //Handling the case where all of the entries are in the same alignment.
                 if(gameBoard[0][0].equals("O") && gameBoard[0][2].equals("O") && gameBoard[0][4].equals("O"))
                 {
@@ -131,7 +133,7 @@ public class Proj6_2_TicTacToe {
                     //Breaking out of the loop.
                     break;
                 }
-        
+            }
             //Printing the game board.
             printGameBoard(gameBoard);
         }        
