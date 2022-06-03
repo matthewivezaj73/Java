@@ -140,6 +140,7 @@ public class Proj6_2_TicTacToe {
                 else if(gameBoard[0][0].equals("O") && gameBoard[2][2].equals("O") && gameBoard[4][4].equals("O"))
                 {
                     //Printing out a message to the user saying that they won.
+                    System.out.println("Congratulations, Player Two has won the game!");
                 }
             }
             //Creating a catch block.
