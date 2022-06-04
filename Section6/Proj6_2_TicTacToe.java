@@ -34,7 +34,7 @@ public class Proj6_2_TicTacToe {
         while(placeCounter < 100)
         {
             //Printing a piece of the gameboard for testing.
-            System.out.println(gameBoard[4][0]);
+            
             //Incrementing placeCounter.
             placeCounter = placeCounter + 1;
             //Calling the makeAMovePlayerOne method.
