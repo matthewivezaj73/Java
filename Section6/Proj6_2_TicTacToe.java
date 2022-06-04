@@ -90,6 +90,10 @@ public class Proj6_2_TicTacToe {
             for(String[] myBoard: gameBoard)
             {
                 //Creating an embedded enhanced for loop.
+                for(String Board: myBoard)
+                {
+                    
+                }
             }
             //Printing the gameBoard.
             printGameBoard(gameBoard);
