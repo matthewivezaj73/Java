@@ -100,9 +100,6 @@ public class Proj6_2_TicTacToe {
             printGameBoard(gameBoard);
             //Calling the makeAMovePlayerTwo method.
             makeAMovePlayerTwo(gameBoard);
-            /*
-             * NOT SURE WHY I NEED A SEPERATE IF WHEN I HAVE THE LOGICAL OR IN THE INITIAL IF, BUT IT ONLY WORKS IF THIS IS BELOW, WILL NEED TO FIND OUT WHY.
-             */
             //Inserting a try block under the move player two will make.
             try
             {
