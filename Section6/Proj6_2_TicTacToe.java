@@ -35,8 +35,6 @@ public class Proj6_2_TicTacToe {
         {
             //Incrementing placeCounter.
             placeCounter = placeCounter + 1;
-            //Passing a cell to a variable.
-            String gamePiece = gameBoard[4][2];
             //Calling the makeAMovePlayerOne method.
             makeAMovePlayerOne(gameBoard);
             //Handling the case where all of the entries are in the same alignment.
