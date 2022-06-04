@@ -162,12 +162,6 @@ public class Proj6_2_TicTacToe {
                     break;
                 }
 
-            //Creating a catch block.
-            catch(Exception e)
-            {
-                //Printing a message to the user.
-                System.out.println("Sorry, but that move is unavailable.");
-            }
             //Printing the game board.
             printGameBoard(gameBoard);
         }        
