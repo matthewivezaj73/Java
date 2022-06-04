@@ -40,7 +40,7 @@ public class Proj6_2_TicTacToe {
             //Calling the makeAMovePlayerOne method.
             makeAMovePlayerOne(gameBoard);
             //Creating a try block to close handle any errors.
-            try{
+            // try{
                 //Handling the case where all of the entries are in the same alignment.
                 if((gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X") && gameBoard[0][4].equals("X")) || (gameBoard[0][0].equals("O") && gameBoard[0][2].equals("O") && gameBoard[0][4].equals("O")))
                 {
@@ -89,7 +89,7 @@ public class Proj6_2_TicTacToe {
                     //Breaking out of the loop.
                     break;
                 }
-            }
+            // }
             //Adding catch for the exception of what to do when an error is found.
             catch(Exception e)
             {
