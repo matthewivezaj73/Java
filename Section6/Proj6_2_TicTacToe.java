@@ -155,13 +155,13 @@ public class Proj6_2_TicTacToe {
                 //FOR SOME REASON IT IS NOT READING THE ONE BELOW, I NEED TO INVESTIGATE WHY THIS MAY BE HAPPENING.
 
                 //Handling the case where all of the entries are in the same alignment.
-                else if
-                {
-                    //Printing out a messge to the user saying that they won.
-                    System.out.println("Congratulations, Player Two has won the game!");
-                    //Breaking out of the loop.
-                    break;
-                }
+                // else if
+                // {
+                //     //Printing out a messge to the user saying that they won.
+                //     System.out.println("Congratulations, Player Two has won the game!");
+                //     //Breaking out of the loop.
+                //     break;
+                // }
             }
             //Creating a catch block.
             catch(Exception e)
