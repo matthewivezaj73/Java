@@ -86,7 +86,7 @@ public class Proj6_2_TicTacToe {
                 //Breaking out of the loop.
                 break;
             }
-            //Creating a for loop.
+            //Creating an enhanced for loop.
             for(String[] x: gameBoard)
             {
 
