@@ -39,8 +39,6 @@ public class Proj6_2_TicTacToe {
             String myLine = gameBoard[0][0] + gameBoard[0][2]+gameBoard[0][3];
             //Calling the makeAMovePlayerOne method.
             makeAMovePlayerOne(gameBoard);
-            //Creating a try block to close handle any errors.
-            // try{
             //Handling the case where all of the entries are in the same alignment.
             if((gameBoard[0][0].equals("X") && gameBoard[0][2].equals("X") && gameBoard[0][4].equals("X")) || (gameBoard[0][0].equals("O") && gameBoard[0][2].equals("O") && gameBoard[0][4].equals("O")))
             {
