@@ -151,6 +151,10 @@ public class Proj6_2_TicTacToe {
                 break;
             }
             //Adding an else clause.
+            else
+            {
+                
+            }
             //Printing the game board.
             printGameBoard(gameBoard);
         }        
