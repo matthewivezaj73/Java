@@ -153,7 +153,7 @@ public class Proj6_2_TicTacToe {
             //Adding an else clause.
             else
             {
-                
+                //Handling the case where anything else happens.
             }
             //Printing the game board.
             printGameBoard(gameBoard);
