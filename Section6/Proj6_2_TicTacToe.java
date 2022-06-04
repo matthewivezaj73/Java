@@ -145,10 +145,13 @@ public class Proj6_2_TicTacToe {
             //Handling the case where all of the entries are in the same alignment.
             else if(gameBoard[4][4].equals("O"))
             {
-                //Printing out a messge to the user saying that they won.
-                System.out.println("Congratulations, Player Two has won the game!");
-                //Breaking out of the loop.
-                break;
+                if(gameBoard[4][2].equals("O"))
+                {
+                    //Printing out a messge to the user saying that they won.
+                    System.out.println("Congratulations, Player Two has won the game!");
+                    //Breaking out of the loop.
+                    break;
+                }
             }
             //Adding an else clause.
             else
