@@ -154,6 +154,7 @@ public class Proj6_2_TicTacToe {
             else
             {
                 //Handling the case where anything else happens.
+                System.out.println("Sorry, an error has happend.");
             }
             //Printing the game board.
             printGameBoard(gameBoard);
