@@ -86,15 +86,7 @@ public class Proj6_2_TicTacToe {
                 //Breaking out of the loop.
                 break;
             }
-            //Creating an enhanced for loop.
-            for(String[] myBoard: gameBoard)
-            {
-                //Creating an embedded enhanced for loop.
-                for(String Board: myBoard)
-                {
-                    
-                }
-            }
+            
             //Printing the gameBoard.
             printGameBoard(gameBoard);
             //Calling the makeAMovePlayerTwo method.
