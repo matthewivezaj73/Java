@@ -82,6 +82,7 @@ public class Proj6_2_TicTacToe {
             else if(gameBoard[4][4].equals("X") )
             {
                 //Printing gameBoard[4][4].
+                System.out.println(gameBoard[4][4]);
                 //Printing out a message to the user saying that they won.
                 System.out.println("Congratulations, Player One has won the game!");
                 //Breaking out of the loop.
