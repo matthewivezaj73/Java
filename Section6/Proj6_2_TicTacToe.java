@@ -139,7 +139,6 @@ public class Proj6_2_TicTacToe {
                 //Breaking out of the loop.
                 break;
             }
-
             //Printing the game board.
             printGameBoard(gameBoard);
         }        
