@@ -87,7 +87,7 @@ public class Proj6_2_TicTacToe {
                 break;
             }
             //Creating an enhanced for loop.
-            for(String[] x: gameBoard)
+            for(String[] myBoard: gameBoard)
             {
                 //Creating an embedded enhanced for loop.
             }
