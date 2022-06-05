@@ -6,4 +6,8 @@ public class House {
     private String color;
 
     //Creating a method.
+    public int getNumStories()
+    {
+        
+    }
 }
