@@ -4,4 +4,6 @@ public class House {
     private int numStories;
     private int numWindows;
     private String color;
+
+    //Creating a method.
 }
