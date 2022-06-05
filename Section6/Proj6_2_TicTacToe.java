@@ -72,7 +72,7 @@ public class Proj6_2_TicTacToe {
                 System.out.println("Congratulations, Player One has won the game!");
                 //Breaking out of the loop.
                 }
-                break;
+                
             }
 
 
