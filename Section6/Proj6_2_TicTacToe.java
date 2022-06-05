@@ -54,7 +54,7 @@ public class Proj6_2_TicTacToe {
                 break;
             }
             //Handling the case where all of the entries are in the same alignment.
-            else if(gameBoard[2][0].equals("X") && gameBoard[2][2].equals("X") && gameBoard[2][4].equals("X") || (gameBoard[2][2].equals("O") ))
+            else if(gameBoard[2][2].equals("X") || (gameBoard[2][2].equals("O") ))
             {
                 //Printing out a message to the user saying that they won.
                 System.out.println("Congratulations, Player One has won the game!");
@@ -106,7 +106,7 @@ public class Proj6_2_TicTacToe {
                 break;
             }
             //Handling the case where all of the entries are in the same alignment.
-            else if(gameBoard[2][0].equals("O") )
+            else if(gameBoard[2][0].equals("O") && gameBoard[2][2].equals("O") && gameBoard[2][4].equals("O"))
             {
                 //Printing out a message to the user saying that they won.
                 System.out.println("Congratulations, Player Two has won the game!");
