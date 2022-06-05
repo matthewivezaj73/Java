@@ -8,6 +8,6 @@ public class House {
     //Creating a method.
     public int getNumStories()
     {
-        
+        //Returning one of our private variables.
     }
 }
