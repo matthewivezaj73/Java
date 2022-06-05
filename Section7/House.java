@@ -2,4 +2,5 @@
 public class House {
     //Creating private integers.
     private int numStories;
+    private int numWindows;
 }
