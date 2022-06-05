@@ -30,7 +30,6 @@ public class Proj6_2_TicTacToe {
     {
         //Creating an int.
         int placeCounter = 0;
-        //Creating a placeholder.
         //Creating a while loop.
         while(placeCounter < 100)
         {
