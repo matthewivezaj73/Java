@@ -77,7 +77,6 @@ public class Proj6_2_TicTacToe {
                 //Breaking out of the loop.
                 break;
             }
-            // && gameBoard[4][2].equals("X") && gameBoard[4][4].equals("X") || gameBoard[4][0].equals("O") && gameBoard[4][2].equals("O") && gameBoard[4][4].equals("O")
             //Handling the case where all of the entries are in the same alignment.
             if((gameBoard[4][0].equals("X") && gameBoard[4][4].equals("X")) && (gameBoard[4][4].equals("X") && gameBoard[4][2].equals("X")))
             {
