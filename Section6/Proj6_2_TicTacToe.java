@@ -86,7 +86,6 @@ public class Proj6_2_TicTacToe {
                 //Breaking out of the loop.
                 break;
             }
-            
             //Printing the gameBoard.
             printGameBoard(gameBoard);
             //Calling the makeAMovePlayerTwo method.
