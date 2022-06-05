@@ -113,7 +113,7 @@ public class Proj6_2_TicTacToe {
             //Calling the makeAMovePlayerTwo method.
             makeAMovePlayerTwo(gameBoard);
             //Handling the case where all of the entries are in the same alignment.
-            if(gameBoard[0][0].equals("O") && gameBoard[0][2].equals("O") && gameBoard[0][4].equals("O"))
+            else if(gameBoard[0][0].equals("O") && gameBoard[0][2].equals("O") && gameBoard[0][4].equals("O"))
             {
                 //Printing out a message to the user saying that they won.
                 System.out.println("Congratulations, Player Two has won the game!");
