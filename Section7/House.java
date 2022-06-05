@@ -11,4 +11,5 @@ public class House {
         //Returning one of our private variables.
         return numStories;
     }
+    //Creating a method.
 }
