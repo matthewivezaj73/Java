@@ -9,5 +9,6 @@ public class House {
     public int getNumStories()
     {
         //Returning one of our private variables.
+        return numStories;
     }
 }
