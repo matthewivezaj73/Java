@@ -64,10 +64,10 @@ public class Proj6_2_TicTacToe {
             //Printing out the code located in 22.
             System.out.println(gameBoard[2][2]);
             //Handling the case where all of the entries are in the same alignment.
-            if((gameBoard[2][4].equals("X") && gameBoard[2][2].equals("X")))
+            if((gameBoard[2][4].equals("X") && gameBoard[2][2] == "X"))
             {
                 //Printing out a message to the user saying that they won.
-                // System.out.println("Congratulations, Player One has won the game!");
+                System.out.println("Congratulations, Player One has won the game!");
                 //Breaking out of the loop.
                 break;
             }
@@ -102,7 +102,7 @@ public class Proj6_2_TicTacToe {
 
 
             //Handling the case where all of the entries are in the same alignment.
-            else if((gameBoard[4][4].equals("X") && (gameBoard[4][(5-1)].equals("X") )))
+            else if((gameBoard[4][4].equals("X") && ((gameBoard[4][2].equals("X") && (gameBoard[4][0].equals("X")) || (gameBoard[4][0].equals("O") && gameBoard[4][4].equals("O")) && (gameBoard[4][4].equals("O") && gameBoard[4][2].equals("O"))))))
             {
                 //Printing out a message to the user saying that they won.
                 System.out.println("Congratulations, Player One has won the game!");
