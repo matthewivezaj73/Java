@@ -53,34 +53,14 @@ public class Proj6_2_TicTacToe {
                 //Breaking out of the loop.
                 break;
             }
-
-
-
-            //ISSUE WITH CHOICE BELOW
-
-
-
-
-            //Printing out the code located in 22.
-            System.out.println(gameBoard[2][2]);
             //Handling the case where all of the entries are in the same alignment.
-            if((gameBoard[2][4].equals("X") && gameBoard[2][0].equals("X")))
+            else if(gameBoard[2][0]=="X" && gameBoard[2][2].equals("X") && gameBoard[2][4]=="X" || (gameBoard[2][2].equals("O") ))
             {
                 //Printing out a message to the user saying that they won.
                 System.out.println("Congratulations, Player One has won the game!");
                 //Breaking out of the loop.
                 break;
             }
-
-
-
-
-
-
-
-
-
-
             //Handling the case where all of the entries are in the same alignment.
             else if(gameBoard[0][0].equals("X") && gameBoard[2][2].equals("X") && gameBoard[4][4].equals("X") || (gameBoard[0][0].equals("O") && gameBoard[2][2].equals("O") && gameBoard[4][4].equals("O")))
             {
@@ -89,15 +69,22 @@ public class Proj6_2_TicTacToe {
                 //Breaking out of the loop.
                 break;
             }
-            if(gameBoard[4][0].equals("X") && (gameBoard[4][4].equals("X") && gameBoard[4][2].equals("X")))
+            //Handling the case where all of the entries are in the same alignment.
+            else if(gameBoard[4][0].equals("X") && gameBoard[2][2].equals("X") && gameBoard[0][4].equals("X") || gameBoard[4][0].equals("O") && gameBoard[2][2].equals("O") && gameBoard[0][4].equals("O"))
+            {
+                //Printing out a message to the user saying that they won.
+                System.out.println("Congratulations, Player One won the game!");
+                //Breaking out of the loop.
+                break;
+            }
+            //Handling the case where all of the entries are in the same alignment.
+            if((gameBoard[4][0].equals("X") && gameBoard[4][4].equals("X")) && (gameBoard[4][4].equals("X") && gameBoard[4][2].equals("X")) || (gameBoard[4][0].equals("O") && gameBoard[4][4].equals("O")) && (gameBoard[4][4].equals("O") && gameBoard[4][2].equals("O")))
             {
                 //Printing out a message to the user saying that they won.
                 System.out.println("Congratulations, Player One has won the game!");
-
-            //Need to fix this below.
-
-
-            
+                //Breaking out of the loop.
+                break;
+            }
             //Printing the gameBoard.
             printGameBoard(gameBoard);
             //Calling the makeAMovePlayerTwo method.
@@ -152,7 +139,7 @@ public class Proj6_2_TicTacToe {
             printGameBoard(gameBoard);
         }        
         //Printing the match is over.
-        return "";
+        return "The match is over.";
     }
     //Creating a method to allow the players to make their move.
     public static void makeAMovePlayerOne(String[][] gameBoard)
