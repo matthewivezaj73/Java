@@ -89,14 +89,10 @@ public class Proj6_2_TicTacToe {
                 //Breaking out of the loop.
                 break;
             }
-            //Handling the case where all of the entries are in the same alignment.
-            else if((gameBoard[4][4] == "X") && (gameBoard[4][0].equals("X")))
+            if(gameBoard[4][0].equals("X") && (gameBoard[4][4].equals("X") && gameBoard[4][2].equals("X")))
             {
                 //Printing out a message to the user saying that they won.
-                System.out.println("Congratulations, Player One won the game!");
-                //Breaking out of the loop.
-                break;
-            }
+                System.out.println("Congratulations, Player One has won the game!");
 
             //Need to fix this below.
 
@@ -156,7 +152,7 @@ public class Proj6_2_TicTacToe {
             printGameBoard(gameBoard);
         }        
         //Printing the match is over.
-        return "The match is over.";
+        return "";
     }
     //Creating a method to allow the players to make their move.
     public static void makeAMovePlayerOne(String[][] gameBoard)
