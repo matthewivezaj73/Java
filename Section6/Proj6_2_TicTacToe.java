@@ -62,6 +62,7 @@ public class Proj6_2_TicTacToe {
 
 
             //Printing out the code located in 22.
+            System.out.println(gameBoard[2][2]);
             //Handling the case where all of the entries are in the same alignment.
             if((gameBoard[2][4].equals("X") && gameBoard[2][2] == "X"))
             {
