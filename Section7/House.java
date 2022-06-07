@@ -4,5 +4,6 @@ public class House {
     public static void main(String[]args)
     {
         //Creating an object.
+        House myHouse = new House();
     }
 }
