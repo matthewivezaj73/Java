@@ -9,5 +9,6 @@ public class House {
         House yourHouse = new House();
         //Calling methods from another file.
         myHouse.setNumStories(2);
+        myHouse.setNumWindows
     }
 }
