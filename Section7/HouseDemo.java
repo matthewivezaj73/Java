@@ -24,4 +24,5 @@ public class HouseDemo {
         //Returning numWindows.
         return numWindows;
     }
+    //Creating a method.
 }
