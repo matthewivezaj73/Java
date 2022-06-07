@@ -28,5 +28,6 @@ public class HouseDemo {
     public int setNumWindows(int numWindows)
     {
         //Referencing the current object.
+        this.numWindows = numWindows;
     }
 }
