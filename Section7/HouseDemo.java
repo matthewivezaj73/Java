@@ -40,5 +40,6 @@ public class HouseDemo {
     public void setColor(String color)
     {
         //Referencing the current object.
+        this.color = color;
     }
 }
