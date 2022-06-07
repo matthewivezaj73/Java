@@ -15,5 +15,6 @@ public class House {
         yourHouse.setNumStories(3);
         yourHouse.setNumWindows(10);
         yourHouse.setColor("blue");
+        //Printing a method to the user.
     }
 }
