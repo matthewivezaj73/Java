@@ -39,6 +39,6 @@ public class HouseDemo {
     //Creating a method.
     public void setColor(String color)
     {
-        
+        //Referencing the current object.
     }
 }
