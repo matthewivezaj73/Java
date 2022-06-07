@@ -14,6 +14,6 @@ public class HouseDemo {
     //Creating a method.
     public void setNumStories()
     {
-        
+        this.numStories = numStories;
     }
 }
