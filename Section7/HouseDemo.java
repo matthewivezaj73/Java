@@ -31,4 +31,8 @@ public class HouseDemo {
         this.numWindows = numWindows;
     }
     //Creating a method.
+    public string getColor()
+    {
+        
+    }
 }
