@@ -5,5 +5,6 @@ public class House {
     {
         //Creating an object.
         House myHouse = new House();
+        //Creating another object.
     }
 }
