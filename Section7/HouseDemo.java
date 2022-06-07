@@ -27,6 +27,6 @@ public class HouseDemo {
     //Creating a method.
     public int setNumWindows(int numWindows)
     {
-        
+        //Referencing the current object.
     }
 }
