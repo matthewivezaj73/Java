@@ -63,7 +63,7 @@ public class Proj6_2_TicTacToe {
 
 
             //Handling the case where all of the entries are in the same alignment.
-            if((gameBoard[2][0].equals("X")))
+            if((gameBoard[2][2].equals("X")))
             {
                 //Printing out a message to the user saying that they won.
                 System.out.println("Congratulations, Player One has won the game!");
