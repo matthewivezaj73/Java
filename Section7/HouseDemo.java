@@ -37,4 +37,8 @@ public class HouseDemo {
         return color;
     }
     //Creating a method.
+    public void setColor(String color)
+    {
+        
+    }
 }
