@@ -12,5 +12,6 @@ public class House {
         myHouse.setNumWindows(6);
         //Calling methods from another file.
         yourHouse.setNumStories(3);
+        yourHouse.setNumWindows(10);
     }
 }
