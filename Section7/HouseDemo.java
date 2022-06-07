@@ -34,5 +34,6 @@ public class HouseDemo {
     public String getColor()
     {
         //Returning color.
+        return color;
     }
 }
