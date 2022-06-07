@@ -33,6 +33,6 @@ public class HouseDemo {
     //Creating a method.
     public String getColor()
     {
-
+        //Returning color.
     }
 }
