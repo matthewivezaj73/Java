@@ -25,7 +25,7 @@ public class HouseDemo {
         return numWindows;
     }
     //Creating a method.
-    public int setNumWindows(int numWindows)
+    public void setNumWindows(int numWindows)
     {
         //Referencing the current object.
         this.numWindows = numWindows;
