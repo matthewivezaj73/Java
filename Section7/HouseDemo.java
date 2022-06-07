@@ -25,4 +25,8 @@ public class HouseDemo {
         return numWindows;
     }
     //Creating a method.
+    public int setNumWindows(int numWindows)
+    {
+        
+    }
 }
