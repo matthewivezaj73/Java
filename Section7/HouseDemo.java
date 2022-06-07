@@ -30,4 +30,5 @@ public class HouseDemo {
         //Referencing the current object.
         this.numWindows = numWindows;
     }
+    //Creating a method.
 }
