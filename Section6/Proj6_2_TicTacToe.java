@@ -53,12 +53,6 @@ public class Proj6_2_TicTacToe {
                 //Breaking out of the loop.
                 break;
             }
-
-
-
-
-
-
             //Handling the case where all of the entries are in the same alignment.
             else if((gameBoard[2][2].equals("X")))
             {
