@@ -12,4 +12,8 @@ public class HouseDemo {
         return numStories;
     }
     //Creating a method.
+    public void setNumStories()
+    {
+        
+    }
 }
