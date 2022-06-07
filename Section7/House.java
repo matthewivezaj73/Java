@@ -7,5 +7,6 @@ public class House {
         House myHouse = new House();
         //Creating another object.
         House yourHouse = new House();
+        //Calling methods from another file.
     }
 }
