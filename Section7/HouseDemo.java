@@ -36,4 +36,5 @@ public class HouseDemo {
         //Returning color.
         return color;
     }
+    //Creating a method.
 }
