@@ -21,6 +21,6 @@ public class HouseDemo {
     //Creating a method.
     public int getNumWindows()
     {
-        
+        //Returning numWindows.
     }
 }
