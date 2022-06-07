@@ -14,6 +14,7 @@ public class HouseDemo {
     //Creating a method.
     public void setNumStories()
     {
+        //Referencing the current object.
         this.numStories = numStories;
     }
 }
