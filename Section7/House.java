@@ -10,6 +10,7 @@ public class House {
         //Calling methods from another file.
         myHouse.setNumStories(2);
         myHouse.setNumWindows(6);
+        myHouse.setColor("red");
         //Calling methods from another file.
         yourHouse.setNumStories(3);
         yourHouse.setNumWindows(10);
