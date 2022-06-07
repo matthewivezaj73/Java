@@ -1,5 +1,5 @@
 //Creating a public class.
-public class HouseDemo {
+public class House {
     //Creating private variables.
     private int numStories;
     private int numWindows;
