@@ -56,9 +56,6 @@ public class Proj6_2_TicTacToe {
 
 
 
-            //ISSUE WITH CHOICE BELOW
-
-
 
 
 
