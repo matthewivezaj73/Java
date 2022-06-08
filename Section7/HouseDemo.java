@@ -9,7 +9,7 @@ public class HouseDemo {
         System.out.println(color);
         //Setting parameters.
         myHouse.setNumStories(20);
-        myHouse.setNumWindows(6);
+        myHouse.setNumWindows(16);
         myHouse.setColor("red");
 
     }
