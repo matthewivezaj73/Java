@@ -5,6 +5,10 @@ public class House {
     private int numWindows;
     private String color;
     //Creating a no-org constructor.
+    public House()
+    {
+        
+    }
     //Creating a method.
     public int getNumStories()
     {
