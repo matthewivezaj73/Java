@@ -10,6 +10,7 @@ public class House {
         //Assigning values to variables.
         numStories = 1;
         numWindows = 4;
+        color = "gray";
     }
     //Creating a method.
     public int getNumStories()
