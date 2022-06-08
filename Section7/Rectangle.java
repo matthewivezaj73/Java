@@ -9,5 +9,9 @@ public class Rectangle {
         //Creating a static field.
         private static int numRectangles;
         //Creating a constructor.
+        public Rectangle()
+        {
+            
+        }
     }
 }
