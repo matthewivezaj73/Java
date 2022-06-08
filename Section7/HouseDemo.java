@@ -8,7 +8,7 @@ public class HouseDemo {
         //Printing out the color.
         System.out.println(color);
         //Setting parameters.
-        myHouse.setNumStories(2);
+        myHouse.setNumStories(20);
         myHouse.setNumWindows(6);
         myHouse.setColor("red");
 
