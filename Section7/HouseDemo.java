@@ -3,6 +3,7 @@ public class HouseDemo {
     //Creating a method.
     public static int printHouseData(House myHouse)
     {
+        //Creating a string named color and assigning it a value.
         String color = "Green";
         //Printing out the color.
         System.out.println(color);
