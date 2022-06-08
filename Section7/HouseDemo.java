@@ -1,9 +1,9 @@
 //Creating a public class.
 public class HouseDemo {
     //Creating a method.
-    public printHouseData()
+    public int printHouseData()
     {
-        
+
     }
     //Creating a method.
     public static void main(String[]args)
