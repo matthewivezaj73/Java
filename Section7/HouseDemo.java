@@ -12,9 +12,9 @@ public class HouseDemo {
         myHouse.setNumWindows(6);
         myHouse.setColor("red");
         //Calling methods from another file.
-        yourHouse.setNumStories(3);
-        yourHouse.setNumWindows(10);
-        yourHouse.setColor("blue");
+        // yourHouse.setNumStories(3);
+        // yourHouse.setNumWindows(10);
+        // yourHouse.setColor("blue");
         //Printing a method to the user.
         System.out.println("My house is " + myHouse.getColor() + " and has " + myHouse.getNumStories() + " stories and " + myHouse.getNumWindows() + " windows.\n");
         //Printing a method to the user.
