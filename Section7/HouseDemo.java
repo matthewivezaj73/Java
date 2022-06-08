@@ -3,7 +3,7 @@ public class HouseDemo {
     //Creating a method.
     public int printHouseData(int houseObject)
     {
-
+        //Returning the variable passed.
     }
     //Creating a method.
     public static void main(String[]args)
