@@ -32,5 +32,6 @@ public class HouseDemo {
         //Calling the newly created method named printHouseData and using myHouse inside of it.
         printHouseData(myHouse);
         //Calling the newly created method named printHouseData and using yourHouse inside of it.
+        printHouseData(yourHouse);
     }
 }
