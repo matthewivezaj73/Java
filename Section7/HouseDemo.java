@@ -36,5 +36,6 @@ public class HouseDemo {
         //Printing a method to the user.
         System.out.println("Your house is " + yourHouse.getColor() + " and has " + yourHouse.getNumStories() + " stories and " + yourHouse.getNumWindows() + " windows.");
         //Calling the newly created method named printHouseData.
+        printHouseData(myHouse);
     }
 }
