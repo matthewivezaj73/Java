@@ -7,6 +7,7 @@ public class HouseDemo {
         String color = "Green";
         //Printing out the color.
         System.out.println(color);
+        //Setting parameters.
     }
     //Creating a method.
     public static void main(String[]args)
