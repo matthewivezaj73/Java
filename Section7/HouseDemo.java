@@ -7,12 +7,6 @@ public class HouseDemo {
         String color = "Green";
         //Printing out the color.
         System.out.println(color);
-        //Setting parameters.
-        // aHouse.setNumStories(20);
-        // //Setting the number of windows.
-        // aHouse.setNumWindows(16);
-        // //Setting the color of the house.
-        // aHouse.setColor("blue");
         //Printing out all of the values in a string.
         System.out.println("The number of stories in the house are, "+aHouse.getNumStories()+"\n. The number of windows in the house are, " + aHouse.getNumWindows()+".\nThe color of the house is, " + aHouse.getColor()+".");
     }
