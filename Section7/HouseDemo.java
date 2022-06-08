@@ -16,7 +16,7 @@ public class HouseDemo {
         yourHouse.setNumWindows(10);
         yourHouse.setColor("blue");
         //Printing a method to the user.
-        System.out.println("My house is " + myHouse.getColor() + " and has " + myHouse.getNumStories() + " stories and " + myHouse.getNumWindows + " windows.");
+        System.out.println("My house is " + myHouse.getColor() + " and has " + myHouse.getNumStories() + " stories and " + myHouse.getNumWindows() + " windows.");
         //Printing a method to the user.
     }
 }
