@@ -25,10 +25,6 @@ public class HouseDemo {
         // yourHouse.setNumStories(3);
         // yourHouse.setNumWindows(10);
         // yourHouse.setColor("blue");
-        //Printing a method to the user.
-        System.out.println("My house is " + myHouse.getColor() + " and has " + myHouse.getNumStories() + " stories and " + myHouse.getNumWindows() + " windows.\n");
-        //Printing a method to the user.
-        System.out.println("Your house is " + yourHouse.getColor() + " and has " + yourHouse.getNumStories() + " stories and " + yourHouse.getNumWindows() + " windows.");
         //Calling the newly created method named printHouseData and passing myHouse inside of it.
         printHouseData(myHouse);
         //Calling the newly created method named printHouseData and passing yourHouse inside of it.
