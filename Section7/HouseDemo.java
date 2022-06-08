@@ -1,7 +1,7 @@
 //Creating a public class.
 public class HouseDemo {
     //Creating a method.
-    public int printHouseData(int houseObject)
+    public int printHouseData(String color, int numberOfStories, int numberOfWindows)
     {
         //Returning the variable passed.
         return houseObject;
