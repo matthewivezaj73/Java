@@ -12,7 +12,7 @@ public class House {
         return numStories;
     }
     //Creating a method.
-    public void setNumStories()
+    public void setNumStories(int numStories)
     {
         //Referencing the current object.
         this.numStories = numStories;
