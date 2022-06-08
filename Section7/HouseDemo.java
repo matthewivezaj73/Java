@@ -9,6 +9,7 @@ public class HouseDemo {
         System.out.println(color);
         //Setting parameters.
         myHouse.setNumStories(20);
+        //Setting the number of windows.
         myHouse.setNumWindows(16);
         //Setting the color of the house.
         myHouse.setColor("blue");
