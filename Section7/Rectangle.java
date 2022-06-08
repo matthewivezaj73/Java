@@ -11,7 +11,8 @@ public class Rectangle {
         //Creating a constructor.
         public Rectangle()
         {
-            
+
         }
+        //Creating another constructor with passed arguments.
     }
 }
