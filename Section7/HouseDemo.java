@@ -8,6 +8,10 @@ public class HouseDemo {
         //Printing out the color.
         System.out.println(color);
         //Setting parameters.
+        myHouse.setNumStories(2);
+        myHouse.setNumWindows(6);
+        myHouse.setColor("red");
+
     }
     //Creating a method.
     public static void main(String[]args)
