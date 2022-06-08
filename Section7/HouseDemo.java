@@ -4,6 +4,7 @@ public class HouseDemo {
     public int printHouseData(int houseObject)
     {
         //Returning the variable passed.
+        return houseObject;
     }
     //Creating a method.
     public static void main(String[]args)
