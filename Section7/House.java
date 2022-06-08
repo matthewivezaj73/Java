@@ -7,7 +7,7 @@ public class House {
     //Creating a no-org constructor.
     public House()
     {
-        //Adding some variables.
+        //Assigning values to variables.
         numStories = 1;
     }
     //Creating a method.
