@@ -13,7 +13,7 @@ public class HouseDemo {
         myHouse.setNumWindows(16);
         //Setting the color of the house.
         myHouse.setColor("blue");
-
+        //Printing out all of the values in a string.
     }
     //Creating a method.
     public static void main(String[]args)
