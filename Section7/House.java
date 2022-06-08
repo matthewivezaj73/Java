@@ -15,6 +15,9 @@ public class House {
 
     //Parameterized constructor.
     public House(int numStories, int numWindows, String color)
+    {
+        
+    }
     //Creating a method.
     public int getNumStories()
     {
