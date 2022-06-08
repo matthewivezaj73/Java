@@ -10,7 +10,7 @@ public class HouseDemo {
         //Setting parameters.
         myHouse.setNumStories(20);
         myHouse.setNumWindows(16);
-        myHouse.setColor("red");
+        myHouse.setColor("blue");
 
     }
     //Creating a method.
