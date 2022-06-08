@@ -12,6 +12,8 @@ public class House {
         numWindows = 4;
         color = "gray";
     }
+
+    //Parameterized constructor.
     //Creating a method.
     public int getNumStories()
     {
