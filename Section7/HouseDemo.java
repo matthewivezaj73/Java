@@ -1,7 +1,7 @@
 //Creating a public class.
 public class HouseDemo {
     //Creating a method.
-    public static void printHouseData(House myHouse)
+    public static void printHouseData(House aHouse)
     {
         //Creating a string named color and assigning it a value.
         String color = "Green";
