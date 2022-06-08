@@ -16,7 +16,7 @@ public class House {
     //Parameterized constructor.
     public House(int numStories, int numWindows, String color)
     {
-        
+        //accessing only the variable by using this.
     }
     //Creating a method.
     public int getNumStories()
