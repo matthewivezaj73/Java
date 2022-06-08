@@ -12,7 +12,7 @@ public class HouseDemo {
         //Setting the number of windows.
         aHouse.setNumWindows(16);
         //Setting the color of the house.
-        myHouse.setColor("blue");
+        aHouse.setColor("blue");
         //Printing out all of the values in a string.
         System.out.println("The number of stories in the house are, "+myHouse.getNumStories()+"\n. The number of windows in the house are, " + myHouse.getNumWindows()+".\nThe color of the house is, " + myHouse.getColor()+".");
     }
