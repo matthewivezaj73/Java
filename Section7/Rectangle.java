@@ -6,5 +6,7 @@ public class Rectangle {
         //Creating private variables.
         private double length;
         private double width;
+
+        private static int numRectangles;
     }
 }
