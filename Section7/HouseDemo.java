@@ -1,45 +1,22 @@
 //Creating a public class.
-public class House {
-    //Creating private variables.
-    private int numStories;
-    private int numWindows;
-    private String color;
-
+public class HouseDemo {
     //Creating a method.
-    public int getNumStories()
+    public static void main(String[]args)
     {
-        //Returning one of our private variables.
-        return numStories;
-    }
-    //Creating a method.
-    public void setNumStories()
-    {
-        //Referencing the current object.
-        this.numStories = numStories;
-    }
-
-    //Creating a method.
-    public int getNumWindows()
-    {
-        //Returning numWindows.
-        return numWindows;
-    }
-    //Creating a method.
-    public void setNumWindows(int numWindows)
-    {
-        //Referencing the current object.
-        this.numWindows = numWindows;
-    }
-    //Creating a method.
-    public String getColor()
-    {
-        //Returning color.
-        return color;
-    }
-    //Creating a method.
-    public void setColor(String color)
-    {
-        //Referencing the current object.
-        this.color = color;
+        //Creating an object.
+        House myHouse = new House();
+        //Creating another object.
+        House yourHouse = new House();
+        //Calling methods from another file.
+        myHouse.setNumStories(2);
+        myHouse.setNumWindows(6);
+        myHouse.setColor("red");
+        //Calling methods from another file.
+        yourHouse.setNumStories(3);
+        yourHouse.setNumWindows(10);
+        yourHouse.setColor("blue");
+        //Printing a method to the user.
+        System.out.println("My house is " + myHouse.getColor() + " and has " + myHouse.getNumStories() + " stories and " + myHouse.getNumWindows + " windows.");
+        //Printing a method to the user.
     }
 }
