@@ -6,6 +6,7 @@ public class HouseDemo {
         //Printing out all of the values in a string.
         System.out.println("The number of stories in the house are, "+aHouse.getNumStories()+"\n. The number of windows in the house are, " + aHouse.getNumWindows()+".\nThe color of the house is, " + aHouse.getColor()+".");
         //Adding some padding.
+        System.out.println("\n");
     }
     //Creating a method.
     public static void main(String[]args)
