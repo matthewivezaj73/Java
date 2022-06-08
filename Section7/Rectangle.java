@@ -8,7 +8,7 @@ public class Rectangle {
     //Creating a constructor.
     public Rectangle()
     {
-
+        //Using this as a method call.
     }
     //Creating another constructor with passed arguments.
     public Rectangle(double length, double width)
