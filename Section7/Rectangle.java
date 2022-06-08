@@ -8,5 +8,6 @@ public class Rectangle {
         private double width;
         //Creating a static field.
         private static int numRectangles;
+        //Creating a constructor.
     }
 }
