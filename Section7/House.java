@@ -8,6 +8,7 @@ public class House {
     public House()
     {
         //Adding some variables.
+        numStories = 1;
     }
     //Creating a method.
     public int getNumStories()
