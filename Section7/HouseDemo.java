@@ -1,6 +1,7 @@
 //Creating a public class.
 public class HouseDemo {
     //Creating a method.
+    //Creating a method.
     public static void main(String[]args)
     {
         //Creating an object.
