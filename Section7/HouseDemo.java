@@ -1,10 +1,10 @@
 //Creating a public class.
 public class HouseDemo {
     //Creating a method.
-    public int printHouseData(String color, int numberOfStories, int numberOfWindows)
+    public int printHouseData()
     {
         //Returning the variable passed.
-        return houseObject;
+        
     }
     //Creating a method.
     public static void main(String[]args)
