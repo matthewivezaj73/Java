@@ -4,7 +4,7 @@ public class HouseDemo {
     public static int printHouseData(House myHouse)
     {
         String color = "Green";
-        //Returning the variable passed.
+        //Printing out the color.
         System.out.println(color);
     }
     //Creating a method.
