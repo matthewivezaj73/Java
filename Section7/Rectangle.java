@@ -4,5 +4,6 @@ public class Rectangle {
     public static void main(String[] args)
     {
         //Creating private variables.
+        private double length;
     }
 }
