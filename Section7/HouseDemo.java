@@ -1,7 +1,7 @@
 //Creating a public class.
 public class HouseDemo {
     //Creating a method.
-    public static int printHouseData()
+    public static int printHouseData(House myHouse)
     {
         //Returning the variable passed.
         
