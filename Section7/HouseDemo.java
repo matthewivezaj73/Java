@@ -3,6 +3,7 @@ public class HouseDemo {
     //Creating a method.
     public static int printHouseData(House myHouse)
     {
+        String color = "Green";
         //Returning the variable passed.
         return color;
     }
