@@ -16,7 +16,7 @@ public class Rectangle {
         //Creating another constructor with passed arguments.
         public Rectangle(double length, double width)
         {
-            
+            this.length = length;
         }
     }
 }
