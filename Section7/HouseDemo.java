@@ -14,7 +14,7 @@ public class HouseDemo {
         //Setting the color of the house.
         aHouse.setColor("blue");
         //Printing out all of the values in a string.
-        System.out.println("The number of stories in the house are, "+aHouse.getNumStories()+"\n. The number of windows in the house are, " + aHouse.getNumWindows()+".\nThe color of the house is, " + myHouse.getColor()+".");
+        System.out.println("The number of stories in the house are, "+aHouse.getNumStories()+"\n. The number of windows in the house are, " + aHouse.getNumWindows()+".\nThe color of the house is, " + aHouse.getColor()+".");
     }
     //Creating a method.
     public static void main(String[]args)
