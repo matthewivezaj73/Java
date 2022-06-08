@@ -5,6 +5,7 @@ public class HouseDemo {
     {
         String color = "Green";
         //Returning the variable passed.
+        System.out.println(color);
     }
     //Creating a method.
     public static void main(String[]args)
