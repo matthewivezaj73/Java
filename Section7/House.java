@@ -17,6 +17,7 @@ public class House {
     public House(int numStories, int numWindows, String color)
     {
         //accessing only the variable by using this.
+        this.numStories = numStories;
     }
     //Creating a method.
     public int getNumStories()
