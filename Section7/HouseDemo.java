@@ -3,10 +3,6 @@ public class HouseDemo {
     //Creating a method.
     public static void printHouseData(House aHouse)
     {
-        //Creating a string named color and assigning it a value.
-        String color = "Green";
-        //Printing out the color.
-        System.out.println(color);
         //Printing out all of the values in a string.
         System.out.println("The number of stories in the house are, "+aHouse.getNumStories()+"\n. The number of windows in the house are, " + aHouse.getNumWindows()+".\nThe color of the house is, " + aHouse.getColor()+".");
     }
