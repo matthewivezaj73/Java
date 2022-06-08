@@ -6,7 +6,7 @@ public class HouseDemo {
         //Creating an object.
         House myHouse = new House();
         //Creating another object.
-        House yourHouse = new House();
+        House yourHouse = new House(3,10,"blue");
         //Calling methods from another file.
         myHouse.setNumStories(2);
         myHouse.setNumWindows(6);
