@@ -18,6 +18,7 @@ public class House {
     {
         //accessing only the variable by using this.
         this.numStories = numStories;
+        //accessing only the variable by using this.
     }
     //Creating a method.
     public int getNumStories()
