@@ -24,7 +24,7 @@ public class Rectangle {
         //returning the length.
         return length;
     }
-    //Creating a public method.
+    //Creating a public constructor.
     public double getWidth()
     {
         //returning the width.
