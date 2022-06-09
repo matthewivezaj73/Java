@@ -59,7 +59,7 @@ public class Rectangle {
     //Creating a static method.
     public static int displayParimeter(int length, int width)
     {
-
+        //Creating the parimeter.
     }
 }
 
