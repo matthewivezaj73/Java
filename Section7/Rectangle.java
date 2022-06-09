@@ -22,6 +22,7 @@ public class Rectangle {
     public double getLength()
     {
         //returning the length.
+        return length;
     }
 }
 
