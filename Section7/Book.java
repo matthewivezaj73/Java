@@ -1,6 +1,5 @@
 //Creating java class.
 public class Book {
-    //Creating a main method.
 
     //Creating private variables.
     private String author;
