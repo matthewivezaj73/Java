@@ -30,5 +30,6 @@ public class Rectangle {
         //returning the width.
         return width;
     }
+    //Creating a public constructor.
 }
 
