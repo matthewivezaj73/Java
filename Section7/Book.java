@@ -26,4 +26,5 @@ public class Book {
         //Returning the title.
         return title;
     }
+    //Creating a constructor to get the genre.
 }
