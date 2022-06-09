@@ -8,5 +8,7 @@ public class Book {
         private String title;
         private String genre;
         private int numPages;
+
+        //Creating a constructor.
     }
 }
