@@ -7,5 +7,6 @@ public class RectangleDemo {
         Rectangle r1 = new Rectangle();
         //Creating a new rectangle object.
         Rectangle r2 = new Rectangle(5, 10);
+        //Printing out the ractngles object with a method call to it.
     }
 }
