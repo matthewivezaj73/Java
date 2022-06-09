@@ -57,7 +57,7 @@ public class Rectangle {
         return numRectangles;
     }
     //Creating a static method.
-    public static int displayPerimeter(int length, int width)
+    public static int displayPerimeter()
     {
         //Returning the perimeter.
         return 2 * length + 2 * width;
