@@ -9,6 +9,7 @@ public class Book {
     public Book(String Author, String Title, String genre, int numPages)
     {
         //accessing only the variable by using this.
+        this.author = author;
         this.title = title;
     }
 }
