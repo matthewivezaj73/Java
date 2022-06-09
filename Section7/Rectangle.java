@@ -31,5 +31,9 @@ public class Rectangle {
         return width;
     }
     //Creating a public constructor.
+    public void setLength(double length)
+    {
+        
+    }
 }
 
