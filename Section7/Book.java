@@ -20,4 +20,5 @@ public class Book {
         //Returning the author.
         return author;
     }
+    //Creating a constructor to get the title.
 }
