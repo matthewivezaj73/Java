@@ -20,5 +20,6 @@ public class RectangleDemo {
         //Printing out the area of r1.
         System.out.println(r1.area());
         //Printing out the area of r2.
+        System.out.println(r2.area());
     }
 }
