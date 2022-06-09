@@ -48,5 +48,6 @@ public class Rectangle {
         //Returning length * width.
         return length * width;
     }
+    //Creating a static method.
 }
 
