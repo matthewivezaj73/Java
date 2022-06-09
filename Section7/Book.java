@@ -30,5 +30,6 @@ public class Book {
     public String getGenre()
     {
         //Returning the genre.
+        return genre;
     }
 }
