@@ -18,6 +18,7 @@ public class Rectangle {
         this.length = length;
         this.width = width;
         //Incrementing the rectnagles.
+        numRectangles++;
     }
     //Creating a public constructor.
     public double getLength()
