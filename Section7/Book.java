@@ -23,6 +23,6 @@ public class Book {
     //Creating a constructor to get the title.
     public String getTitle()
     {
-        
+        //Returning the title.
     }
 }
