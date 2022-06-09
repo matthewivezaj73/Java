@@ -9,6 +9,7 @@ public class Rectangle {
     public Rectangle()
     {
         //Using this as a method call.
+        this(1.0, 1.0);
     }
     //Creating another constructor with passed arguments.
     public Rectangle(double length, double width)
