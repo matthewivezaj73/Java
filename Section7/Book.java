@@ -17,6 +17,6 @@ public class Book {
     //Creating a constructor to get the author.
     public String getAuthor()
     {
-        
+        //Returning the author.
     }
 }
