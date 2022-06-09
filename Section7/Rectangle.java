@@ -1,3 +1,8 @@
+/*
+        Matthew Ivezaj
+        6/07/2022
+        Rectangle
+*/
 //Creating a public class.
 public class Rectangle {
     //Creating private variables.
