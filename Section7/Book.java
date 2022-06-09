@@ -36,5 +36,6 @@ public class Book {
     public int getNumPages()
     {
         //Returning the number of pages.
+        return numPages;
     }
 }
