@@ -14,5 +14,6 @@ public class RectangleDemo {
         //Printing out a message to the user letting them know that rectangle 3 has been declared.
         System.out.println("After r3 declared: " + Rectangle.getNumRectangles());
         //Assigning r3 a value.
+        r3 = new Rectangle(2.5, 4);
     }
 }
