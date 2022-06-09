@@ -60,6 +60,7 @@ public class Rectangle {
     public static int displayParimeter(int length, int width)
     {
         //Creating the parimeter.
+        return 2 * length + 2 * width;
     }
 }
 
