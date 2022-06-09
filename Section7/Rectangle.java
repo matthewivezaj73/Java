@@ -21,7 +21,7 @@ public class Rectangle {
     //Creating a public method.
     public double getLength()
     {
-        
+        //returning the length.
     }
 }
 
