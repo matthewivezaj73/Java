@@ -19,5 +19,9 @@ public class Rectangle {
         this.width = width;
     }
     //Creating a public method.
+    public double getLength()
+    {
+        
+    }
 }
 
