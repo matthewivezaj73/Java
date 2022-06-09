@@ -23,5 +23,6 @@ public class RectangleDemo {
         System.out.println(r2.area());
         //Printing out the area of r3.
         System.out.println(r3.area());
+        //Calling displayParimeter.
     }
 }
