@@ -10,5 +10,6 @@ public class Book {
         private int numPages;
 
         //Creating a constructor.
+        public Book(String Author, String Title, String genre, int numPages)
     }
 }
