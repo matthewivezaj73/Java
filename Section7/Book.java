@@ -35,6 +35,6 @@ public class Book {
     //Creating a constructor to get the number of pages.
     public int getNumPages()
     {
-        
+        //Returning the number of pages.
     }
 }
