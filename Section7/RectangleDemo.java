@@ -12,5 +12,6 @@ public class RectangleDemo {
         // Creating a new rectangle object
         Rectangle r3;
         //Printing out a message to the user letting them know that rectangle 3 has been declared.
+        System.out.println("After r3 declared: " + Rectangle.getNumRectangles());
     }
 }
