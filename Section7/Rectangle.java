@@ -24,5 +24,6 @@ public class Rectangle {
         //returning the length.
         return length;
     }
+    //Creating a public method.
 }
 
