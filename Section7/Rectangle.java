@@ -46,7 +46,7 @@ public class Rectangle {
     public double area()
     {
         //Returning length = width.
-        return length = width;
+        return length * width;
     }
 }
 
