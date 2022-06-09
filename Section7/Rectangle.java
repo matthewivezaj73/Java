@@ -39,7 +39,7 @@ public class Rectangle {
     //Creating a public constructor.
     public void setWidth(double width)
     {
-        
+        //accessing only the variable by using this.
     }
 }
 
