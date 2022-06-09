@@ -28,6 +28,7 @@ public class Rectangle {
     public double getWidth()
     {
         //returning the width.
+        return width;
     }
 }
 
