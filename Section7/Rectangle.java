@@ -57,5 +57,9 @@ public class Rectangle {
         return numRectangles;
     }
     //Creating a static method.
+    public static int displayParimeter(int length, int width)
+    {
+
+    }
 }
 
