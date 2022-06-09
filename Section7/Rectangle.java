@@ -56,5 +56,6 @@ public class Rectangle {
         //Returning the numRectangles.
         return numRectangles;
     }
+    //Creating a static method.
 }
 
