@@ -6,5 +6,6 @@ public class RectangleDemo {
         //Creating rectangle objects.
         Rectangle r1 = new Rectangle();
         //Creating a new rectangle object.
+        Rectangle r2 = new Rectangle(5, 10);
     }
 }
