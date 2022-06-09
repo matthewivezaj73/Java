@@ -33,7 +33,7 @@ public class Rectangle {
     //Creating a public constructor.
     public void setLength(double length)
     {
-        
+        this.length = length;
     }
 }
 
