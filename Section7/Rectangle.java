@@ -49,5 +49,9 @@ public class Rectangle {
         return length * width;
     }
     //Creating a static method.
+    public static int getNumRectangles()
+    {
+        
+    }
 }
 
