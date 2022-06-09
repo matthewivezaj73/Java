@@ -5,5 +5,6 @@ public class Book {
     {
         //Creating private variables.
         private String author;
+        private String title;
     }
 }
