@@ -8,6 +8,6 @@ public class Book {
     //Creating a constructor.
     public Book(String Author, String Title, String genre, int numPages)
     {
-        
+        //accessing only the variable by using this.
     }
 }
