@@ -17,7 +17,7 @@ public class Rectangle {
         //accessing only the variable by using this.
         this.length = length;
         this.width = width;
-        //Incrementing the rectnagles.
+        //Incrementing the numRectangles.
         numRectangles++;
     }
     //Creating a public constructor.
