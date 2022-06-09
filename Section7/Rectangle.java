@@ -43,5 +43,9 @@ public class Rectangle {
         this.width = width;
     }
     //Creating a public constructor.
+    public double area()
+    {
+        
+    }
 }
 
