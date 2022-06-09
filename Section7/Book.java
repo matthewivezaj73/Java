@@ -18,5 +18,6 @@ public class Book {
     public String getAuthor()
     {
         //Returning the author.
+        return author;
     }
 }
