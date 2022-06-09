@@ -32,4 +32,5 @@ public class Book {
         //Returning the genre.
         return genre;
     }
+    //Creating a constructor to get the number of pages.
 }
