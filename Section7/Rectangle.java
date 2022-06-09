@@ -40,6 +40,7 @@ public class Rectangle {
     public void setWidth(double width)
     {
         //accessing only the variable by using this.
+        this.width = width;
     }
 }
 
