@@ -51,7 +51,7 @@ public class Rectangle {
     //Creating a static method.
     public static int getNumRectangles()
     {
-        
+        //Returning the numRectangles.
     }
 }
 
