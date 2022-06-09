@@ -15,5 +15,6 @@ public class RectangleDemo {
         System.out.println("After r3 declared: " + Rectangle.getNumRectangles());
         //Assigning r3 a value.
         r3 = new Rectangle(2.5, 4);
+        //Printing out the current state of the number of rectangles.
     }
 }
