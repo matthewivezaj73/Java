@@ -36,5 +36,6 @@ public class Rectangle {
         //accessing only the variable by using this.
         this.length = length;
     }
+    //Creating a public constructor.
 }
 
