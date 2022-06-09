@@ -28,5 +28,6 @@ public class RectangleDemo {
         //Calling displayPerimeter to work on r2.
         System.out.println(r2.displayPerimeter());
         //Calling displayPerimeter to work on r3.
+        System.out.println(r3.displayPerimeter());
     }
 }
