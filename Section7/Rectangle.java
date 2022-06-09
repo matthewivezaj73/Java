@@ -33,6 +33,7 @@ public class Rectangle {
     //Creating a public constructor.
     public void setLength(double length)
     {
+        //accessing only the variable by using this.
         this.length = length;
     }
 }
