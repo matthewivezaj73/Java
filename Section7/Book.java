@@ -21,4 +21,8 @@ public class Book {
         return author;
     }
     //Creating a constructor to get the title.
+    public String getTitle()
+    {
+        
+    }
 }
