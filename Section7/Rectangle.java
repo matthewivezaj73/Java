@@ -37,5 +37,9 @@ public class Rectangle {
         this.length = length;
     }
     //Creating a public constructor.
+    public void setWidth(double width)
+    {
+        
+    }
 }
 
