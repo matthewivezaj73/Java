@@ -27,4 +27,8 @@ public class Book {
         return title;
     }
     //Creating a constructor to get the genre.
+    public String getGenre()
+    {
+        
+    }
 }
