@@ -4,5 +4,6 @@ public class Book {
     public static void main(String[] args)
     {
         //Creating private variables.
+        private String author;
     }
 }
