@@ -10,5 +10,6 @@ public class RectangleDemo {
         //Printing out the rectangle object with a method call to it.
         System.out.println(Rectangle.getNumRectangles());
         // Creating a new rectangle object
+        Rectangle r3;
     }
 }
