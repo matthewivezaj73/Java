@@ -18,5 +18,6 @@ public class RectangleDemo {
         //Printing out the current state of the number of rectangles.
         System.out.println("After r3 instantiated: " + Rectangle.getNumRectangles());
         //Printing out the area of r1.
+        System.out.println(r1.area());
     }
 }
