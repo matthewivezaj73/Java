@@ -18,5 +18,6 @@ public class Rectangle {
         this.length = length;
         this.width = width;
     }
+    //Creating a public method.
 }
 
