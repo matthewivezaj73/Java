@@ -56,7 +56,7 @@ public class Rectangle {
         //Returning the numRectangles.
         return numRectangles;
     }
-    //Creating a static method.
+    //Creating a public method.
     public double displayPerimeter()
     {
         //Returning the perimeter.
