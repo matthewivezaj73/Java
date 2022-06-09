@@ -14,4 +14,5 @@ public class Book {
         this.genre = genre;
         this.numPages = numPages;
     }
+    //Creating a constructor to get the author.
 }
