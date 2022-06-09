@@ -45,7 +45,7 @@ public class Rectangle {
     //Creating a public constructor.
     public double area()
     {
-        
+        return length = width;
     }
 }
 
