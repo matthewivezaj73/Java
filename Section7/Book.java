@@ -44,7 +44,7 @@ public class Book {
         return numPages;
     }
     //Creating a static method.
-    public static void printBookDetails()
+    public void printBookDetails()
     {
         //Printing the book title.
         System.out.println(title);
