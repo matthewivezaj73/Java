@@ -11,11 +11,9 @@ public class BookDemo {
         //Creating a gameOfThrones object.
         Book gameOfThrones = new Book("George Martin", 
         "Game of Thrones", "Fantasy", 864);
-
         //Creating a mathbook object.
         Book mathBook = new Book("James Stewart",
         "Calculus", "Math", 1392);
-
         //Creating a java book.
         Book javaBook = new Book("Joel Murach",
                 "Murach's Java Programming", "Programming", 800);
