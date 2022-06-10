@@ -29,5 +29,7 @@ public class BookDemo {
         //Printing the author of the book.
         System.out.println("by " + book.getAuthor());
         //Printing out the number of pages in the book.
+        System.out.println("has " + book.getNumPages() + " pages, and it's genre is " + 
+        book.getGenre());
     }
 }
