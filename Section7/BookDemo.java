@@ -26,6 +26,7 @@ public class BookDemo {
     {
         //Printing out a book's details to the user.
         System.out.println(book.getTitle());
+        //Printing the author of the book.
         System.out.println("by " + book.getAuthor());
     }
 }
