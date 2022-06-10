@@ -13,5 +13,7 @@ public class BookDemo {
         "Game of Thrones", "Fantasy", 864);
 
         //Creating a mathbook object.
+        Book mathBook = new Book("James Stewart",
+        "Calculus", "Math", 1392)
     }
 }
