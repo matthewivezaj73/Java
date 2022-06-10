@@ -28,5 +28,6 @@ public class BookDemo {
         System.out.println(book.getTitle());
         //Printing the author of the book.
         System.out.println("by " + book.getAuthor());
+        //Printing out the number of pages in the book.
     }
 }
