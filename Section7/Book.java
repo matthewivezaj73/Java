@@ -7,7 +7,7 @@
 public class Book {
     //Creating private variables.
     private String author;
-    private String title;
+    private static String title;
     private String genre;
     private int numPages;
     //Creating a constructor.
