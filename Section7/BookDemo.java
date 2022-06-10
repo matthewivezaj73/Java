@@ -15,5 +15,7 @@ public class BookDemo {
         //Creating a mathbook object.
         Book mathBook = new Book("James Stewart",
         "Calculus", "Math", 1392);
+
+        //Creating a java book.
     }
 }
