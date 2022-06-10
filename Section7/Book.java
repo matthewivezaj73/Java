@@ -16,7 +16,7 @@ public class Book {
         //accessing only the variable by using this.
         Book.author = author;
         Book.title = title;
-        this.genre = genre;
+        Book.genre = genre;
         this.numPages = numPages;
     }
     //Creating a constructor to get the author.
