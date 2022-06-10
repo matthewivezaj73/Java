@@ -19,6 +19,7 @@ public class BookDemo {
         //Creating a java book.
         Book javaBook = new Book("Joel Murach",
                 "Murach's Java Programming", "Programming", 800);
+        //Calling the method.
     }
 
     //Creating a static method.
