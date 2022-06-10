@@ -9,7 +9,7 @@ public class Book {
     private static String author;
     private static String title;
     private String genre;
-    private int numPages;
+    private static int numPages;
     //Creating a constructor.
     public Book(String author, String title, String genre, int numPages)
     {
