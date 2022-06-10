@@ -46,6 +46,7 @@ public class Book {
     //Creating a static method.
     public static void printBookDetails()
     {
+        //Acquiring the title of the book.
         //Printing out a book's details to the user.
         System.out.println(book.getTitle());
         //Printing the author of the book.
