@@ -15,7 +15,7 @@ public class Book {
     {
         //accessing only the variable by using this.
         Book.author = author;
-        this.title = title;
+        Book.title = title;
         this.genre = genre;
         this.numPages = numPages;
     }
