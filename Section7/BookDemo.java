@@ -21,7 +21,7 @@ public class BookDemo {
         gameOfThrones.printBookDetails();
         //Calling the constructor to print the details of the math book.
         mathBook.printBookDetails();
-        //Calling the method yet again.
+        //Calling the constructor to print the details of the javabook.
         javaBook.printBookDetails();
     }
 }
