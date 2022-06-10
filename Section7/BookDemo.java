@@ -24,6 +24,6 @@ public class BookDemo {
     //Creating a static method.
     public static void printBookDetails(Book book)
     {
-        
+        //Printing out a book's details to the user.
     }
 }
