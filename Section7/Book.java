@@ -52,7 +52,7 @@ public class Book {
         System.out.println("by " + author);
         //Printing out the number of pages in the book.
         System.out.println("has " + numPages + " pages, and it's genre is " + 
-        );
+        genre);
         //Adding some padding.
         System.out.println("\n");
     }
