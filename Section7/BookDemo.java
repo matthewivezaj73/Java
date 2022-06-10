@@ -24,6 +24,7 @@ public class BookDemo {
         //Calling the method yet again.
         printBookDetails(mathBook);
         //Calling the method yet again.
+        printBookDetails(javaBook);
     }
 
     //Creating a static method.
