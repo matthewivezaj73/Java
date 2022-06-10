@@ -49,7 +49,7 @@ public class Book {
         //Printing the book title.
         System.out.println(title);
         //Printing the author of the book.
-        System.out.println("by " + );
+        System.out.println("by " + author);
         //Printing out the number of pages in the book.
         System.out.println("has " + book.getNumPages() + " pages, and it's genre is " + 
         book.getGenre());
