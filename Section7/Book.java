@@ -47,6 +47,7 @@ public class Book {
     public static void printBookDetails(Book book)
     {
         //Returning the book title.
+        return title;
         //Printing the author of the book.
         System.out.println("by " + book.getAuthor());
         //Printing out the number of pages in the book.
