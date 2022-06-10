@@ -17,7 +17,7 @@ public class BookDemo {
         //Creating a java book.
         Book javaBook = new Book("Joel Murach",
                 "Murach's Java Programming", "Programming", 800);
-        //Calling the method to print the details of the gameOfThrones book.
+        //Calling the constructor to print the details of the gameOfThrones book.
         gameOfThrones.printBookDetails();
         //Calling the method yet again.
         mathBook.printBookDetails();
