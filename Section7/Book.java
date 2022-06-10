@@ -6,7 +6,7 @@
 //Creating java class.
 public class Book {
     //Creating private variables.
-    private String author;
+    private static String author;
     private static String title;
     private String genre;
     private int numPages;
