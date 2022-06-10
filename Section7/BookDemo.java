@@ -11,5 +11,7 @@ public class BookDemo {
         //Creating a gameOfThrones object.
         Book gameOfThrones("George Martin", 
         "Game of Thrones", "Fantasy", 864);
+
+        //Creating a mathbook object.
     }
 }
