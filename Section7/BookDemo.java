@@ -17,5 +17,7 @@ public class BookDemo {
         "Calculus", "Math", 1392);
 
         //Creating a java book.
+        Book javaBook = new Book("Joel Murach",
+                "Murach's Java Programming", "Programming", 800);
     }
 }
