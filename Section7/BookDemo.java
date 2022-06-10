@@ -22,6 +22,7 @@ public class BookDemo {
         //Calling the method.
         printBookDetails(gameOfThrones);
         //Calling the method yet again.
+        printBookDetails(mathBook);
     }
 
     //Creating a static method.
