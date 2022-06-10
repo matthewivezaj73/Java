@@ -14,7 +14,7 @@ public class Book {
     public Book(String author, String title, String genre, int numPages)
     {
         //accessing only the variable by using this.
-        this.author = author;
+        Book.author = author;
         this.title = title;
         this.genre = genre;
         this.numPages = numPages;
