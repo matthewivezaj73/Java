@@ -19,7 +19,7 @@ public class BookDemo {
                 "Murach's Java Programming", "Programming", 800);
         //Calling the constructor to print the details of the gameOfThrones book.
         gameOfThrones.printBookDetails();
-        //Calling the method yet again.
+        //Calling the constructor to print the details of the math book.
         mathBook.printBookDetails();
         //Calling the method yet again.
         javaBook.printBookDetails();
