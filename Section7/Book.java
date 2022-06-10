@@ -44,7 +44,7 @@ public class Book {
         return numPages;
     }
     //Creating a static method.
-    public static void printBookDetails(Book book)
+    public static void printBookDetails()
     {
         //Returning the book title.
         return title;
