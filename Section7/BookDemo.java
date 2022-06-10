@@ -22,7 +22,7 @@ public class BookDemo {
         //Calling the method.
         gameOfThrones.printBookDetails();
         //Calling the method yet again.
-        printBookDetails(mathBook);
+        mathBook.printBookDetails();
         //Calling the method yet again.
         printBookDetails(javaBook);
     }
