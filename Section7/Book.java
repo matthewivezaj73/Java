@@ -17,7 +17,7 @@ public class Book {
         Book.author = author;
         Book.title = title;
         Book.genre = genre;
-        this.numPages = numPages;
+        Book.numPages = numPages;
     }
     //Creating a constructor to get the author.
     public String getAuthor()
