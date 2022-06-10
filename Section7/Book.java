@@ -43,4 +43,17 @@ public class Book {
         //Returning the number of pages.
         return numPages;
     }
+    //Creating a static method.
+    public static void printBookDetails()
+    {
+        //Printing out a book's details to the user.
+        System.out.println(book.getTitle());
+        //Printing the author of the book.
+        System.out.println("by " + book.getAuthor());
+        //Printing out the number of pages in the book.
+        System.out.println("has " + book.getNumPages() + " pages, and it's genre is " + 
+        book.getGenre());
+        //Adding some padding.
+        System.out.println("\n");
+    }
 }
