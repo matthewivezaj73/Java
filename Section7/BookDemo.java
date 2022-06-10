@@ -32,5 +32,6 @@ public class BookDemo {
         System.out.println("has " + book.getNumPages() + " pages, and it's genre is " + 
         book.getGenre());
         //Adding some padding.
+        System.out.println("\n");
     }
 }
