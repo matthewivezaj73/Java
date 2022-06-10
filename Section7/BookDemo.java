@@ -9,5 +9,7 @@ public class BookDemo {
     public static void main(String[] args)
     {
         //Creating a gameOfThrones object.
+        Book gameOfThrones("George Martin", 
+        "Game of Thrones", "Fantasy", 864);
     }
 }
