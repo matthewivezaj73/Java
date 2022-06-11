@@ -26,7 +26,7 @@ public class BankAccount {
     //Creating a constructor to represent the act of making a deposit.
     public float deposit()
     {
-        //Returning balance left over.
+        //Returning the amount to deposit.
         return deposit;
     }
     //Creating a constructor to print the banking details.
