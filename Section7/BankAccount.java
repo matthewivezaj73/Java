@@ -20,6 +20,6 @@ public class BankAccount {
     //Creating a constructor to represent the act of making a withdrawal.
     public withdrawMoney()
     {
-        
+        //Return balance left over.
     }
 }
