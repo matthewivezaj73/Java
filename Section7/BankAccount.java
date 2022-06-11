@@ -1,3 +1,8 @@
+/**
+ *      Matthew Ivezaj
+ *      6/11/2022
+ *      BankAccount.java
+ */
 //Creating a public class.
 public class BankAccount {
     //Creating private variables.
