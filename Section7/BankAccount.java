@@ -57,7 +57,7 @@ public class BankAccount {
         }
     }
     //Creating a constructor to represent the act of making a withdrawal.
-    public double withdrawMoney()
+    public double withdrawMoney(int withdrawal)
     {
         //Returning the amount to withdraw.
         return withdrawal;
