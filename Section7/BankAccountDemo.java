@@ -30,7 +30,7 @@ public class BankAccountDemo {
             //Printing the money left over after a withdrawal.
             System.out.println((myBank.withdrawMoney(my_balance, myWithdrawal)));
         }
-        finally
+        catch(Exception E)
         {
             //Printing out that the operation may not be completed.
             System.out.println("Sorry, but the entry was not valid, please try again! ");
