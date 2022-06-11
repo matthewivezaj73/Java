@@ -75,7 +75,7 @@ public class BankAccount {
             return (balance - withdrawal);
         }
         //Handling all other cases.
-        else
+        else if(balance < withdrawal)
         {
             //Printing a message to the user.
             System.out.print("The balance will remain, ");
