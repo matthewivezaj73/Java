@@ -5,7 +5,7 @@ public class BankAccount {
     private static float withdrawal;
     private static float deposit;
     //Creating a public method.
-    public BankAccount(String[] args)
+    public BankAccount(float balance, float withdrawal, float deposit)
     {
 
     }
