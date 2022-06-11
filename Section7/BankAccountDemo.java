@@ -16,7 +16,7 @@ public class BankAccountDemo {
         //Printing the balance.
         // System.out.println("You are starting with, " + myBank.balance(0));
         //Printing the details for myBank.
-        myBank.displayBankingDetails();
+        myBank.withdrawMoney(43234);
 
     }
 }
