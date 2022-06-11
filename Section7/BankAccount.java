@@ -39,7 +39,7 @@ public class BankAccount {
         //Printing out the amount the user would like to withdraw.
         System.out.println("You are now withdrawing, "+withdrawal);
         //Checking if withdrawal is a number greater than 0.
-        if(withdrawal > 0)
+        if((withdrawal > 0))
         {
             //Printing out the remaining balance.
             System.out.println(owner+", you now have, " + (balance - withdrawal + deposit) + ", left over.");
