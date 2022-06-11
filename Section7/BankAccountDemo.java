@@ -10,7 +10,7 @@ public class BankAccountDemo {
     //Creating a main method.
     public static void main(String[] args)
     {
-
+        //Creating a scanner object.
         //Creating a bank account object.
         BankAccount myBank = new BankAccount("Matthew", 0);
         //Assigning a variable to the act of depositing money into the bank.
