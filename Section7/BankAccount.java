@@ -35,5 +35,5 @@ public class BankAccount {
         //Return balance left over.
         return (balance - withdrawal);
     }
-    //Creating a constructor to print the banking details.
+    
 }
