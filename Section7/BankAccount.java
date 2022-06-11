@@ -72,7 +72,7 @@ public class BankAccount {
         if(balance > withdrawal)
         {
             //Returning the amount to withdraw.
-            return withdrawal;
+            return (balance - withdrawal);
         }
         
     }
