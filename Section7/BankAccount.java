@@ -14,6 +14,7 @@ public class BankAccount {
     public BankAccount(String owner, int balance, int withdrawal, int deposit)
     {
         //Initializing variables.
+        BankAccount.owner = owner;
         BankAccount.balance = balance;
         BankAccount.withdrawal = withdrawal;
         BankAccount.deposit = deposit;
