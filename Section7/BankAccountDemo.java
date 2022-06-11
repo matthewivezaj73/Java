@@ -3,6 +3,7 @@
  *      6/11/2022
  *      BankAccountDemo.java
  */
+import java.util.Scanner;
 //Creating a public class.
 public class BankAccountDemo {
     //Creating a main method.
