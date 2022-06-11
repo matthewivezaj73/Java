@@ -21,9 +21,13 @@ public class BankAccount {
     }
     //Creating a constructor to represent the act of checking your balance.
     public int balance(int balance)
-    {
-        //Returning the current balance.
-        return balance;
+    {   
+        if(balance > 0)
+        {
+            //Returning the current balance.
+            return balance;
+        }
+
     }
     //Creating a constructor to represent the act of making a deposit.
     public int deposit(int deposit)
