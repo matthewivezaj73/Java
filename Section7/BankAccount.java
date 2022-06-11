@@ -62,7 +62,10 @@ public class BankAccount {
     public double withdrawMoney(int withdrawal)
     {
         //Checking if the balance is greater than 0.
-        //Returning the amount to withdraw.
-        return withdrawal;
+        if(balance > 0)
+        {
+            //Returning the amount to withdraw.
+            return withdrawal;
+        }
     }
 }
