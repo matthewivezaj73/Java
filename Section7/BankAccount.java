@@ -7,7 +7,7 @@
 public class BankAccount {
     //Creating private variables.
     private static String owner;
-    private static int balance;
+    static int balance;
     static int withdrawal;
     private static int deposit;
     //Creating a public method.
