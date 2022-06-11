@@ -78,7 +78,7 @@ public class BankAccount {
         else
         {
             //Returning 0.
-            return 0;
+            return balance;
         }
     }
 }
