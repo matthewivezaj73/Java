@@ -78,6 +78,7 @@ public class BankAccount {
         else
         {
             //Printing a message to the user saying that cannot be done at this time.
+            return 0;
         }
     }
 }
