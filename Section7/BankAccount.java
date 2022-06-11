@@ -25,6 +25,5 @@ public class BankAccount {
             //Return balance left over.
             return withdrawal;
         }
-        
     }
 }
