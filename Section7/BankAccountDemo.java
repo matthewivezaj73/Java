@@ -22,6 +22,7 @@ public class BankAccountDemo {
         System.out.println("The account owner is, " + myBank.getOwner("Matthew"));
         //Printing the balance.
         System.out.print("Please enter the value you would like to withdraw from your bank account:\t");
+        //Creating a try/except block.
         //Accepting user input.
         int myWithdrawal = keyboard.nextInt();
         //Printing the money left over after a withdrawal.
