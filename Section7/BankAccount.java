@@ -32,6 +32,7 @@ public class BankAccount {
         else
         {
             //Returning nothing.
+            return 0;
         }
     }
     //Creating a constructor to represent the act of making a deposit.
