@@ -10,12 +10,12 @@ public class BankAccount {
     private static float withdrawal;
     private static float deposit;
     //Creating a public method.
-    public BankAccount(float balance, float withdrawal, float deposit)
+    public BankAccount(double d, double e, double f)
     {
         //Initializing variables.
-        BankAccount.balance = balance;
-        BankAccount.withdrawal = withdrawal;
-        BankAccount.deposit = deposit;
+        BankAccount.balance = d;
+        BankAccount.withdrawal = e;
+        BankAccount.deposit = f;
     }
     //Creating a constructor to represent the act of checking your balance.
     public float balance()
