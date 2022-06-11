@@ -11,6 +11,7 @@ public class BankAccountDemo {
         //Creating a bank account object.
         BankAccount myBank = new BankAccount("Matthew", 0, 4323, 7324);
         //Printing the balance.
+        System.out.println(myBank.balance(0));
         //Printing the details for myBank.
         myBank.displayBankingDetails();
 
