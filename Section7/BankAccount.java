@@ -37,6 +37,7 @@ public class BankAccount {
         //Printing out the amount the user would like to deposit.
         System.out.println("You are now depositing, " + deposit);
         //Printing out the remaining balance.
+        System.out.println();
     }
     //Creating a constructor to represent the act of making a withdrawal.
     public float withdrawMoney()
