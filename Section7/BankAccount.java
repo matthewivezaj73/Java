@@ -43,8 +43,6 @@ public class BankAccount {
         {
             //Printing out the remaining balance.
             System.out.println(owner+", you now have, " + (balance - withdrawal + deposit) + ", left over.");
-            //Printing out the remaining balance.
-            System.out.println("You now have, " + (balance + deposit) + ", left over.");
         }
         //Handling the case where either or is less than 0.
         else
