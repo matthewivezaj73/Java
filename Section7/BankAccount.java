@@ -39,10 +39,9 @@ public class BankAccount {
         //Checking if withdrawal is a number greater than 0.
         if(withdrawal > 0)
         {
-            
+
         }
-        //Printing out the remaining balance.
-        System.out.println("You now have, " + balance + ", left over.");
+        
     }
     //Creating a constructor to represent the act of making a withdrawal.
     public float withdrawMoney()
