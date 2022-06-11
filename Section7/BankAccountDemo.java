@@ -9,7 +9,7 @@ public class BankAccountDemo {
     public static void main(String[] args)
     {
         //Creating a bank account object.
-        BankAccount myBank = new BankAccount(232324, 4323, 7324);
+        BankAccount myBank = new BankAccount("Suzy", 232324, 4323, 7324);
         //Creating a bank account object.
         BankAccount yourBank = new BankAccount(432864.32, 3221.34, 42433.14);
         //Creating a bank account object.
