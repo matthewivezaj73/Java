@@ -15,7 +15,7 @@ public class BankAccountDemo {
         System.out.println("The account owner is, " + myBank.getOwner("Matthew"));
         //Printing the balance.
         // System.out.println("You are starting with, " + myBank.balance(0));
-        //Printing the details for myBank.
+        //Printing the money left over after a withdrawal.
         myBank.withdrawMoney(43234);
 
     }
