@@ -11,6 +11,7 @@ public class BankAccountDemo {
     public static void main(String[] args)
     {
         //Creating a scanner object.
+        Scanner keyboard = new Scanner(System.in);
         //Creating a bank account object.
         BankAccount myBank = new BankAccount("Matthew", 0);
         //Assigning a variable to the act of depositing money into the bank.
