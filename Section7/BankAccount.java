@@ -19,7 +19,7 @@ public class BankAccount {
         BankAccount.deposit = deposit;
     }
     //Creating a constructor to represent the act of checking your balance.
-    public int balance()
+    public int balance(int balance)
     {
         //Returning the current balance.
         return balance;
