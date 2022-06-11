@@ -42,7 +42,6 @@ public class BankAccount {
             //Printing out the remaining balance.
             System.out.println("You now have, " + balance + ", left over.");
         }
-        
     }
     //Creating a constructor to represent the act of making a withdrawal.
     public float withdrawMoney()
