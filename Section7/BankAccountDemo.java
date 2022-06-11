@@ -10,7 +10,7 @@ public class BankAccountDemo {
     {
 
         //Creating a bank account object.
-        BankAccount myBank = new BankAccount("Matthew", 0, 4323, 7324);
+        BankAccount myBank = new BankAccount("Matthew", 0);
         //Printing the account owner's name.
         System.out.println("The account owner is, " + myBank.getOwner("Matthew"));
         //Printing the balance.
