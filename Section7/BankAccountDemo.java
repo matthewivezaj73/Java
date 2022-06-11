@@ -12,7 +12,7 @@ public class BankAccountDemo {
         //Creating a bank account object.
         BankAccount myBank = new BankAccount("Matthew", 0);
         //Depositing money into the bank.
-        myBank.deposit(43243);
+        float my_balance = myBank.deposit(43243);
         //Printing the account owner's name.
         System.out.println("The account owner is, " + myBank.getOwner("Matthew"));
         //Printing the balance.
