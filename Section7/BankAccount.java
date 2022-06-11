@@ -51,7 +51,7 @@ public class BankAccount {
         //Handling the case where either or is less than 0.
         else
         {
-            
+            //Printing out a message to the user saying that the action is not allowed.
         }
     }
     //Creating a constructor to represent the act of making a withdrawal.
