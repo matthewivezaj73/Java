@@ -18,6 +18,10 @@ public class BankAccount {
         BankAccount.deposit = deposit;
     }
     //Creating a constructor to represent the act of checking your balance.
+    public float balance()
+    {
+        
+    }
     //Creating a constructor to represent the act of making a deposit.
     public float deposit()
     {
