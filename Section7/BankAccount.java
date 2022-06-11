@@ -37,7 +37,7 @@ public class BankAccount {
     public int deposit(int deposit)
     {
         //Returning the amount to deposit.
-        return deposit;
+        return (balance + deposit);
     }
     //Creating a constructor to print the banking details.
     public void displayBankingDetails()
