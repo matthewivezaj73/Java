@@ -33,6 +33,7 @@ public class BankAccount {
     public void displayBankingDetails()
     {
         //Printing out the amount the user would like to withdraw.
+        System.out.println("You are now withdrawing, ");
     }
     //Creating a constructor to represent the act of making a withdrawal.
     public float withdrawMoney()
