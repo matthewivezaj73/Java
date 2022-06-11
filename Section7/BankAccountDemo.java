@@ -8,6 +8,7 @@ public class BankAccountDemo {
     //Creating a main method.
     public static void main(String[] args)
     {
+        //Creating an if statement to check if the balance > 0.
         //Creating a bank account object.
         BankAccount myBank = new BankAccount("Matthew", 0, 4323, 7324);
         //Printing the account owner's name.
