@@ -6,6 +6,7 @@
 //Creating a public class.
 public class BankAccount {
     //Creating private variables.
+    private static String owner;
     private static double balance;
     private static double withdrawal;
     private static double deposit;
