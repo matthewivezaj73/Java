@@ -22,7 +22,7 @@ public class BankAccountDemo {
         System.out.println("The account owner is, " + myBank.getOwner("Matthew"));
         //Printing the balance.
         System.out.print("Please enter the value you would like to withdraw from your bank account:\t");
-        //Creating a try/except block.
+        //Creating a try/finally block.
         try 
         {
             //Accepting user input.
@@ -32,7 +32,7 @@ public class BankAccountDemo {
         }
         finally
         {
-            
+
         }
         
     }
