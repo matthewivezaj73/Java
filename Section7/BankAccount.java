@@ -7,6 +7,7 @@ public class BankAccount {
     //Creating a public method.
     public BankAccount(float balance, float withdrawal, float deposit)
     {
+        //Initializing variables.
 
     }
 }
