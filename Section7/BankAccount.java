@@ -8,7 +8,7 @@ public class BankAccount {
     //Creating private variables.
     private static double balance;
     private static double withdrawal;
-    private static float deposit;
+    private static double deposit;
     //Creating a public method.
     public BankAccount(double d, double e, double f)
     {
