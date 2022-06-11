@@ -11,7 +11,7 @@ public class BankAccount {
     private static int withdrawal;
     private static int deposit;
     //Creating a public method.
-    public BankAccount(String owner, int balance, int withdrawal, int deposit)
+    public BankAccount(String owner, int balance)
     {
         //Initializing variables.
         BankAccount.owner = owner;
