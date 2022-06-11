@@ -82,5 +82,6 @@ public class BankAccount {
             //Returning 0.
             return balance;
         }
+        //Handling all other cases.
     }
 }
