@@ -21,6 +21,7 @@ public class BankAccount {
     public float deposit()
     {
         //Returning balance left over.
+        return deposit;
     }
     //Creating a constructor to represent the act of making a withdrawal.
     public float withdrawMoney()
