@@ -19,7 +19,7 @@ public class BankAccount {
     }
     //Creating a constructor to represent the act of making a withdrawal.
     public float withdrawMoney()
-    {
+    {   //Checking if the withdrawal amount is greater than 0.
         //Return balance left over.
         return withdrawal;
     }
