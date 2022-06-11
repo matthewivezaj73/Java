@@ -11,6 +11,7 @@ public class BankAccountDemo {
 
         //Creating a bank account object.
         BankAccount myBank = new BankAccount("Matthew", 0);
+        //Depositing money into the bank.
         //Printing the account owner's name.
         System.out.println("The account owner is, " + myBank.getOwner("Matthew"));
         //Printing the balance.
