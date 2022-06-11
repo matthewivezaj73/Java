@@ -17,6 +17,7 @@ public class BankAccount {
         BankAccount.withdrawal = withdrawal;
         BankAccount.deposit = deposit;
     }
+    //Creating a constructor to represent the act of making a deposit.
     //Creating a constructor to represent the act of making a withdrawal.
     public float withdrawMoney()
     {
