@@ -13,6 +13,6 @@ public class BankAccount {
     public BankAccount(float balance, float withdrawal, float deposit)
     {
         //Initializing variables.
-
+        BankAccount.balance = balance;
     }
 }
