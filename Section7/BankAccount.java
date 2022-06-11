@@ -43,6 +43,7 @@ public class BankAccount {
         {
             //Printing a message to the user saying they cannot do that right now.
             System.out.println("You are withdrawing more than you have, that is not allowed!");
+            //Breaking out of the loop.
         }
         //Checking if withdrawal is a number greater than 0.
         if((withdrawal > 0) && (deposit > 0))
