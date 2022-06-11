@@ -22,6 +22,7 @@ public class BankAccount {
     //Creating a constructor to represent the act of checking your balance.
     public int balance(int balance)
     {   
+        //Handling the case where the balance is greater than 0.
         if(balance > 0)
         {
             //Returning the current balance.
