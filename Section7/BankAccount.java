@@ -18,4 +18,8 @@ public class BankAccount {
         BankAccount.deposit = deposit;
     }
     //Creating a constructor to represent the act of making a withdrawal.
+    public withdrawMoney()
+    {
+        
+    }
 }
