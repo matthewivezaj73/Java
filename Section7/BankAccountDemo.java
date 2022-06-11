@@ -11,7 +11,7 @@ public class BankAccountDemo {
 
         //Creating a bank account object.
         BankAccount myBank = new BankAccount("Matthew", 0);
-        //Depositing money into the bank.
+        //Assigning a variable to the act of depositing money into the bank.
         float my_balance = myBank.deposit(43243);
         //Printing the current amount the user has.
         System.out.println(my_balance);
