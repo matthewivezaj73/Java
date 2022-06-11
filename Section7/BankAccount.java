@@ -15,5 +15,6 @@ public class BankAccount {
         //Initializing variables.
         BankAccount.balance = balance;
         BankAccount.withdrawal = withdrawal;
+        BankAccount.deposit = deposit;
     }
 }
