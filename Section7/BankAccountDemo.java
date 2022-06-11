@@ -13,7 +13,7 @@ public class BankAccountDemo {
         //Creating a bank account object.
         BankAccount yourBank = new BankAccount("Suzy", 432864, 3221, 42433);
         //Creating a bank account object.
-        BankAccount hisBank = new BankAccount(762442.34, 32423.32, 43243.23);
+        BankAccount hisBank = new BankAccount("Sam",762442.34, 32423.32, 43243.23);
         //Creating a bank account object.
         BankAccount herBank = new BankAccount(89423874.43, 298347.34, 878432.43);
         //Printing the details for myBank.
