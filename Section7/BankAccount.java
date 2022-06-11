@@ -43,10 +43,6 @@ public class BankAccount {
         {
             //Printing out the remaining balance.
             System.out.println(owner+", you now have, " + (balance - withdrawal) + ", left over.");
-        }
-        //Checking if the deposit is greater than 0.
-        else if(deposit > 0)
-        {
             //Printing out the remaining balance.
             System.out.println("You now have, " + (balance + deposit) + ", left over.");
         }
