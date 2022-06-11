@@ -20,7 +20,7 @@ public class BankAccountDemo {
         //Printing the balance.
         // System.out.println("You are starting with, " + myBank.balance(0));
         //Printing the money left over after a withdrawal.
-        System.out.println((myBank.withdrawMoney(43234)));
+        System.out.println((myBank.withdrawMoney(2)));
 
     }
 }
