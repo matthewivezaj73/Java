@@ -9,7 +9,7 @@ public class BankAccount {
     private static String owner;
     private static int balance;
     private static int withdrawal;
-    private static double deposit;
+    private static int deposit;
     //Creating a public method.
     public BankAccount(double balance, double withdrawal, double deposit)
     {
