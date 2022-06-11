@@ -77,6 +77,7 @@ public class BankAccount {
         //Handling all other cases.
         else
         {
+            //Printing a message to the user.
             //Returning 0.
             return balance;
         }
