@@ -68,6 +68,7 @@ public class BankAccount {
     //Creating a constructor to represent the act of making a withdrawal.
     public double withdrawMoney(int withdrawal)
     {
+        //Executing code if the balance is greater than the withdrawal.
         //Returning the amount to withdraw.
         return withdrawal;
     }
