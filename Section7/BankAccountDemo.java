@@ -13,11 +13,6 @@ public class BankAccountDemo {
         
         //Printing the details for myBank.
         myBank.displayBankingDetails();
-        //Printing the details for yourBank.
-        yourBank.displayBankingDetails();
-        //Printing the details for hisBank.
-        hisBank.displayBankingDetails();
-        //Printing the details for herBank.
-        herBank.displayBankingDetails();
+
     }
 }
