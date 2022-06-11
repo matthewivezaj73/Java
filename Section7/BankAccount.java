@@ -45,7 +45,7 @@ public class BankAccount {
         //Checking if the deposit is greater than 0.
         else if(deposit > 0)
         {
-            
+            //Printing out the remaining balance.
         }
     }
     //Creating a constructor to represent the act of making a withdrawal.
