@@ -22,9 +22,9 @@ public class BankAccount {
     {   //Checking if the withdrawal amount is greater than 0.
         if(withdrawal > 0)
         {
-            
+            //Return balance left over.
+            return withdrawal;
         }
-        //Return balance left over.
-        return withdrawal;
+        
     }
 }
