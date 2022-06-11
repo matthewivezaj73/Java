@@ -78,6 +78,7 @@ public class BankAccount {
         else
         {
             //Printing a message to the user.
+            System.out.print("The balance will remain, ");
             //Returning 0.
             return balance;
         }
