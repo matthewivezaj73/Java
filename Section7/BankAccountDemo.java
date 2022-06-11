@@ -15,7 +15,7 @@ public class BankAccountDemo {
         //Creating a bank account object.
         BankAccount hisBank = new BankAccount("Sam",762442, 32423, 43243);
         //Creating a bank account object.
-        BankAccount herBank = new BankAccount("Taylor", 89423874, 298347.34, 878432.43);
+        BankAccount herBank = new BankAccount("Taylor", 89423874, 298347, 878432.43);
         //Printing the details for myBank.
         myBank.displayBankingDetails();
         //Printing the details for yourBank.
