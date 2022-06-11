@@ -57,6 +57,7 @@ public class BankAccount {
             System.out.println("Sorry, but that action is not allowed.");
         }
     }
+    //Creating a constructor to represent the act of retrieving the owner name.
     //Creating a constructor to represent the act of making a withdrawal.
     public double withdrawMoney(int withdrawal)
     {
