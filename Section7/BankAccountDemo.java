@@ -11,6 +11,7 @@ public class BankAccountDemo {
 
         //Creating a bank account object.
         BankAccount myBank = new BankAccount("Matthew", 0, 4323, 7324);
+        //Checking if the user is withdrawing more than they have.
         //Printing the account owner's name.
         System.out.println("The account owner is, " + myBank.getOwner("Matthew"));
         //Printing the balance.
