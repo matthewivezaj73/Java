@@ -23,5 +23,6 @@ public class BankAccountDemo {
         //Printing the details for hisBank.
         hisBank.displayBankingDetails();
         //Printing the details for herBank.
+        herBank.displayBankingDetails();
     }
 }
