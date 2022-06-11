@@ -52,6 +52,7 @@ public class BankAccount {
         else
         {
             //Printing out a message to the user saying that the action is not allowed.
+            System.out.println("Sorry, but that action is not allowed.");
         }
     }
     //Creating a constructor to represent the act of making a withdrawal.
