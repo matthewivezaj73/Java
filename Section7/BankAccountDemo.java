@@ -6,5 +6,8 @@
 //Creating a public class.
 public class BankAccountDemo {
     //Creating a main method.
-    
+    public static void main(String[] args)
+    {
+        
+    }
 }
