@@ -25,7 +25,7 @@ public class BankAccount {
         return balance;
     }
     //Creating a constructor to represent the act of making a deposit.
-    public double deposit()
+    public int deposit()
     {
         //Returning the amount to deposit.
         return deposit;
