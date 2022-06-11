@@ -27,7 +27,7 @@ public class BankAccount {
     public float deposit()
     {
         //Returning balance left over.
-        return (balance + deposit);
+        return deposit;
     }
     //Creating a constructor to print the banking details.
     public void displayBankingDetails()
