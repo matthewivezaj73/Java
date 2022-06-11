@@ -23,10 +23,12 @@ public class BankAccountDemo {
         //Printing the balance.
         System.out.print("Please enter the value you would like to withdraw from your bank account:\t");
         //Creating a try/except block.
-        //Accepting user input.
-        int myWithdrawal = keyboard.nextInt();
-        //Printing the money left over after a withdrawal.
-        System.out.println((myBank.withdrawMoney(my_balance, myWithdrawal)));
-
+        try 
+        {
+            //Accepting user input.
+            int myWithdrawal = keyboard.nextInt();
+            //Printing the money left over after a withdrawal.
+            System.out.println((myBank.withdrawMoney(my_balance, myWithdrawal)));
+        }
     }
 }
