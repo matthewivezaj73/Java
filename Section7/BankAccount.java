@@ -86,6 +86,7 @@ public class BankAccount {
         else
         {
             //Returning null.
+            return 0;
         }
     }
 }
