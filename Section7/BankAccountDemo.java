@@ -21,5 +21,6 @@ public class BankAccountDemo {
         //Printing the details for yourBank.
         yourBank.displayBankingDetails();
         //Printing the details for hisBank.
+        hisBank.displayBankingDetails();
     }
 }
