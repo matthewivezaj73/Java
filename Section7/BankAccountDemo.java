@@ -13,9 +13,8 @@ public class BankAccountDemo {
         BankAccount myBank = new BankAccount("Matthew", 0);
         //Printing the account owner's name.
         System.out.println("The account owner is, " + myBank.getOwner("Matthew"));
-        //Creating a balance variable.
         //Printing the balance.
-        System.out.println("You are starting with, " + myBank.balance(0));
+        // System.out.println("You are starting with, " + myBank.balance(0));
         //Printing the details for myBank.
         myBank.displayBankingDetails();
 
