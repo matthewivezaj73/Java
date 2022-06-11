@@ -25,7 +25,7 @@ public class BankAccountDemo {
         //Accepting user input.
         int myWithdrawal = keyboard.nextInt();
         //Printing the money left over after a withdrawal.
-        System.out.println((myBank.withdrawMoney(myWithdrawal)));
+        System.out.println((myBank.withdrawMoney(my_balance, myWithdrawal)));
 
     }
 }
