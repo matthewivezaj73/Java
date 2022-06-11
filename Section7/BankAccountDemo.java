@@ -23,6 +23,7 @@ public class BankAccountDemo {
         //Printing the balance.
         System.out.print("Please enter the value you would like to withdraw from your bank account:\t");
         //Accepting user input.
+        double myWithdrawal = keyboard.nextDouble();
         //Printing the money left over after a withdrawal.
         System.out.println((myBank.withdrawMoney(2)));
 
