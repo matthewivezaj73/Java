@@ -61,6 +61,7 @@ public class BankAccount {
     public String getOwner(String owner)
     {
         //Returning the name of the owner.
+        return owner;
     }
     //Creating a constructor to represent the act of making a withdrawal.
     public double withdrawMoney(int withdrawal)
