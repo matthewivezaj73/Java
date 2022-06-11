@@ -29,6 +29,10 @@ public class BankAccount {
             return balance;
         }
         //Handling the case where the balance is not greater than 0.
+        else
+        {
+            //Returning nothing.
+        }
     }
     //Creating a constructor to represent the act of making a deposit.
     public int deposit(int deposit)
