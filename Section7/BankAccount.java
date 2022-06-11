@@ -8,7 +8,7 @@ public class BankAccount {
     //Creating private variables.
     private static String owner;
     private static int balance;
-    private static double withdrawal;
+    private static int withdrawal;
     private static double deposit;
     //Creating a public method.
     public BankAccount(double balance, double withdrawal, double deposit)
