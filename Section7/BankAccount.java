@@ -31,7 +31,7 @@ public class BankAccount {
         //Handling the case where the balance is not greater than 0.
         else
         {
-            //Returning nothing.
+            //Returning false.
             return 0;
         }
     }
