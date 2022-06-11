@@ -13,7 +13,7 @@ public class BankAccount {
     public BankAccount(double balance, double withdrawal, double deposit)
     {
         //Initializing variables.
-        BankAccount.balance = d;
+        BankAccount.balance = balance;
         BankAccount.withdrawal = e;
         BankAccount.deposit = f;
     }
