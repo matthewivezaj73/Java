@@ -20,7 +20,7 @@ public class BankAccount {
     //Creating a constructor to represent the act of checking your balance.
     public float balance()
     {
-        
+        //Returning the current balance.
     }
     //Creating a constructor to represent the act of making a deposit.
     public float deposit()
