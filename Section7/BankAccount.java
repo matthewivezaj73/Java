@@ -38,13 +38,7 @@ public class BankAccount {
         System.out.println("You are now depositing, " + deposit);
         //Printing out the amount the user would like to withdraw.
         System.out.println("You are now withdrawing, "+withdrawal);
-        //Checking if balance - withdrawal is greater than 0.
-        if(balance - withdrawal < 0)
-        {
-            //Printing a message to the user saying they cannot do that right now.
-            System.out.println("You are withdrawing more than you have, that is not allowed!");
-            //Breaking out of the loop.
-        }
+
         //Checking if withdrawal is a number greater than 0.
         if((withdrawal > 0) && (deposit > 0))
         {
