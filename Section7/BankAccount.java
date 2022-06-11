@@ -40,7 +40,7 @@ public class BankAccount {
         if(withdrawal > 0)
         {
             //Printing out the remaining balance.
-            System.out.println("You now have, " + balance + ", left over.");
+            System.out.println("You now have, " + (balance - withdrawal) + ", left over.");
         }
     }
     //Creating a constructor to represent the act of making a withdrawal.
