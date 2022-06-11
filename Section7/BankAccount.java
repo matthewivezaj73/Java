@@ -69,6 +69,10 @@ public class BankAccount {
     public double withdrawMoney(int withdrawal)
     {
         //Executing code if the balance is greater than the withdrawal.
+        if(balance > withdrawal)
+        {
+            
+        }
         //Returning the amount to withdraw.
         return withdrawal;
     }
