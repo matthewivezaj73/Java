@@ -41,5 +41,4 @@ public class BankAccount {
         //Returning the amount to withdraw.
         return withdrawal;
     }
-    
 }
