@@ -49,6 +49,10 @@ public class BankAccount {
             System.out.println("You now have, " + (balance + deposit) + ", left over.");
         }
         //Handling the case where either or is less than 0.
+        else
+        {
+            
+        }
     }
     //Creating a constructor to represent the act of making a withdrawal.
     public float withdrawMoney()
