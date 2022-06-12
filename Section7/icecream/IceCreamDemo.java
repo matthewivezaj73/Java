@@ -18,5 +18,9 @@ public class IceCreamDemo {
         //Creating a flag.
         Boolean not_done = false;
         //Creating a while loop.
+        while(not_done != true)
+        {
+
+        }
     }
 }
