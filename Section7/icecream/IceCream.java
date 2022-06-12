@@ -10,4 +10,5 @@ public class IceCream {
     private String name;
     private int numScoops;
     private String toppings[];
+    //Creating a public constructor.
 }
