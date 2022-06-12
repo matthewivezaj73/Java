@@ -9,4 +9,8 @@ import java.util.Scanner;
 //Creating a public class.
 public class IceCreamDemo {
     //Creating a main method.
+    public static void main()
+    {
+        
+    }
 }
