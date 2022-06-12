@@ -49,6 +49,7 @@ public class BankAccountDemo {
                 int myWithdrawal = keyboard.nextInt();
                 //Printing the money left over after a withdrawal.
                 System.out.println((myBank.withdrawMoney(my_balance, myWithdrawal)));
+                myFlag = true;
             }
             //Catching the exception where an invalid value has been entered.
             catch(Exception E)
