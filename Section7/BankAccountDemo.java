@@ -41,6 +41,7 @@ public class BankAccountDemo {
             //Printing the balance.
             System.out.print("Please enter the value you would like to withdraw from your bank account:\t");
             //Setting a flag.
+            Boolean notWithdrawal = false;
             //Creating a try/finally block.
             try 
             {
