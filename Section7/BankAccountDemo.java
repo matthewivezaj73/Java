@@ -21,6 +21,7 @@ public class BankAccountDemo {
         {
             //Allowing user to select an amount to deposit.
             double depositMoney = keyboard.nextDouble();
+            //Creating a flag.
         }
         catch(Exception e)
         {
