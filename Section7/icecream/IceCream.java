@@ -22,7 +22,7 @@ public class IceCream {
         return Cost;
     }
     //Creating a constructor to grab the name.
-    public getName(String name)
+    public String getName(String name)
     {
 
     }
