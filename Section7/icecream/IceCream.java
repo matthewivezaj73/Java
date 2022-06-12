@@ -2,7 +2,7 @@ package icecream;
 /*
         Matthew Ivezaj
         6/12/2022
-        icecream
+        icecream.java
 */
 public class IceCream {
     
