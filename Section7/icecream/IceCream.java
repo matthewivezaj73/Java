@@ -9,7 +9,7 @@ public class IceCream {
     //Creating private variables.
     private String name;
     private int numScoops;
-    private String toppings[];
+    private int cost;
     //Creating a public constructor.
     public void addTopping(String Topping)
     {
