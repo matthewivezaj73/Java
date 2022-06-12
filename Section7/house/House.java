@@ -1,3 +1,4 @@
+//Linking the files under the house folder.
 package house;
 /*
         Matthew Ivezaj
