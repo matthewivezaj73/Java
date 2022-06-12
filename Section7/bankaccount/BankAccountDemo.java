@@ -30,6 +30,19 @@ public class BankAccountDemo {
             System.out.println("Your balance is, " + my_balance);
             //Printing the account owner's name.
             System.out.println("The account owner is, " + myBank.getOwner("Matthew"));
+            //Creating a try/catch block.
+            try
+            {
+                //Allowing user to select an amount to deposit.
+                double depositMoney = keyboard.nextDouble();
+            }
+            catch(Exception e)
+            {
+                //Printing a message to the user.
+                System.out.println("Sorry, but that is not a valid entry.");
+                //Breaking out of the loop.
+                break;
+            }
             //Printing the balance.
             System.out.print("Please enter the value you would like to withdraw from your bank account:\t");
             //Creating a try/finally block.
