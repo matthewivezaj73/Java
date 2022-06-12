@@ -15,4 +15,5 @@ public class IceCream {
     {
 
     }
+    //Creating a constructor to grab the name.
 }
