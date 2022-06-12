@@ -1,7 +1,6 @@
 package icecream;
 //Importing library.
 import java.util.ArrayList;
-
 /*
         Matthew Ivezaj
         6/12/2022
