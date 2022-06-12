@@ -55,7 +55,7 @@ public class BankAccountDemo {
             //Catching the exception where an invalid value has been entered.
             catch(Exception E)
             {
-                //Printing out that the operation may not be completed.
+                //Printing out a blank line.
                 System.out.println("");
             }
 
