@@ -55,6 +55,9 @@ public class BankAccountDemo {
             {
                 //Printing out that the operation may not be completed.
                 System.out.println("Sorry, but the entry was not valid, please try again! ");
+                //Breaking out of the loop.
+                break;
+
             }
 
         }
