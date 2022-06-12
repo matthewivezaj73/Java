@@ -8,5 +8,5 @@ package icecream;
 import java.util.Scanner;
 //Creating a public class.
 public class IceCreamDemo {
-    
+    //Creating a main method.
 }
