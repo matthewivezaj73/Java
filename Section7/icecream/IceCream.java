@@ -11,8 +11,8 @@ public class IceCream {
     private int numScoops;
     private String toppings[];
     //Creating a public constructor.
-    public addTopping(String Topping)
+    public void addTopping(String Topping)
     {
-        
+
     }
 }
