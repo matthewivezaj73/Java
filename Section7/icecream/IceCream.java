@@ -30,6 +30,6 @@ public class IceCream {
     //Creating a constructor to get the number of scoops the customer wants.
     public int getNumScoops(int Scoops)
     {
-        
+        //Returning the number of scoops.
     }
 }
