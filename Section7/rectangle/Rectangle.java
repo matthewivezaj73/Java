@@ -1,3 +1,4 @@
+package rectangle;
 /*
         Matthew Ivezaj
         6/07/2022
