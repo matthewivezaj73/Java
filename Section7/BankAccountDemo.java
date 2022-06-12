@@ -25,6 +25,7 @@ public class BankAccountDemo {
         catch(Exception e)
         {
             //Printing a message to the user.
+            System.out.println("Sorry, but that is not a valid entry.");
         }
         //Assigning a variable to the act of depositing money into the bank.
         int my_balance = myBank.deposit(43243);
