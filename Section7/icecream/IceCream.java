@@ -16,6 +16,10 @@ public class IceCream {
 
     }
     //Creating a constructor to get the cost.
+    public getCost(int Cost)
+    {
+        
+    }
     //Creating a constructor to grab the name.
     public getName(String name)
     {
