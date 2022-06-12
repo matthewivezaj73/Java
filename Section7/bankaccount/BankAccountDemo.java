@@ -45,6 +45,8 @@ public class BankAccountDemo {
                 //Breaking out of the loop.
                 break;
             }
+            //Printing the current amount the user has.
+            System.out.println("Your balance is, " + my_balance);
             //Printing the balance.
             System.out.print("Please enter the value you would like to withdraw from your bank account:\t");
             //Creating a try/finally block.
