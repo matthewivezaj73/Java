@@ -23,19 +23,7 @@ public class BankAccountDemo {
         //Creating a while loop.
         while(myFlag != true)
         {
-            //Creating a try/catch block.
-            try
-            {
-                //Allowing user to select an amount to deposit.
-                double depositMoney = keyboard.nextDouble();
-            }
-            catch(Exception e)
-            {
-                //Printing a message to the user.
-                System.out.println("Sorry, but that is not a valid entry.");
-                //Breaking out of the loop.
-                break;
-            }
+
             //Assigning a variable to the act of depositing money into the bank.
             int my_balance = myBank.deposit(43243);
             //Printing the current amount the user has.
