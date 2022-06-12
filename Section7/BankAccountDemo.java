@@ -16,7 +16,6 @@ public class BankAccountDemo {
         BankAccount myBank = new BankAccount("Matthew", 0);
         //Asking the user how much money they would like to deposit.
         System.out.println("Please enter the amount you would like to deposit:\t");
-        //Adding a while loop.
         //Creating a try/catch block.
         try
         {
