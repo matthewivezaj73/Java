@@ -6,5 +6,5 @@ package icecream;
 */
 //Creating a public class.
 public class IceCream {
-    
+    //Creating private variables.
 }
