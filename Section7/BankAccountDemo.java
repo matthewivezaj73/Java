@@ -31,6 +31,7 @@ public class BankAccountDemo {
             {
                 //Printing a message to the user.
                 System.out.println("Sorry, but that is not a valid entry.");
+                //Breaking out of the loop.
                 break;
             }
             //Assigning a variable to the act of depositing money into the bank.
