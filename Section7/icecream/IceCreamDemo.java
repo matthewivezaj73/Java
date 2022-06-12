@@ -5,6 +5,7 @@ package icecream;
         IceCreamDemo.java
 */
 //Importing libraries.
+import java.util.Scanner;
 //Creating a public class.
 public class IceCreamDemo {
     
