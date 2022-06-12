@@ -16,7 +16,7 @@ public class IceCream {
 
     }
     //Creating a constructor to get the cost.
-    public getCost(int Cost)
+    public int getCost(int Cost)
     {
         //Returning the cost of the item.
         return Cost;
