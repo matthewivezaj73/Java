@@ -34,7 +34,7 @@ public class IceCream {
         return Scoops;
     }
     //Creating a constructor to print the toppings added.
-    public void printToppings(String[] args)
+    public void printToppings()
     {
 
     }
