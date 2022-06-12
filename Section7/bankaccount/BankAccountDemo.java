@@ -29,6 +29,9 @@ public class BankAccountDemo {
             System.out.println("Your balance is, " + my_balance);
             //Printing the account owner's name.
             System.out.println("The account owner is, " + myBank.getOwner("Matthew"));
+            //Asking the user how much money they would like to deposit.
+            System.out.println("Please enter the amount you would like to deposit:\t");
+
             //Creating a try/catch block.
             try
             {
