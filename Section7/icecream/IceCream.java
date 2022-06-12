@@ -25,5 +25,6 @@ public class IceCream {
     public String getName(String name)
     {
         //Returning the name.
+        return name;
     }
 }
