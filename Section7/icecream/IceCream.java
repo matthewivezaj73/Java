@@ -15,7 +15,7 @@ public class IceCream {
     //Creating a public constructor.
     public void addTopping(String Topping)
     {
-
+        //Adding the single topping to the list.
     }
     //Creating a constructor to get the cost.
     public int getCost(int Cost)
