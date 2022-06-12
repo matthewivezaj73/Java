@@ -1,3 +1,4 @@
+//Linking the files under the rectangle folder.
 package rectangle;
 /*
         Matthew Ivezaj
