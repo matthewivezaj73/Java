@@ -7,7 +7,7 @@ package icecream;
 //Creating a public class.
 public class IceCream {
     //Creating an array list.
-    String[][] Toppings = new String[2][2];
+    ArrayList<String> toppings = new ArrayList<>();
     //Creating private variables.
     private String name;
     private int numScoops;
@@ -39,7 +39,7 @@ public class IceCream {
     //Creating IceCream Constructor.
     public IceCream()
     {
-        
+
     }
     //Creating a constructor to print the toppings added.
     public void printToppings()
