@@ -7,6 +7,7 @@ package icecream;
 //Creating a public class.
 public class IceCream {
     //Creating an array list.
+    String[][] IceCreamList = new String[2][2];
     //Creating private variables.
     private String name;
     private int numScoops;
