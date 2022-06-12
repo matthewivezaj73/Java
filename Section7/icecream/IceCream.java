@@ -36,6 +36,7 @@ public class IceCream {
         //Returning the number of scoops.
         return Scoops;
     }
+    //Creating IceCream Constructor.
     //Creating a constructor to print the toppings added.
     public void printToppings()
     {
