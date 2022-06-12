@@ -15,6 +15,7 @@ public class BankAccountDemo {
         //Creating a bank account object.
         BankAccount myBank = new BankAccount("Matthew", 0);
         //Asking the user how much money they would like to deposit.
+        System.out.print("Please enter the amount you would like to deposit:\t");
         //Allowing user to select an amount to deposit.
         double depositMoney = keyboard.nextDouble();
         //Assigning a variable to the act of depositing money into the bank.
