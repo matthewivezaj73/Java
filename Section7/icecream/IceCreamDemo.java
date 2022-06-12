@@ -16,5 +16,6 @@ public class IceCreamDemo {
         //Creating an icecream object.
         IceCream Sherbet = new IceCream();
         //Creating a flag.
+        Boolean not_done = false;
     }
 }
