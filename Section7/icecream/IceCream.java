@@ -8,4 +8,5 @@ package icecream;
 public class IceCream {
     //Creating private variables.
     private int numScoops;
+    private String toppings[];
 }
