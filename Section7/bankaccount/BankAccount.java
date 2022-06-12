@@ -80,7 +80,7 @@ public class BankAccount {
         else if(balance < withdrawal)
         {
             //Printing a message to the user.
-            System.out.print("That The balance will remain, ");
+            System.out.print("That was an invalid selection, the balance will remain, ");
             //Returning 0.
             return balance;
         }
