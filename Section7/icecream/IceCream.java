@@ -13,7 +13,7 @@ public class IceCream {
     private int numScoops;
     private int cost;
     //Creating a public constructor.
-    public void addTopping(String Topping)
+    public void addTopping(String topping)
     {
         //Adding the single topping to the list.
         Toppings.add(topping);
