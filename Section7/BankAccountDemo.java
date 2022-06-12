@@ -17,8 +17,15 @@ public class BankAccountDemo {
         //Asking the user how much money they would like to deposit.
         System.out.print("Please enter the amount you would like to deposit:\t");
         //Creating a try/except block.
-        //Allowing user to select an amount to deposit.
-        double depositMoney = keyboard.nextDouble();
+        try
+        {
+            //Allowing user to select an amount to deposit.
+            double depositMoney = keyboard.nextDouble();
+        }
+        catch(Exception e)
+        {
+            
+        }
         //Assigning a variable to the act of depositing money into the bank.
         int my_balance = myBank.deposit(43243);
         //Printing the current amount the user has.
