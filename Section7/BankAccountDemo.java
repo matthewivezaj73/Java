@@ -56,7 +56,7 @@ public class BankAccountDemo {
             catch(Exception E)
             {
                 //Printing out that the operation may not be completed.
-                System.out.println("Sorry, but the entry was not valid, please try again! ");
+                System.out.println("");
             }
 
         }
