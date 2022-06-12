@@ -12,5 +12,6 @@ public class IceCreamDemo {
     public static void main()
     {
         //Creating a scanner.
+        Scanner keyboard = new Scanner();
     }
 }
