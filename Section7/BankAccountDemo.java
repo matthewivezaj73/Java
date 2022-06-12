@@ -24,7 +24,7 @@ public class BankAccountDemo {
         }
         catch(Exception e)
         {
-            
+            //Printing a message to the user.
         }
         //Assigning a variable to the act of depositing money into the bank.
         int my_balance = myBank.deposit(43243);
