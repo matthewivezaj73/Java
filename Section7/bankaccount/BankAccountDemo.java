@@ -39,7 +39,7 @@ public class BankAccountDemo {
             //Assigning a variable to the act of depositing money into the bank.
             int my_balance = myBank.deposit(43243);
             //Printing the current amount the user has.
-            System.out.println(my_balance);
+            System.out.println("Your balance is, " + my_balance);
             //Printing the account owner's name.
             System.out.println("The account owner is, " + myBank.getOwner("Matthew"));
             //Printing the balance.
