@@ -19,6 +19,7 @@ public class IceCream {
     public getCost(int Cost)
     {
         //Returning the cost of the item.
+        return Cost;
     }
     //Creating a constructor to grab the name.
     public getName(String name)
