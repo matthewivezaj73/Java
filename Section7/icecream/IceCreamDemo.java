@@ -17,5 +17,6 @@ public class IceCreamDemo {
         IceCream Sherbet = new IceCream();
         //Creating a flag.
         Boolean not_done = false;
+        //Creating a while loop.
     }
 }
