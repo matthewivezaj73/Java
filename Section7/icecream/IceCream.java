@@ -31,5 +31,6 @@ public class IceCream {
     public int getNumScoops(int Scoops)
     {
         //Returning the number of scoops.
+        return Scoops;
     }
 }
