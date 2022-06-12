@@ -38,6 +38,7 @@ public class BankAccountDemo {
                 //Allowing user to select an amount to deposit.
                 double depositMoney = keyboard.nextDouble();
                 //Adding the money deposited to the balance.
+                my_balance += depositMoney;
             }
             catch(Exception e)
             {
