@@ -19,6 +19,10 @@ public class BankAccountDemo {
         //Creating a flag.
         Boolean myFlag = true;
         //Creating a while loop.
+        while(!myFlag)
+        {
+            
+        }
         //Creating a try/catch block.
         try
         {
