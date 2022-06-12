@@ -27,4 +27,5 @@ public class IceCream {
         //Returning the name.
         return name;
     }
+    //Creating a constructor to get the number of scoops the user wants.
 }
