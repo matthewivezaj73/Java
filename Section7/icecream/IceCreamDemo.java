@@ -15,5 +15,6 @@ public class IceCreamDemo {
         Scanner keyboard = new Scanner(System.in);
         //Creating an icecream object.
         IceCream Sherbet = new IceCream();
+        //Creating a flag.
     }
 }
