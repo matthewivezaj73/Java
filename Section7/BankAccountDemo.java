@@ -18,6 +18,7 @@ public class BankAccountDemo {
         System.out.println("Please enter the amount you would like to deposit:\t");
         //Creating a flag.
         Boolean myFlag = true;
+        //Creating a while loop.
         //Creating a try/catch block.
         try
         {
