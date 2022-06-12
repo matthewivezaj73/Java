@@ -11,6 +11,6 @@ public class IceCreamDemo {
     //Creating a main method.
     public static void main()
     {
-        
+        //Creating a scanner.
     }
 }
