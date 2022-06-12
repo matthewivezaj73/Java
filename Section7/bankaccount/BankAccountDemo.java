@@ -38,6 +38,7 @@ public class BankAccountDemo {
                 //Allowing user to select an amount to deposit.
                 double depositMoney = keyboard.nextDouble();
                 //Displaying a message to the user telling how much they are depositing.
+                System.out.print("You are not depositing:\t");
                 //Adding the money deposited to the balance.
                 my_balance += depositMoney;
             }
