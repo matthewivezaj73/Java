@@ -21,7 +21,7 @@ public class IceCreamDemo {
         while(not_done != true)
         {
             //Adding a topping to the icecream.
-            String myTopping = Sherbet.addTopping(lemon);
+            String myTopping = Sherbet.addTopping("lemon");
         }
     }
 }
