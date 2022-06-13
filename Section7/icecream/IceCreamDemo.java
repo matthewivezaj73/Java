@@ -19,7 +19,7 @@ public class IceCreamDemo {
         //Creating an icecream object.
         IceCream Sherbet = new IceCream();
         //Creating a flag.
-        // String userContinue = "Yes";
+        String userContinue = "Yes";
         // //Creating a while loop.
         while(userContinue != "No")
         {
