@@ -23,7 +23,7 @@ public class BankAccountDemo {
         //Creating a while loop.
         while(myFlag != true)
         {
-            //Asking the user to enter their name.
+            //Asking for the customer's name.
             System.out.print("Please enter the customer's name:\t");
             //Aqcuiring the user's name.
             name = keyboard.nextLine();
