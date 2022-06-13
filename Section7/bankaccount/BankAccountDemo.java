@@ -23,7 +23,7 @@ public class BankAccountDemo {
         //Creating a while loop.
         while(myFlag != true)
         {
-
+            //Aqcuiring the user's name.
             //Assigning a variable to the act of depositing money into the bank.
             int my_balance = myBank.deposit(43243);
 
