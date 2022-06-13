@@ -34,6 +34,7 @@ public class IceCreamDemo {
             //Printing the details of the icecream.
             Sherbet.printToppings();
             //Asking the user if they would like to stop adding toppings.
+            System.out.println("Would you like to add any other toppings?Y/N:\t")
         }
     }
 }
