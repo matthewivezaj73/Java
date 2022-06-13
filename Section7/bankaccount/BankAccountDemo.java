@@ -24,6 +24,7 @@ public class BankAccountDemo {
         while(myFlag != true)
         {
             //Asking the user to enter their name.
+            System.out.println("Please enter the customer's name:\t");
             //Aqcuiring the user's name.
             name = keyboard.nextLine();
             //Assigning a variable to the act of depositing money into the bank.
