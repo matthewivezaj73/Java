@@ -19,10 +19,10 @@ public class IceCreamDemo {
         //Creating an icecream object.
         IceCream Sherbet = new IceCream();
         //Creating a flag.
-        String userContinue = "Yes";
-        //Creating a while loop.
-        while(userContinue != "No")
-        {
+        // String userContinue = "Yes";
+        // //Creating a while loop.
+        // while(userContinue != "No")
+        // {
             //Asking the user what type of topping they would like to add.
             System.out.println("Please enter the topping you would like to add:\t");
             //Allowing the user to enter a topping.
@@ -33,6 +33,6 @@ public class IceCreamDemo {
             System.out.println("The topping you selected is, " + myTopping);
             //Printing the details of the icecream.
             Sherbet.printToppings();
-        }
+        // }
     }
 }
