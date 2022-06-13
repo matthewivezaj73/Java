@@ -31,7 +31,7 @@ public class BankAccountDemo {
             //Printing the current amount the user has.
             System.out.println("Your balance is, " + my_balance);
             //Printing the account owner's name.
-            System.out.println("The account owner is, " + myBank.getOwner("Matthew"));
+            System.out.println("The account owner is, " + myBank.getOwner(name));
             //Asking the user how much money they would like to deposit.
             System.out.println("Please enter the amount you would like to deposit:\t");
 
