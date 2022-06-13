@@ -20,7 +20,8 @@ public class IceCreamDemo {
         //Creating a while loop.
         while(not_done != true)
         {
-
+            //Adding a topping to the icecream.
+            String myTopping = Sherbet.addTopping(lemon);
         }
     }
 }
