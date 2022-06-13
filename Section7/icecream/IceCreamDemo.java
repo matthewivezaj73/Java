@@ -23,6 +23,7 @@ public class IceCreamDemo {
             //Adding a topping to the icecream.
             String myTopping = Sherbet.addTopping("lemon");
             //Printing out the topping.
+            System.out.println("The topping you selected is, " + myTopping);
             //Printing the details of the icecream.
             Sherbet.printToppings();
         }
