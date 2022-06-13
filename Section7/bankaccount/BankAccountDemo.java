@@ -74,7 +74,6 @@ public class BankAccountDemo {
                 //Printing out a blank line.
                 System.out.println("");
             }
-
         }
         
     }
