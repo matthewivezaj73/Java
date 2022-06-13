@@ -13,6 +13,7 @@ public class BankAccountDemo {
     public static void main(String[] args)
     {
         //Creating a variable.
+        String name;
         //Creating a scanner object.
         Scanner keyboard = new Scanner(System.in);
         //Creating a bank account object.
