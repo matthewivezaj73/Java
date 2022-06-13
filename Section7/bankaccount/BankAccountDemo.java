@@ -24,6 +24,7 @@ public class BankAccountDemo {
         while(myFlag != true)
         {
             //Aqcuiring the user's name.
+            name = keyboard.nextLine();
             //Assigning a variable to the act of depositing money into the bank.
             int my_balance = myBank.deposit(43243);
 
