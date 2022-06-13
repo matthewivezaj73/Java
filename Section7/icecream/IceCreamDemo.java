@@ -22,6 +22,7 @@ public class IceCreamDemo {
         while(not_done != true)
         {
             //Asking the user what type of topping they would like to add.
+            
             //Adding a topping to the icecream.
             String myTopping = Sherbet.addTopping("lemon");
             //Printing out the topping.
