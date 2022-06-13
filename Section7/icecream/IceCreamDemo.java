@@ -21,7 +21,7 @@ public class IceCreamDemo {
         //Creating a flag.
         String userContinue;
         //Creating a while loop.
-        while(not_done != true)
+        while(userContinue != "No")
         {
             //Asking the user what type of topping they would like to add.
             System.out.println("Please enter the topping you would like to add:\t");
