@@ -15,6 +15,7 @@ public class IceCreamDemo {
         //Creating a scanner.
         Scanner keyboard = new Scanner(System.in);
         //Defining a variable.
+        String selectedTopping;
         //Creating an icecream object.
         IceCream Sherbet = new IceCream();
         //Creating a flag.
