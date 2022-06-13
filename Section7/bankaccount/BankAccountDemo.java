@@ -23,6 +23,7 @@ public class BankAccountDemo {
         //Creating a while loop.
         while(myFlag != true)
         {
+            //Asking the user to enter their name.
             //Aqcuiring the user's name.
             name = keyboard.nextLine();
             //Assigning a variable to the act of depositing money into the bank.
