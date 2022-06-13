@@ -19,6 +19,7 @@ public class IceCream {
     {
         //Adding the single topping to the list.
         toppings.add(topping);
+        //Returning the topping.
     }
     //Creating a constructor to get the cost.
     public int getCost(int Cost)
