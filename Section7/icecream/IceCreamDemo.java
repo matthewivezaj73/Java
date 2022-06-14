@@ -27,10 +27,9 @@ public class IceCreamDemo {
         //Creating a try block.
         try
         {
-            
+
         }
-        //Allowing the user to add a topping.
-        userContinue = keyboard.nextInt();
+        
         //Creating a while loop.
         while(userContinue != 1)
         {
