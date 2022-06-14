@@ -40,7 +40,7 @@ public class IceCreamDemo {
             //Checking if the user entered no.
             if(userContinue == "No")
             {
-                
+                //Notifying the user we are exiting the program.
             }
         }
     }
