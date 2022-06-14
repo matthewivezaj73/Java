@@ -20,6 +20,7 @@ public class IceCreamDemo {
         IceCream Sherbet = new IceCream();
         //Creating a flag.
         String userContinue = "";
+        //Asking the user if they would like to add a topping.
         // //Creating a while loop.
         while(userContinue != "No")
         {
