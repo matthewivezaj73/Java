@@ -19,25 +19,13 @@ public class IceCreamDemo {
         //Creating an icecream object.
         IceCream Sherbet = new IceCream();
         //Creating a flag.
-        int userContinue = 1;
-        //Creating another variable.
-        String Continue;
+        String userContinue = "";
         //Asking the user if they would like to add a topping.
-        System.out.println("Would you like to add a topping to your icecream?\nPlease enter 0 for Yes or 1 No:\t");
-        //Creating a try block.
-        try
-        {
-            //Allowing the user to add a topping.
-            userContinue = keyboard.nextInt();
-        }
-        //Creating a catch block.
-        catch(Exception e)
-        {
-            //Telling the user that the entered value is not a 1 or 0.
-            System.out.println("Please enter a 0 or 1:\t");
-        }
+        System.out.println("Would you like to add a topping to your icecream?\nPlease enter Yes or No:\t");
+        //Allowing the user to add a topping.
+        userContinue = keyboard.nextLine();
         //Creating a while loop.
-        while(userContinue != 1)
+        while(userContinue != "No")
         {
             //Asking the user what type of topping they would like to add.
             System.out.println("Please enter the topping you would like to add:\t");
@@ -46,21 +34,21 @@ public class IceCreamDemo {
             //Adding a topping to the icecream.
             String myTopping = Sherbet.addTopping(selectedTopping);
             //Printing out the topping.
-            // System.out.println("The topping you selected is, " + myTopping);
+            System.out.println("The topping you selected is, " + myTopping);
             //Printing the details of the icecream.
             Sherbet.printToppings();
             //Asking the user if they would like to stop adding toppings.
-            // System.out.println("Would you like to add any other toppings?\nPlease enter yes or no (Y/N):\t");
-            // //Allowing the user to input a choice.
-            // Continue = keyboard.nextLine();
+            System.out.println("Would you like to add any other toppings?\nPlease enter yes or no (Y/N):\t");
+            //Allowing the user to input a choice.
+            userContinue = keyboard.nextLine();
             //Checking if the user entered no.
-            // if(Continue == "No")
-            // {
-            //     //Notifying the user we are exiting the program.
-            //     System.out.println("Now exiting the program.");
-            //     //Breaking out of the loop.
-            //     break;
-            // }
+            if(userContinue == "No")
+            {
+                //Notifying the user we are exiting the program.
+                System.out.println("Now exiting the program.");
+                //Breaking out of the loop.
+                break;
+            }
         }
     }
 }
