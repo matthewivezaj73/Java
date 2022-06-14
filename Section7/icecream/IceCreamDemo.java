@@ -41,6 +41,7 @@ public class IceCreamDemo {
             if(userContinue == "No")
             {
                 //Notifying the user we are exiting the program.
+                System.out.println("Now exiting the program.");
             }
         }
     }
