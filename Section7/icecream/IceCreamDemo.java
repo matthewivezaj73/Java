@@ -50,9 +50,9 @@ public class IceCreamDemo {
             //Printing the details of the icecream.
             Sherbet.printToppings();
             //Asking the user if they would like to stop adding toppings.
-            System.out.println("Would you like to add any other toppings?\nPlease enter yes or no (Y/N):\t");
-            //Allowing the user to input a choice.
-            Continue = keyboard.nextLine();
+            // System.out.println("Would you like to add any other toppings?\nPlease enter yes or no (Y/N):\t");
+            // //Allowing the user to input a choice.
+            // Continue = keyboard.nextLine();
             //Checking if the user entered no.
             // if(Continue == "No")
             // {
