@@ -26,6 +26,9 @@ public class IceCreamDemo {
         userContinue = keyboard.nextLine();
         //If the user enters yes.
         if(userContinue.length() > 1)
+        {
+            
+        }
         //Creating a while loop.
         while(userContinue != "No")
         {
