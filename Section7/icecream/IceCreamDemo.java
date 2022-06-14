@@ -37,6 +37,7 @@ public class IceCreamDemo {
             System.out.println("Would you like to add any other toppings?\nPlease enter yes or no (Y/N):\t");
             //Allowing the user to input a choice.
             userContinue = keyboard.nextLine();
+            //Checking if the user entered no.
         }
     }
 }
