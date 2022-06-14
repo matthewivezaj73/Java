@@ -19,13 +19,13 @@ public class IceCreamDemo {
         //Creating an icecream object.
         IceCream Sherbet = new IceCream();
         //Creating a flag.
-        char userContinue;
+        String userContinue = "";
         //Asking the user if they would like to add a topping.
         System.out.println("Would you like to add a topping to your icecream?\nPlease enter Yes or No:\t");
         //Allowing the user to add a topping.
-        userContinue = keyboard.nextLine().charAt(0);
+        userContinue = keyboard.nextLine();
         //Creating a while loop.
-        while(userContinue == "N")
+        while(userContinue != "No")
         {
             //Asking the user what type of topping they would like to add.
             System.out.println("Please enter the topping you would like to add:\t");
