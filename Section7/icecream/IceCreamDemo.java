@@ -18,11 +18,6 @@ public class IceCreamDemo {
         String selectedTopping;
         //Creating an icecream object.
         IceCream Sherbet = new IceCream();
-        //Creating an int.
-        int userContinue = 0;
-        //While the user enters yes.
-        while(userContinue != 1)
-        {
             //Asking the user what type of topping they would like to add.
             System.out.println("Please enter the topping you would like to add:\t");
             //Allowing the user to enter a topping.
@@ -35,8 +30,5 @@ public class IceCreamDemo {
             Sherbet.printToppings();
             //Asking the user if they would like to stop adding toppings.
             System.out.println("Would you like to add any other toppings?\nPlease enter 0 or 1 (0 for yes and 1 for no):\t");
-            //Allowing the user to input a choice.
-            userContinue = keyboard.nextInt();
-        }
     }
 }
