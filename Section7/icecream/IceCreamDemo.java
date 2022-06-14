@@ -24,7 +24,7 @@ public class IceCreamDemo {
         System.out.println("Would you like to add a topping to your icecream?\nPlease enter Yes or No:\t");
         //Allowing the user to add a topping.
         userContinue = keyboard.nextLine();
-        //If the user enters yes.
+        //While the user enters yes.
         while(userContinue.length() > 1)
         {
             //Asking the user what type of topping they would like to add.
