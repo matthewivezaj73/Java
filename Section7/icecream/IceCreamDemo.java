@@ -21,7 +21,7 @@ public class IceCreamDemo {
         //Creating an int.
         int userContinue = 0;
         //While the user enters yes.
-        while(userContinue < 1)
+        while(userContinue == 1)
         {
             //Asking the user what type of topping they would like to add.
             System.out.println("Please enter the topping you would like to add:\t");
