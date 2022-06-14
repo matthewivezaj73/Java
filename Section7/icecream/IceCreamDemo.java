@@ -34,6 +34,7 @@ public class IceCreamDemo {
         catch(Exception e)
         {
             //Telling the user that the entered value is not a 1 or 0.
+            System.out.println("Please enter a 0 or 1:\t");
         }
         //Creating a while loop.
         while(userContinue != 1)
