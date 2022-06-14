@@ -30,7 +30,7 @@ public class IceCreamDemo {
             //Allowing the user to add a topping.
             userContinue = keyboard.nextInt();
         }
-        
+        //Creating a catch block.
         //Creating a while loop.
         while(userContinue != 1)
         {
