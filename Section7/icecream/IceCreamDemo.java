@@ -25,7 +25,7 @@ public class IceCreamDemo {
         //Adding a topping to the icecream.
         Sherbet.addTopping(keyboard.nextLine());
         //Printing out the topping.
-        System.out.println("The topping you selected is, " + myTopping);
+        System.out.println();
         //Printing the details of the icecream.
         Sherbet.printToppings();
     }
