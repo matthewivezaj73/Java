@@ -44,7 +44,7 @@ public class IceCreamDemo {
             //Allowing the user to input a choice.
             Continue = keyboard.nextLine();
             //Checking if the user entered no.
-            if(userContinue == "No")
+            if(Continue == "No")
             {
                 //Notifying the user we are exiting the program.
                 System.out.println("Now exiting the program.");
