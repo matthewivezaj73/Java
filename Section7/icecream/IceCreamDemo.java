@@ -23,7 +23,7 @@ public class IceCreamDemo {
         //Asking the user if they would like to add a topping.
         System.out.println("Would you like to add a topping to your icecream?\nPlease enter Yes or No:\t");
         //Allowing the user to add a topping.
-        userContinue = keyboard.nextLine()..charAt(0);
+        userContinue = keyboard.nextLine().charAt(0);
         //Creating a while loop.
         while(userContinue != "No")
         {
