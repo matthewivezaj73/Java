@@ -24,6 +24,7 @@ public class IceCreamDemo {
         String Continue;
         //Asking the user if they would like to add a topping.
         System.out.println("Would you like to add a topping to your icecream?\nPlease enter 0 for Yes or 1 No:\t");
+        //Creating a try block.
         //Allowing the user to add a topping.
         userContinue = keyboard.nextInt();
         //Creating a while loop.
