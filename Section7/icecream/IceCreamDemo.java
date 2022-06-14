@@ -25,7 +25,7 @@ public class IceCreamDemo {
         //Allowing the user to add a topping.
         userContinue = keyboard.nextLine();
         //Creating a while loop.
-        while(userContinue == "No")
+        while(userContinue == "Yes")
         {
             //Asking the user what type of topping they would like to add.
             System.out.println("Please enter the topping you would like to add:\t");
