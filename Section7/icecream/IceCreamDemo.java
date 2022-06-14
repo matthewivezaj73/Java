@@ -23,7 +23,7 @@ public class IceCreamDemo {
         //Allowing the user to enter a topping.
         
         //Adding a topping to the icecream.
-        String myTopping = Sherbet.addTopping(keyboard.nextLine());
+        Sherbet.addTopping(keyboard.nextLine());
         //Printing out the topping.
         System.out.println("The topping you selected is, " + myTopping);
         //Printing the details of the icecream.
