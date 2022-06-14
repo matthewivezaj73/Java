@@ -43,6 +43,7 @@ public class IceCreamDemo {
                 //Notifying the user we are exiting the program.
                 System.out.println("Now exiting the program.");
                 //Breaking out of the loop.
+                break;
             }
         }
     }
