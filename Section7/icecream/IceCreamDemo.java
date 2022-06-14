@@ -31,6 +31,10 @@ public class IceCreamDemo {
             userContinue = keyboard.nextInt();
         }
         //Creating a catch block.
+        catch(Exception e)
+        {
+            
+        }
         //Creating a while loop.
         while(userContinue != 1)
         {
