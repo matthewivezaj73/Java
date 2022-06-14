@@ -21,6 +21,7 @@ public class IceCreamDemo {
         //Creating a flag.
         String userContinue = "";
         //Asking the user if they would like to add a topping.
+        System.out.println("Would you like to add a topping to your icecream?\nPlease enter Yes or No:\t");
         // //Creating a while loop.
         while(userContinue != "No")
         {
