@@ -23,10 +23,7 @@ public class IceCreamDemo {
         // //Creating a while loop.
         while(userContinue != "No")
         {
-            //Asking the user what type of topping they would like to add.
-            System.out.println("Please enter the topping you would like to add:\t");
-            //Allowing the user to enter a topping.
-            selectedTopping = keyboard.nextLine();
+
             //Adding a topping to the icecream.
             String myTopping = Sherbet.addTopping(selectedTopping);
             //Printing out the topping.
