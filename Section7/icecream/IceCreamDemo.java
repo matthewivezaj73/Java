@@ -18,7 +18,7 @@ public class IceCreamDemo {
         String selectedTopping;
         //Creating an icecream object.
         IceCream Sherbet = new IceCream();
-        //Creating a flag.
+        //Creating an int.
         int userContinue = "";
         //While the user enters yes.
         while(userContinue.length() > 1)
