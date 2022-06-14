@@ -50,5 +50,6 @@ public class IceCream {
     public void printToppings()
     {
         //Creating a for loop.
+        for(int topping; topping < )
     }
 }
