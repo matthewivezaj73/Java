@@ -33,7 +33,7 @@ public class IceCreamDemo {
         //Creating a catch block.
         catch(Exception e)
         {
-            
+            //Telling the user that the entered value is not a 1 or 0.
         }
         //Creating a while loop.
         while(userContinue != 1)
