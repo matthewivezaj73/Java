@@ -40,7 +40,7 @@ public class IceCreamDemo {
             //Asking the user if they would like to stop adding toppings.
             System.out.println("Would you like to add any other toppings?\nPlease enter yes or no (Y/N):\t");
             //Allowing the user to input a choice.
-            userContinue = keyboard.nextLine();
+            Continue = keyboard.nextLine();
             //Checking if the user entered no.
             if(userContinue == "No")
             {
