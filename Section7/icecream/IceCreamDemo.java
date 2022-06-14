@@ -19,7 +19,7 @@ public class IceCreamDemo {
         //Creating an icecream object.
         IceCream Sherbet = new IceCream();
         //Creating an int.
-        int userContinue = "";
+        int userContinue = 0;
         //While the user enters yes.
         while(userContinue.length() > 1)
         {
