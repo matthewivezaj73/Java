@@ -25,6 +25,7 @@ public class IceCreamDemo {
         //Allowing the user to add a topping.
         userContinue = keyboard.nextLine();
         //If the user enters yes.
+        if(userContinue.length() > 1)
         //Creating a while loop.
         while(userContinue != "No")
         {
