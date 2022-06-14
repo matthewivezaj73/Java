@@ -49,6 +49,6 @@ public class IceCream {
     //Creating a constructor to print the toppings added.
     public void printToppings()
     {
-
+        //Creating a for loop.
     }
 }
