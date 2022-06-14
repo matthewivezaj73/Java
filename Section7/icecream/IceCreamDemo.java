@@ -20,10 +20,10 @@ public class IceCreamDemo {
         IceCream Sherbet = new IceCream();
         //Creating a flag.
         String userContinue = "";
-            //Asking the user what type of topping they would like to add.
-            System.out.println("Please enter the topping you would like to add:\t");
-            //Allowing the user to enter a topping.
-            selectedTopping = keyboard.nextLine();
+        //Asking the user what type of topping they would like to add.
+        System.out.println("Please enter the topping you would like to add:\t");
+        //Allowing the user to enter a topping.
+        selectedTopping = keyboard.nextLine();
         // //Creating a while loop.
         while(userContinue != "No")
         {
