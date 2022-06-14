@@ -38,6 +38,10 @@ public class IceCreamDemo {
             //Allowing the user to input a choice.
             userContinue = keyboard.nextLine();
             //Checking if the user entered no.
+            if(userContinue == "No")
+            {
+                
+            }
         }
     }
 }
